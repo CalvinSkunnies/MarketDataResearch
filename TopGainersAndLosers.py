@@ -1,9 +1,10 @@
 import requests
 import pandas as pd
+import time
 from datetime import datetime
 
-# 1. Fetch market data
-def fetch_market_data(vs_currency="usd", per_page=250, page=1):
+# 1. Fetch market data (with rate-limit retry)
+def fetch_market_data(vs_currency="usd", per_page=250, page=1, retries=3):
     url = "https://api.coingecko.com/api/v3/coins/markets"
     params = {
         "vs_currency": vs_currency,
@@ -13,34 +14,60 @@ def fetch_market_data(vs_currency="usd", per_page=250, page=1):
         "sparkline": False,
         "price_change_percentage": "24h"
     }
-    response = requests.get(url, params=params)
-    response.raise_for_status()
-    time.sleep(1.25)  # Respect rate limit: max 1 request per 1.2s
-    return response.json()
 
-# 2. Get top gainers & losers
-def get_gainers_losers(data, top_n=10):
+    headers = {
+        "Accept": "application/json",
+        "User-Agent": "TopMoversBot/1.0"
+    }
+
+    for attempt in range(retries):
+        response = requests.get(url, params=params, headers=headers)
+
+        if response.status_code == 200:
+            time.sleep(1.25)  # respect rate limit
+            return response.json()
+
+        elif response.status_code == 429:
+            wait_time = 10 * (attempt + 1)
+            print(f"⚠️ Rate limited (429). Retrying in {wait_time}s...")
+            time.sleep(wait_time)
+
+        else:
+            print(f"❌ Request failed with {response.status_code}: {response.text}")
+            break
+
+    raise Exception("❌ Failed after retries due to rate limiting.")
+
+# 2. Process and label gainers & losers
+def get_combined_movers(data, top_n=10):
     df = pd.DataFrame(data)
     df = df[["id", "symbol", "name", "current_price", "price_change_percentage_24h"]].dropna()
 
     gainers = df.sort_values(by="price_change_percentage_24h", ascending=False).head(top_n)
+    gainers["type"] = "gainer"
+
     losers = df.sort_values(by="price_change_percentage_24h", ascending=True).head(top_n)
-    return gainers, losers
+    losers["type"] = "loser"
+
+    combined = pd.concat([gainers, losers], ignore_index=True)
+    return combined
 
 # 3. Save to CSV
-def save_to_csv(gainers, losers, filename):
-    with open(filename, "w", encoding="utf-8", newline="") as f:
-        f.write("Top 10 Gainers (24h)\n")
-        gainers.to_csv(f, index=False)
-        f.write("\nTop 10 Losers (24h)\n")
-        losers.to_csv(f, index=False)
-    print(f"✅ Data saved to {filename}")
+def save_to_csv(df, filename):
+    df.to_csv(filename, index=False)
+    print(f"✅ Combined movers saved to {filename}")
 
-# --- Run the script ---
+# 4. Main execution
 if __name__ == "__main__":
     try:
-        market_data = fetch_market_data()
-        gainers, losers = get_gainers_losers(market_data)
-        save_to_csv(gainers, losers, f"TopGainersLosers.csv")
+        print("📡 Fetching CoinGecko market data...")
+        data = fetch_market_data()
+
+        movers = get_combined_movers(data)
+        
+        filename = f"TopGainersAndLosers.csv"
+
+        save_to_csv(movers, filename)
+
     except Exception as e:
-        print("❌ Error:", e)
+        print(f"❌ Error: {e}")
