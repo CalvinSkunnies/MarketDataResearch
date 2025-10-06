@@ -2,7 +2,7 @@ name: Scheduled Python Script
 
 on:
   schedule:
-    #- cron: '0 */120 * * *'  # Runs every 5 days
+    - cron: '0 */120 * * *'  # Runs every 5 days
   push:
     branches:
       - main
