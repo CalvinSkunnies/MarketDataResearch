@@ -8,7 +8,6 @@ Uniswap V4,"['Ethereum', 'Unichain', 'OP Mainnet', 'Base', 'Arbitrum', 'Polygon'
 Raydium AMM,['Solana'],Dexs,534171622,4255165299.0,21042960298.0,7.2,-5.75,-19.65
 Orca DEX,"['Solana', 'Eclipse']",Dexs,428783261,3569734056.0,20371681729.0,-22.98,25.45,-44.23
 Meteora Dynamic Bonding Curve,['Solana'],Launchpad,380123408,2668617449.0,10980070118.0,-2.58,1.99,-31.3
-Curve DEX,"['Ethereum', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Polygon', 'Base', 'Gnosis', 'Fraxtal', 'Sonic', 'Hyperliquid L1', 'Plasma']",Dexs,320007966,2312827974.0,11173113822.0,-30.67,128.27,-62.06
 PancakeSwap Infinity,"['BSC', 'Base']",Dexs,311118792,2266297998.0,7948201569.0,-20.95,-2.69,197.16
 Meteora DLMM,['Solana'],Dexs,246577529,2458351363.0,11378090693.0,-35.91,-0.63,-42.04
 Fluid DEX,"['Ethereum', 'Arbitrum', 'Polygon', 'Base', 'Plasma']",Dexs,245750941,4442883530.0,25744747130.0,-70.41,-47.55,-93.37
@@ -19,6 +18,7 @@ Tessera V,['Solana'],Dexs,147667150,1280713733.0,6961060605.0,-18.98,1.98,-70.68
 Kalshi,['Off Chain'],Prediction Market,142415646,975406327.0,4184435539.0,0.0,-37.96,102.16
 Momentum,['Sui'],Dexs,137502631,1994818176.0,13049551099.0,-61.73,-66.26,10.49
 Polymarket,['Polygon'],Prediction Market,134233670,784803203.0,2480898046.0,31.63,12.9,163.97
+Curve DEX,"['Ethereum', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Polygon', 'Base', 'Gnosis', 'Fraxtal', 'Sonic', 'Hyperliquid L1', 'Plasma']",Dexs,114313601,2312827974.0,11173113822.0,-75.23,-18.46,-86.45
 Project X,['Hyperliquid L1'],Dexs,110903894,982097670.0,4938537862.0,6.64,10.57,-55.55
 Joe V2.2,"['Avalanche', 'Arbitrum']",Dexs,90320508,787218524.0,5123477093.0,-42.48,-3.2,-67.67
 Hyperion,['Aptos'],Dexs,88571763,728389301.0,3808890339.0,-5.67,0.43,-53.44
@@ -78,10 +78,10 @@ PulseX V2,['PulseChain'],Dexs,7953127,35228297.0,193465503.0,59.19,138.25,24.41
 1DEX,['Vaulta'],Dexs,7938659,113616180.0,594932848.0,-44.03,-30.02,-65.02
 Hydration DEX,['Hydration'],Dexs,7695641,64626237.0,392382254.0,-28.8,-9.7,-46.33
 SaucerSwap V2,['Hedera'],Dexs,7612792,51954808.0,306670177.0,32.81,-57.43,3.38
-ZORA Coins,['Base'],Launchpad,7534071,25157760.0,80886181.0,54.4,303.81,2277.23
 PotatoSwap,['X Layer'],Dexs,7469380,41694950.0,411923770.0,17.78,53.67,-71.96
 Byreal,['Solana'],Dexs,7315780,28776540.0,124687990.0,28.41,25.84,138.97
 SushiSwap V3,"['Arbitrum', 'Ethereum', 'Gnosis', 'Base', 'CORE', 'Blast', 'Rootstock', 'Bittorrent', 'Metis', 'Kava', 'Linea', 'Scroll', 'Sonic', 'Hemi', 'Katana', 'Arbitrum Nova', 'BSC', 'OP Mainnet', 'Polygon', 'Polygon zkEVM', 'ThunderCore', 'Fantom', 'Avalanche']",Dexs,7302513,175195149.0,1369352149.0,-70.97,-57.7,-86.87
+ZORA Coins,['Base'],Launchpad,6944893,25157760.0,80886181.0,42.33,272.23,2091.33
 PulseX V1,['PulseChain'],Dexs,6881466,37332939.0,211875621.0,-3.46,72.62,-41.5
 Ultrasolid V3,['Hyperliquid L1'],Dexs,6587918,52937285.0,369212488.0,10.41,-39.23,-76.1
 ThalaSwap V2,['Aptos'],Dexs,6290835,21744835.0,812070240.0,33.86,-56.88,-83.07
@@ -370,7 +370,6 @@ Revoswap,['X Layer'],Dexs,5775,67561.0,717497.0,0.0,-25.85,
 Joe V2,"['Avalanche', 'Arbitrum', 'BSC']",Dexs,5605,199844.0,1045311.0,-62.07,-75.71,-77.81
 Thick,"['Fantom', 'Arbitrum', 'Base', 'Sonic']",Dexs,5575,166989.0,757450.0,-76.72,-63.76,-77.78
 Drift AMM,['Solana'],Dexs,5492,790558.0,7783949.0,-92.99,-96.14,-99.52
-STEAMM,['Sui'],Dexs,5396,3871038.0,82604321.0,-99.48,-98.93,-99.99
 Swop,"['Waves', 'Unit Zero']",Dexs,5331,272522.0,1875658.0,-48.49,-96.13,-91.53
 SMARDEX AMM,"['Arbitrum', 'Base', 'BSC', 'Ethereum', 'Polygon']",Dexs,5277,99976.0,595230.0,-29.37,-61.11,-68.19
 OolongSwap,['Boba'],Dexs,5268,46899.0,133334.0,-70.06,112.59,137.08
@@ -391,6 +390,7 @@ ColorPool,['Chromia'],Dexs,3968,162106.0,865466.0,-83.41,-33.84,-80.35
 Nile Legacy,['Linea'],Dexs,3905,34635.0,154856.0,33.73,74.1,-43.87
 SMARDEX USDN,['Ethereum'],Basis Trading,3856,534765.0,4064700.0,-78.91,-93.55,-98.23
 SpookySwap V2,"['Fantom', 'Sonic']",Dexs,3773,36274.0,215040.0,-22.16,203.3,-78.14
+STEAMM,['Sui'],Dexs,3736,3871038.0,82604321.0,-99.64,-99.26,-99.99
 Elexium,['Alephium'],Dexs,3676,175027.0,700400.0,-85.87,200.57,-88.84
 YeiSwap,['Sei'],Dexs,3662,797321.0,67166703.0,-47.08,-99.8,-99.93
 SparkDEX V2,['Flare'],Dexs,3651,17722.0,62655.0,72.05,46.98,1154.64
