@@ -1,15 +1,15 @@
 name,chains,category,total24h,total7d,total30d,change_1d,change_7d,change_1m
 Uniswap V3,"['Arbitrum', 'Base', 'Avalanche', 'World Chain', 'Plasma', 'Ethereum', 'OP Mainnet', 'Polygon', 'ZKsync Era', 'Sei', 'Unichain', 'Taiko', 'Scroll', 'Rootstock', 'Filecoin', 'Boba', 'Mantle', 'Linea', 'Polygon zkEVM', 'Blast', 'Gnosis', 'BOB', 'Lisk', 'Corn', 'GOAT', 'BSC', 'Hemi', 'XDC', 'LightLink', 'Lens', 'Telos', 'Celo', 'Nibiru']",Dexs,2611950531,14652896929.0,78197363233.0,106.13,15.19,72.98
-PancakeSwap AMM V3,"['Solana', 'BSC', 'Ethereum', 'Polygon zkEVM', 'ZKsync Era', 'Arbitrum', 'Linea', 'Base', 'opBNB']",Dexs,1552699227,14523496843.0,84339402217.0,-8.54,-29.8,-40.65
+PancakeSwap AMM V3,"['Solana', 'BSC', 'Ethereum', 'Polygon zkEVM', 'ZKsync Era', 'Arbitrum', 'Linea', 'Base', 'opBNB']",Dexs,1833615844,14523496843.0,84339402217.0,8.01,-17.1,-29.91
 HumidiFi,['Solana'],Dexs,1432262981,7828267143.0,36371974741.0,98.77,30.73,150.53
 Uniswap V2,"['BSC', 'Arbitrum', 'Ethereum', 'Polygon', 'Base', 'OP Mainnet', 'Unichain']",Dexs,1139930837,9856346729.0,55648525554.0,-40.89,6.38,-5.44
+PancakeSwap Infinity,"['BSC', 'Base']",Dexs,1100926851,3629471648.0,10666108215.0,122.27,244.37,302.34
 Curve DEX,"['Ethereum', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Polygon', 'Base', 'Gnosis', 'Fraxtal', 'Sonic', 'Hyperliquid L1', 'Plasma']",Dexs,1095538209,2529739357.0,11136644944.0,588.43,79.39,515.81
-PancakeSwap Infinity,"['BSC', 'Base']",Dexs,1013445910,3629471648.0,10666108215.0,104.61,217.01,270.37
-Uniswap V4,"['Ethereum', 'Unichain', 'OP Mainnet', 'Base', 'Arbitrum', 'Polygon', 'Blast', 'Zora', 'World Chain', 'Ink', 'Soneium', 'Avalanche', 'BSC']",Dexs,1003994575,5493252376.0,32805268095.0,124.39,-16.26,32.32
+Uniswap V4,"['Ethereum', 'Unichain', 'OP Mainnet', 'Base', 'Arbitrum', 'Polygon', 'Blast', 'Zora', 'World Chain', 'Ink', 'Soneium', 'Avalanche', 'BSC']",Dexs,974582779,5493252376.0,32805268095.0,117.81,-18.71,28.44
 Fluid DEX,"['Ethereum', 'Arbitrum', 'Polygon', 'Base', 'Plasma']",Dexs,806970794,3652307936.0,21808185780.0,214.37,9.46,83.6
-Orca DEX,"['Solana', 'Eclipse']",Dexs,708148556,4060069961.0,20602259652.0,158.0,33.6,89.93
 Raydium AMM,['Solana'],Dexs,677879323,5086857571.0,21462974473.0,60.37,-3.74,24.2
 Aerodrome Slipstream,['Base'],Dexs,671595424,4011595192.0,20739541838.0,75.85,1.0,32.93
+Orca DEX,"['Solana', 'Eclipse']",Dexs,654349070,4060069961.0,20602259652.0,138.4,23.45,75.5
 Meteora DLMM,['Solana'],Dexs,582920456,4368010747.0,14271569068.0,108.46,-24.75,178.99
 Hyperliquid Spot Orderbook,['Hyperliquid L1'],Dexs,372136175,2030332369.0,11393720558.0,104.05,24.19,28.16
 Meteora Dynamic Bonding Curve,['Solana'],Launchpad,338219319,2376710876.0,10899405025.0,-4.64,-10.53,-4.43
@@ -339,7 +339,7 @@ MDEX,"['BSC', 'Heco', 'Bittorrent']",Dexs,39296,186499.0,2084618.0,154.95,21.78,
 Consensus Liquidity DEX,['Kaia'],Dexs,38937,91053.0,672587.0,218.4,346.78,514.92
 Kriya CLMM,['Sui'],Dexs,38260,212377.0,2154741.0,220.33,52.81,-58.68
 HbarSuite,['Hedera'],Dexs,38258,405221.0,1607656.0,-27.53,41.04,17.48
-Alpha Arcade,['Algorand'],Prediction Market,37096,386023.0,1504891.0,-68.18,1.9,-21.06
+Alpha Arcade,['Algorand'],Prediction Market,36179,386023.0,1504891.0,-68.96,-0.62,-23.02
 Dinosaur Eggs,['BSC'],Dexs,35732,206940.0,2423489.0,107.91,-0.22,-49.96
 WanSwap Dex,['Wanchain'],Dexs,34362,279336.0,3802443.0,23.29,-20.31,121.93
 ApertureSwap,['Manta'],Dexs,34179,78010.0,143840.0,6614.93,860.62,1010.79
@@ -410,8 +410,8 @@ WinerySwap,['BSC'],Dexs,10983,32698.0,244528.0,772.36,98.39,215.51
 SwapBased AMM,['Base'],Dexs,10524,117663.0,461414.0,-19.88,-16.67,20.76
 SupSwap V3,['Mode'],Dexs,10495,35263.0,169129.0,234.45,249.25,1750.97
 Solarbeam,['Moonriver'],Dexs,10344,18637.0,102266.0,55.01,251.48,879.55
+XSwap V2,['XDC'],Dexs,10282,79031.0,471614.0,-24.97,-17.76,-3.65
 BitGenie AMM,['Merlin'],Dexs,10189,70612.0,282125.0,37.43,3.95,5.11
-XSwap V2,['XDC'],Dexs,10159,79031.0,471614.0,-25.86,-18.75,-4.81
 Titano Swych,['BSC'],Dexs,10099,30298.0,286586.0,441.21,103.98,-4.76
 Oswap AMM,['Obyte'],Dexs,9854,19255.0,80855.0,509.4,659.17,379.75
 Meshswap,['Polygon'],Dexs,9673,31973.0,241171.0,242.16,184.42,615.99
