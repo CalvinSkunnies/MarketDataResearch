@@ -22,7 +22,7 @@ Obric,['Solana'],Dexs,122486523,687695169.0,1028734503.0,44.65,43.31,699.43
 Ekubo,"['Starknet', 'Ethereum']",Dexs,118412840,886226446.0,3650404432.0,0.11,-6.95,15.39
 Blackhole CLMM,['Avalanche'],Dexs,113591162,754758368.0,3734419639.0,32.93,-12.13,-41.85
 NEAR Intents,['Near'],Bridge,108334721,975275455.0,2380957522.0,22.17,8.35,65.54
-OPINION,['BSC'],Prediction Market,107480865,722520415.0,1692530918.0,-15.37,49.61,
+OPINION,['BSC'],Prediction Market,108225506,722520415.0,1692530918.0,-14.78,50.65,
 SushiSwap,"['Ethereum', 'Polygon', 'Arbitrum', 'CORE', 'Blast', 'Katana', 'Fantom', 'Avalanche', 'Fuse', 'Harmony']",Dexs,106025970,547432468.0,2594704104.0,74.94,49.68,-5.81
 Tessera V,['Solana'],Dexs,103426119,1338813641.0,6730373474.0,-15.21,-68.12,-71.71
 Native Swap,"['BSC', 'Ethereum', 'Arbitrum', 'Base']",Dexs,101671179,643941875.0,2571920157.0,35.08,33.39,-50.49
@@ -94,8 +94,8 @@ TanX.fi,['Ethereum'],Dexs,6399408,44012078.0,178001680.0,16.19,12.72,-3.56
 Hybra V3,['Hyperliquid L1'],Dexs,6241164,56719623.0,380013701.0,20.34,-35.36,-79.17
 Joe V2.1,"['Avalanche', 'Arbitrum', 'BSC', 'Ethereum']",Dexs,6197266,43028179.0,278559242.0,11.81,257.5,-32.7
 LaunchLab,['Solana'],Launchpad,6039929,12214352.0,31259475.0,599.29,2248.94,3929.47
+Angstrom,['Ethereum'],Dexs,6024642,35762810.0,155550407.0,59.71,-8.59,-0.01
 Byreal,['Solana'],Dexs,5882584,51271892.0,318444578.0,21.07,-42.58,-56.83
-Angstrom,['Ethereum'],Dexs,5834807,35762810.0,155550407.0,54.67,-11.47,-3.16
 Maverick V1,"['BSC', 'Base', 'ZKsync Era', 'Ethereum']",Dexs,5701119,10791851.0,43458427.0,373.96,226.05,37.59
 Integral,"['Arbitrum', 'Ethereum']",Dexs,5674179,37793013.0,210761338.0,17.55,-31.01,0.11
 Balancer V2,"['Ethereum', 'Arbitrum', 'Avalanche', 'Base', 'Fraxtal', 'Gnosis', 'Mode', 'OP Mainnet', 'Polygon']",Dexs,5659215,34201341.0,396814014.0,149.76,-76.29,-91.26
@@ -149,6 +149,7 @@ Katana DEX V3,['Ronin'],Dexs,1272725,13699827.0,50585282.0,41.85,-38.66,-73.06
 THENA FUSION,['BSC'],Dexs,1248819,15956994.0,70032263.0,-25.88,-47.38,-77.99
 Lynex V2,['Linea'],Dexs,1239923,14786917.0,79386903.0,9.86,-67.13,-79.59
 Saber,['Solana'],Dexs,1210500,8394065.0,38520281.0,-0.46,-1.78,-6.0
+ZORA Coins,['Base'],Launchpad,1190536,6407860.0,70213394.0,106.7,17.34,-49.2
 Astroport,"['Terra2', 'Injective', 'Neutron', 'Sei', 'Osmosis']",Dexs,1189642,6589169.0,27472307.0,94.59,-24.96,23.17
 DeDust,['TON'],Dexs,1161480,7282281.0,27096142.0,59.7,-46.54,-39.67
 Clipper,"['Ethereum', 'OP Mainnet', 'Arbitrum', 'Polygon', 'Moonbeam', 'Base', 'Mantle', 'Polygon zkEVM']",Dexs,1149370,8063681.0,37269045.0,47.94,-8.61,-43.93
@@ -162,7 +163,6 @@ Bulla Exchange,['Berachain'],Dexs,1038327,11582716.0,42252397.0,-43.08,81.35,-59
 Fulcrom AMM,"['Cronos', 'ZKsync Era', 'Cronos zkEVM']",Dexs,1009628,5838524.0,23676515.0,285.71,-24.48,-42.39
 2THICK,['Sonic'],Dexs,999874,12429255.0,34368573.0,-33.47,-27.07,-77.24
 Helix Spot,['Injective'],Dexs,979992,7889421.0,41854197.0,20.22,-24.01,-9.13
-ZORA Coins,['Base'],Launchpad,977522,6407860.0,70213394.0,69.71,-3.65,-58.29
 mySwap CL,['Starknet'],Dexs,944845,6613915.0,28345350.0,0.0,0.0,0.0
 Thruster V3,['Blast'],Dexs,935767,5812473.0,22080847.0,114.95,-20.9,-24.53
 Aftermath AMM,['Sui'],Dexs,931476,2498316.0,6502217.0,703.61,253.6,4.03
@@ -225,11 +225,11 @@ InitiaDEX,['Initia'],Dexs,318586,2629265.0,11951809.0,-20.45,-30.81,-77.17
 SUNSwap V1,['Tron'],Dexs,314861,1978769.0,12546879.0,163.97,-26.61,-64.65
 ICDex,['ICP'],Dexs,309688,1456440.0,1928680.0,1613.16,502.21,859.5
 Verus Market,['Verus'],Dexs,309459,2574226.0,6731163.0,-12.35,1.6,105.73
+Sonex,['Soneium'],Dexs,302005,4988979.0,7321222.0,266.73,-43.87,134.35
 Camelot V2,"['Arbitrum', 'ApeChain', 'Gravity by Galxe', 'Rari', 'ReyaChain', 'Gnosis', 'Sanko']",Dexs,301816,2027051.0,12705581.0,66.14,-40.47,-68.67
 DipCoin Spot,['Sui'],Dexs,299935,1036150.0,1036150.0,-1.19,,
 iZiSwap,"['BSC', 'ZKsync Era', 'Arbitrum', 'Meter', 'Aurora', 'Polygon', 'Mantle', 'OntologyEVM', 'Ultron', 'Linea', 'Scroll', 'Base', 'Manta', 'ZetaChain', 'Mode', 'IoTeX']",Dexs,299649,2223006.0,7173120.0,54.21,9.63,-79.52
 JustBet,['WINR'],Luck Games,295307,619469.0,3789299.0,460.79,500.77,2083.74
-Sonex,['Soneium'],Dexs,293221,4988979.0,7321222.0,256.07,-45.5,127.54
 Scale,['Base'],Dexs,292317,353620.0,1462433.0,1247.58,1920.44,180.0
 Increment Swap,['Flow'],Dexs,287328,3445980.0,8749181.0,-30.64,-40.86,-63.95
 Story Hunt,['Story'],Dexs,280949,2908456.0,18403110.0,-9.19,-58.38,-90.53
