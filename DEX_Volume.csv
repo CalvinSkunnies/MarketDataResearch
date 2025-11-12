@@ -1,13 +1,13 @@
 name,chains,category,total24h,total7d,total30d,change_1d,change_7d,change_1m
 PancakeSwap AMM V3,"['Solana', 'BSC', 'Ethereum', 'Polygon zkEVM', 'ZKsync Era', 'Arbitrum', 'Linea', 'Base', 'opBNB']",Dexs,2067705611,14253911038.0,70431499806.0,-5.98,-32.55,-47.42
 Uniswap V3,"['Arbitrum', 'Base', 'Avalanche', 'World Chain', 'Plasma', 'Ethereum', 'OP Mainnet', 'Polygon', 'ZKsync Era', 'Sei', 'Unichain', 'Taiko', 'Scroll', 'Rootstock', 'Filecoin', 'Boba', 'Mantle', 'Linea', 'Polygon zkEVM', 'Blast', 'Gnosis', 'BOB', 'Lisk', 'Corn', 'GOAT', 'BSC', 'Hemi', 'XDC', 'LightLink', 'Lens', 'Telos', 'Celo', 'Nibiru']",Dexs,1983974070,13288373720.0,68244928284.0,7.39,-47.94,-39.51
-PancakeSwap Infinity,"['BSC', 'Base']",Dexs,1797965140,6913219019.0,16247494541.0,31.25,58.03,814.91
-Uniswap V4,"['Ethereum', 'Unichain', 'OP Mainnet', 'Base', 'Arbitrum', 'Polygon', 'Blast', 'Zora', 'World Chain', 'Ink', 'Soneium', 'Avalanche', 'BSC']",Dexs,788040273,5863516687.0,29248888384.0,10.0,-35.27,-32.39
+PancakeSwap Infinity,"['BSC', 'Base']",Dexs,1239656788,6913219019.0,16247494541.0,-9.5,8.96,530.81
+Uniswap V4,"['Ethereum', 'Unichain', 'OP Mainnet', 'Base', 'Arbitrum', 'Polygon', 'Blast', 'Zora', 'World Chain', 'Ink', 'Soneium', 'Avalanche', 'BSC']",Dexs,732314860,5863516687.0,29248888384.0,2.22,-39.85,-37.17
 Aerodrome Slipstream,['Base'],Dexs,541493159,3772055150.0,18862207389.0,-1.34,-34.23,-45.05
+Fluid DEX,"['Ethereum', 'Arbitrum', 'Polygon', 'Base', 'Plasma']",Dexs,530685054,5070546335.0,20800816719.0,10.01,-58.97,-34.15
 HumidiFi,['Solana'],Dexs,514333971,12650204389.0,39743775458.0,-63.54,-70.72,-69.84
 Orca DEX,"['Solana', 'Eclipse']",Dexs,489920827,3343424459.0,17449309487.0,-1.36,-40.69,-48.0
-Fluid DEX,"['Ethereum', 'Arbitrum', 'Polygon', 'Base', 'Plasma']",Dexs,479411682,5070546335.0,20800816719.0,-0.62,-62.94,-40.51
-Meteora DLMM,['Solana'],Dexs,370492005,3315461698.0,14530598139.0,-47.18,-46.23,-25.63
+Meteora DLMM,['Solana'],Dexs,398909075,3315461698.0,14530598139.0,-43.13,-42.11,-19.93
 Raydium AMM,['Solana'],Dexs,361400078,3830469248.0,19776631675.0,-20.35,-61.14,-47.8
 Curve DEX,"['Ethereum', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Polygon', 'Base', 'Gnosis', 'Fraxtal', 'Sonic', 'Hyperliquid L1', 'Plasma', 'Celo', 'Ink', 'Mantle', 'Unichain']",Dexs,343523469,3763904735.0,12789890912.0,-15.18,-56.27,-3.39
 Hyperliquid Spot Orderbook,['Hyperliquid L1'],Dexs,295414773,1898952323.0,8966116769.0,13.43,-52.48,-38.99
@@ -15,11 +15,11 @@ Tessera V,['Solana'],Dexs,292399838,1318372020.0,6435391059.0,182.71,-6.53,-50.2
 Meteora DAMM V2,['Solana'],Dexs,267330653,1666285564.0,7523798229.0,9.93,48.76,89.12
 Kalshi,['Off Chain'],Prediction Market,137626533,1108387011.0,4734905545.0,0.0,-22.38,-37.75
 Project X,['Hyperliquid L1'],Dexs,132459186,1215871736.0,5397469270.0,-11.27,-51.05,-40.64
-Pendle,"['Ethereum', 'Arbitrum', 'Mantle', 'BSC', 'OP Mainnet']",Yield,132287537,809761004.0,3119998496.0,-15.13,-59.94,23.11
 OPINION,['BSC'],Prediction Market,131207192,741807143.0,1804684554.0,58.31,41.29,
 PumpSwap,['Solana'],Dexs,126445572,1098709131.0,6111524382.0,-3.86,-18.11,-22.41
 Ekubo,"['Starknet', 'Ethereum']",Dexs,123418732,801010355.0,3649482379.0,4.23,-40.84,-0.74
-Mento,['Celo'],Algo-Stables,112082316,690569471.0,1911470139.0,6.47,2.49,90.81
+Mento,['Celo'],Algo-Stables,110214319,690569471.0,1911470139.0,4.7,0.78,87.63
+Pendle,"['Ethereum', 'Arbitrum', 'Mantle', 'BSC', 'OP Mainnet']",Yield,110034180,809761004.0,3119998496.0,-29.41,-66.68,2.4
 Aquifer,['Solana'],Dexs,109460106,582071906.0,1627196452.0,-25.97,458.19,36.33
 NEAR Intents,['Near'],Bridge,106253326,881241880.0,2432875560.0,-1.92,-46.95,95.55
 Pharaoh V3,['Avalanche'],Dexs,104429313,499751681.0,1366162517.0,74.38,21.1,797.27
@@ -34,64 +34,64 @@ Aster Spot,['Off Chain'],Dexs,70957340,1014918722.0,4175354322.0,32.45,-81.25,-7
 pump.fun,['Solana'],Launchpad,70173126,542933822.0,2292979573.0,-29.23,-2.81,66.88
 Uniswap V2,"['Ethereum', 'Polygon', 'Base', 'OP Mainnet', 'Arbitrum', 'BSC', 'Unichain', 'Avalanche', 'Blast', 'Zora']",Dexs,67900935,568941789.0,5016757094.0,-23.83,-45.77,-64.03
 Hyperion,['Aptos'],Dexs,67682982,480754047.0,2802377822.0,2.93,-19.34,-47.47
+SushiSwap,"['Ethereum', 'Polygon', 'Arbitrum', 'CORE', 'Blast', 'Katana', 'Fantom', 'Avalanche', 'Fuse', 'Harmony']",Dexs,65396341,546536462.0,2583582463.0,-19.66,-31.24,-37.92
 Momentum,['Sui'],Dexs,65198839,695933067.0,7314604754.0,-8.83,-78.23,-85.37
 Velodrome V3,"['OP Mainnet', 'Mode', 'Lisk', 'Fraxtal', 'Ink', 'Soneium', 'Unichain', 'Swellchain', 'Celo']",Dexs,63755651,326225091.0,1444114787.0,31.74,-13.93,-9.77
-SushiSwap,"['Ethereum', 'Polygon', 'Arbitrum', 'CORE', 'Blast', 'Katana', 'Fantom', 'Avalanche', 'Fuse', 'Harmony']",Dexs,61999677,546536462.0,2583582463.0,-23.83,-34.81,-41.14
-Native Swap,"['BSC', 'Ethereum', 'Arbitrum', 'Base']",Dexs,61738445,603104700.0,2537225406.0,-49.04,-49.06,-46.34
+Native Swap,"['BSC', 'Ethereum', 'Arbitrum', 'Base']",Dexs,60235486,603104700.0,2537225406.0,-50.28,-50.3,-47.64
 Ring Swap,"['Ethereum', 'Blast', 'BSC', 'Hyperliquid L1']",Dexs,58946334,200196639.0,504352133.0,7.39,45.89,148.17
 Quickswap Dex,"['Polygon', 'Base']",Dexs,54217152,311980442.0,1223638518.0,-4.72,26.86,22.45
 GoonFi,['Solana'],Dexs,49493114,359613643.0,2230574396.0,9.46,-47.59,-71.84
-Bluefin Spot,['Sui'],Dexs,48001235,517551819.0,2404253676.0,-33.23,-67.53,-53.05
-Manifest Trade,['Solana'],Dexs,45437624,446516305.0,1169117237.0,-47.69,28.97,627.29
-Balancer V3,"['Ethereum', 'Gnosis', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Base', 'Hyperliquid L1', 'Plasma']",Dexs,44068750,410089440.0,1877464634.0,-5.72,-47.41,-57.94
-Rhea Dex,['Near'],Dexs,41916223,447999435.0,961718922.0,-45.6,-0.76,-13.63
+Bluefin Spot,['Sui'],Dexs,48404955,517551819.0,2404253676.0,-32.67,-67.25,-52.66
+Manifest Trade,['Solana'],Dexs,47234175,446516305.0,1169117237.0,-45.62,34.07,656.04
+Balancer V3,"['Ethereum', 'Gnosis', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Base', 'Hyperliquid L1', 'Plasma']",Dexs,45417713,410089440.0,1877464634.0,-2.83,-45.8,-56.66
+Rhea Dex,['Near'],Dexs,40417650,447999435.0,961718922.0,-47.54,-4.31,-16.72
 Camelot V3,"['Arbitrum', 'ApeChain', 'Gravity by Galxe', 'Rari', 'ReyaChain', 'Gnosis', 'Sanko']",Dexs,38771995,276400239.0,1362711486.0,5.52,-48.17,-58.09
 Maverick V2,"['Ethereum', 'Arbitrum', 'ZKsync Era', 'BSC', 'Base', 'Scroll']",Dexs,37310055,325745376.0,1390059246.0,15.77,-64.06,23.46
 Aerodrome V1,['Base'],Dexs,37007981,177610833.0,787911708.0,42.92,-10.41,-3.53
+DeepBook V3,['Sui'],Dexs,33326718,306530631.0,1368594218.0,-28.56,-58.51,-65.36
 DODO AMM,"['Arbitrum', 'BSC', 'Ethereum', 'Polygon', 'Avalanche', 'OP Mainnet', 'Base', 'Linea', 'Scroll']",Dexs,33211288,177163857.0,936684023.0,7.49,-44.22,17.5
-DeepBook V3,['Sui'],Dexs,33071768,306530631.0,1368594218.0,-29.11,-58.82,-65.62
 Dexalot DEX,"['Dexalot', 'Avalanche', 'Arbitrum', 'Base', 'BSC']",Dexs,32949259,220398865.0,1035101821.0,42.46,-49.88,-20.01
-Cetus CLMM,"['Sui', 'Aptos']",Dexs,31707218,363025397.0,2346267181.0,-28.27,-69.34,-85.43
 Lifinity V1,['Solana'],Dexs,31430480,209982141.0,1103225495.0,7.46,-57.5,-46.5
+Cetus CLMM,"['Sui', 'Aptos']",Dexs,30913420,363025397.0,2346267181.0,-30.07,-70.11,-85.79
 Etherex CL,['Linea'],Dexs,29768943,186532518.0,1457107959.0,21.3,-55.98,-55.17
 SushiSwap V3,"['Arbitrum', 'Ethereum', 'Gnosis', 'Base', 'CORE', 'Blast', 'Rootstock', 'Bittorrent', 'Metis', 'Kava', 'Linea', 'Scroll', 'Sonic', 'Hemi', 'Katana', 'Arbitrum Nova', 'BSC', 'OP Mainnet', 'Polygon', 'Polygon zkEVM', 'ThunderCore', 'Fantom', 'Avalanche']",Dexs,29711965,199825803.0,946821795.0,56.19,-39.57,-43.18
+PulseX V1,['PulseChain'],Dexs,25144958,55688381.0,226603505.0,288.24,171.94,141.39
 PancakeSwap AMM,"['BSC', 'Ethereum', 'Polygon zkEVM', 'ZKsync Era', 'Arbitrum', 'Linea', 'Base', 'opBNB', 'Aptos']",Dexs,24942626,360697326.0,1272130229.0,-4.04,-53.18,-70.78
-PulseX V1,['PulseChain'],Dexs,23575869,55688381.0,226603505.0,264.01,154.97,126.32
-stabble,['Solana'],Dexs,21313412,158290412.0,780626923.0,-22.06,-62.95,-29.27
 WOOFi Swap,"['Avalanche', 'BSC', 'Fantom', 'Polygon', 'Arbitrum', 'OP Mainnet', 'ZKsync Era', 'Polygon zkEVM', 'Linea', 'Base', 'Mantle', 'Sonic', 'Berachain', 'Hyperliquid L1', 'Solana']",Dexs,20543867,164252384.0,768040712.0,-3.93,-54.06,-42.81
 Ferra DLMM,['Sui'],Dexs,20026782,84682516.0,104064438.0,111.81,318.4,29007.85
-Fluid DEX Lite,['Ethereum'],Dexs,17874452,183421612.0,834182869.0,-15.3,-72.43,-52.45
-1DEX,['Vaulta'],Dexs,17733081,142307388.0,571164641.0,-12.45,-37.05,-34.29
+stabble,['Solana'],Dexs,18907872,158290412.0,780626923.0,-30.86,-67.14,-37.25
+Fluid DEX Lite,['Ethereum'],Dexs,17962882,183421612.0,834182869.0,-14.88,-72.3,-52.21
+1DEX,['Vaulta'],Dexs,17712246,142307388.0,571164641.0,-12.55,-37.13,-34.37
 Tokenlon AMM,['Ethereum'],Dexs,16667184,99407335.0,510526849.0,36.64,-21.78,11.08
 Chainflip,['Chainflip'],Dexs,16574252,173323401.0,587679195.0,-47.4,-48.01,30.24
 Thorchain DEX,['Thorchain'],Dexs,16510198,155122278.0,1065339087.0,-13.34,-47.92,-64.84
 SaucerSwap V2,['Hedera'],Dexs,16424223,101120953.0,395197865.0,56.75,15.27,-25.17
-Meridian AMM,['Movement'],Dexs,16246259,52967457.0,407119505.0,-1.15,,115.98
+Meridian AMM,['Movement'],Dexs,16073042,52967457.0,407119505.0,-2.2,,113.68
 ZeroFi,['Solana'],Dexs,15883655,135185909.0,1088238446.0,15.55,-27.07,-71.64
 SolFi,['Solana'],Dexs,14754783,95238319.0,478486195.0,2.08,-53.23,-66.38
-Meteora DAMM V1,['Solana'],Dexs,13702202,78240430.0,1595596075.0,30.13,-49.79,-89.41
+Meteora DAMM V1,['Solana'],Dexs,13460401,78240430.0,1595596075.0,27.83,-50.67,-89.59
 Quickswap V3,"['Polygon', 'Polygon zkEVM', 'Manta', 'Immutable zkEVM', 'Soneium']",Dexs,13122318,86172003.0,481654225.0,22.83,-39.95,-38.05
 Tapp Exchange,['Aptos'],Dexs,13089947,133249148.0,247805494.0,-22.08,222.73,119.54
 HyperSwap V3,['Hyperliquid L1'],Dexs,12686730,280468283.0,2008075287.0,-64.17,-86.58,-77.07
 XRPL DEX,['XRPL'],Dexs,11923291,76420685.0,221056407.0,119.96,27.35,32.12
 Osmosis DEX,['Osmosis'],Dexs,11243211,83090523.0,369781617.0,7.73,-59.48,-29.56
 PulseX V2,['PulseChain'],Dexs,11040475,36616994.0,183307654.0,104.49,116.09,15.48
+0x,"['Ethereum', 'Polygon', 'BSC', 'OP Mainnet', 'Fantom', 'Celo', 'Avalanche', 'Arbitrum', 'Base']",DEX Aggregator,10717526,86815277.0,462272085.0,-15.45,-67.41,-80.95
 Dragon Swap V3 Sei,['Sei'],Dexs,10183918,85342202.0,401976633.0,-26.56,17.33,-10.4
 Turbos,['Sui'],Dexs,9964713,92004996.0,379066873.0,-21.35,-55.5,-31.96
 Byreal,['Solana'],Dexs,9751643,49751542.0,317060256.0,126.22,31.73,34.19
-THENA INTEGRAL,['BSC'],Dexs,9412301,89228456.0,526582396.0,-9.97,-51.63,-77.9
 Ondo Global Markets,['Ethereum'],RWA,9371641,45229217.0,80235816.0,-2.26,99.11,
 Kittenswap Algebra,['Hyperliquid L1'],Dexs,9209171,32556789.0,109236484.0,33.14,54.76,247.1
-0x,"['Ethereum', 'Polygon', 'BSC', 'OP Mainnet', 'Fantom', 'Celo', 'Avalanche', 'Arbitrum', 'Base']",DEX Aggregator,8965245,86815277.0,462272085.0,-29.27,-72.74,-84.06
-Hydration DEX,['Hydration'],Dexs,8711888,105687163.0,460987678.0,-30.07,-58.27,-56.3
+Hydration DEX,['Hydration'],Dexs,8709586,105687163.0,460987678.0,-30.08,-58.28,-56.31
+THENA INTEGRAL,['BSC'],Dexs,8245413,89228456.0,526582396.0,-21.13,-57.63,-80.64
 Aborean CL,['Abstract'],Dexs,8145668,51659003.0,304273623.0,6.27,-26.26,-41.26
-Kodiak V3,['Berachain'],Dexs,7979416,90865297.0,339032039.0,-31.04,-44.34,-63.46
-DefiTuna AMM,['Solana'],Dexs,7619755,77732902.0,749936369.0,-46.13,-69.41,-87.69
+Kodiak V3,['Berachain'],Dexs,8048520,90865297.0,339032039.0,-30.44,-43.86,-63.14
+DefiTuna AMM,['Solana'],Dexs,7490289,77732902.0,749936369.0,-47.05,-69.93,-87.9
 Pear Protocol,['Arbitrum'],Derivatives,7354355,20243115.0,37360383.0,161.0,177.73,12286.49
 Hashflow,"['Ethereum', 'Avalanche', 'BSC', 'Arbitrum', 'OP Mainnet', 'Polygon', 'Solana']",DEX Aggregator,7185270,160337853.0,483278226.0,-74.04,-84.3,-83.04
+Merchant Moe Liquidity Book,['Mantle'],Dexs,6933530,60145798.0,324283662.0,-7.92,-77.96,-79.93
 GMX V2 AMM,"['Arbitrum', 'Avalanche', 'Botanix', 'Solana']",Dexs,6666239,42303325.0,174681487.0,28.12,-40.59,-43.84
 Shadow Exchange CLMM,['Sonic'],Dexs,6635545,68634218.0,292078761.0,-51.37,-40.77,-48.83
-Merchant Moe Liquidity Book,['Mantle'],Dexs,6422297,60145798.0,324283662.0,-14.71,-79.58,-81.41
 Phoenix,['Solana'],Dexs,6065409,33636687.0,159000985.0,83.73,-54.12,-29.21
 Hybra V4,['Hyperliquid L1'],Dexs,5931336,47791479.0,167155301.0,-9.61,-40.72,
 Joe V2.1,"['Avalanche', 'Arbitrum', 'BSC', 'Ethereum']",Dexs,5338961,45592832.0,276771523.0,-11.83,36.45,-35.4
@@ -99,7 +99,7 @@ Angstrom,['Ethereum'],Dexs,5319917,34258784.0,154881649.0,0.34,-29.1,-20.22
 SparkDEX V3.1,['Flare'],Dexs,5163580,82088421.0,295829251.0,-64.1,-71.86,-50.28
 Hybra V3,['Hyperliquid L1'],Dexs,5113406,48427902.0,362706600.0,-28.68,-63.16,-77.67
 Integral,"['Arbitrum', 'Ethereum']",Dexs,4995048,32292278.0,213660407.0,-14.33,-53.88,105.54
-Metastable,['Sui'],CDP,4951639,82674058.0,253284010.0,-6.09,-83.4,3.53
+Metastable,['Sui'],CDP,4986730,82674058.0,253284010.0,-5.42,-83.28,4.27
 TanX.fi,['Ethereum'],Dexs,4896515,42575472.0,176577309.0,-23.48,-22.68,-22.53
 Lotus Finance,['Sui'],Yield,4577996,20357109.0,43877310.0,19.34,25.17,1559.13
 Pangolin V3,['Avalanche'],Dexs,4563316,31666751.0,159821899.0,0.19,-55.41,-36.07
@@ -114,806 +114,806 @@ RateX,['Solana'],Yield,3023322,13306315.0,76431089.0,9537.31,-0.43,58.17
 FlowX V3,['Sui'],Dexs,3019564,34113985.0,177009415.0,-22.22,-74.85,-53.05
 Etherex Legacy,['Linea'],Dexs,2969603,21160265.0,101880673.0,44.06,-33.61,42.41
 Agni Finance,['Mantle'],Dexs,2952285,32120480.0,180483199.0,-17.75,-84.71,-87.77
-MetalX Dex,['Xpr'],Dexs,2827016,22778081.0,26760194.0,-23.22,-29.01,
-STON.fi,['TON'],Dexs,2806145,26486566.0,111497249.0,-21.01,-50.32,-43.29
-Balancer V2,"['Ethereum', 'Arbitrum', 'Avalanche', 'Base', 'Fraxtal', 'Gnosis', 'Mode', 'OP Mainnet', 'Polygon']",Dexs,2758225,30594424.0,371283899.0,-42.61,-63.9,-90.67
+MetalX Dex,['Xpr'],Dexs,2798369,22778081.0,26760194.0,-24.0,-29.73,
+Balancer V2,"['Ethereum', 'Arbitrum', 'Avalanche', 'Base', 'Fraxtal', 'Gnosis', 'Mode', 'OP Mainnet', 'Polygon']",Dexs,2780450,30594424.0,371283899.0,-42.15,-63.61,-90.59
 Alien Base V2,['Base'],Dexs,2627624,14722401.0,99473614.0,78.47,-70.2,-68.39
-Pinto,['Base'],Algo-Stables,2623952,4716073.0,24582680.0,292.09,2192.16,-26.07
-Enosys AMM V3,['Flare'],Dexs,2400341,28006135.0,91029970.0,-46.72,-57.56,-36.4
+STON.fi,['TON'],Dexs,2606301,26486566.0,111497249.0,-26.64,-53.86,-47.33
+Pinto,['Base'],Algo-Stables,2403258,4716073.0,24582680.0,259.11,1999.37,-32.29
 Katana DEX V3,['Ronin'],Dexs,2371532,13259101.0,51247945.0,86.33,-15.67,38.78
 DragonSwap V3 Kaia,['Kaia'],Dexs,2167335,10908331.0,33667338.0,201.5,29.77,93.88
-VVS Standard,['Cronos'],Dexs,2150756,21216100.0,109447159.0,-43.03,-76.45,-70.1
+VVS Standard,['Cronos'],Dexs,2143683,21216100.0,109447159.0,-43.22,-76.53,-70.2
+Enosys AMM V3,['Flare'],Dexs,2008119,28006135.0,91029970.0,-55.43,-64.5,-46.8
 Aborean AMM,['Abstract'],Dexs,1933603,12474650.0,45758341.0,18.33,-49.87,17.89
 SwapX Algebra,['Sonic'],Dexs,1882229,23511189.0,78689405.0,-58.59,-52.18,-44.5
+Haedal AMM Protocol,['Sui'],Dexs,1768018,25421778.0,98645935.0,-31.37,-85.99,-79.11
 Oxium,['Sei'],Dexs,1748084,15115490.0,131028496.0,25.86,-89.08,99.16
-Haedal AMM Protocol,['Sui'],Dexs,1747009,25421778.0,98645935.0,-32.18,-86.16,-79.36
-ICPSwap,['ICP'],Dexs,1731118,20298236.0,35653280.0,-25.8,-50.48,419.88
 BaseX,['Base'],Dexs,1700797,12484908.0,42196770.0,2.64,-48.01,11.36
-Velodrome V2,"['OP Mainnet', 'Mode', 'Lisk', 'Fraxtal', 'Ink', 'BOB', 'Soneium', 'Unichain', 'Swellchain', 'Celo']",Dexs,1698666,7713516.0,26453007.0,54.23,-17.5,-7.71
-Swappi,['Conflux'],Dexs,1635928,2931075.0,6937447.0,957.3,376.4,298.94
+Swappi,['Conflux'],Dexs,1639704,2931075.0,6937447.0,959.74,377.5,299.86
 Limitless Exchange,['Base'],Prediction Market,1628118,13064554.0,64725998.0,10.78,35.71,-67.94
 Minswap,['Cardano'],Dexs,1579151,14308366.0,66960498.0,7.7,-82.29,-46.52
 MooniSwap,['Ethereum'],Dexs,1567338,9479044.0,40214836.0,42.82,9.94,-14.95
 W-DEX,['Polygon'],Dexs,1559921,10971157.0,69470171.0,23.67,-14.74,-81.64
 Lynex V2,['Linea'],Dexs,1543186,12478573.0,76257211.0,24.46,-59.93,-66.98
+ICPSwap,['ICP'],Dexs,1530276,20298236.0,35653280.0,-34.41,-56.23,359.56
 four.meme,['BSC'],Launchpad,1495695,88959198.0,2336936028.0,-92.08,-88.49,-99.39
 Clipper,"['Ethereum', 'OP Mainnet', 'Arbitrum', 'Polygon', 'Moonbeam', 'Base', 'Mantle', 'Polygon zkEVM']",Dexs,1486090,7587337.0,36850302.0,33.57,-8.59,-5.23
 Reservoir Tools CLMM,"['Abstract', 'Zero Network', 'Shape']",Dexs,1479192,11390867.0,63245184.0,3.36,-62.49,-78.24
 XSwap V3,['XDC'],Dexs,1455669,9877479.0,27684094.0,-2.61,54.85,432.93
 Bitflow,['Stacks'],Dexs,1448132,14582416.0,63425725.0,-25.95,-36.59,-53.72
+Velodrome V2,"['OP Mainnet', 'Mode', 'Lisk', 'Fraxtal', 'Ink', 'BOB', 'Soneium', 'Unichain', 'Swellchain', 'Celo']",Dexs,1396899,7713516.0,26453007.0,26.83,-32.15,-24.11
 ThalaSwap V3,['Aptos'],Dexs,1377492,4802820.0,14183008.0,186.47,12.07,314.14
 Molten V4,['CORE'],Dexs,1352913,4225495.0,12588864.0,257.12,121.49,213.36
-PancakeSwap StableSwap,['BSC'],Dexs,1339797,8428399.0,83808605.0,254.88,58.76,-63.59
 WAGMI,"['Fantom', 'Ethereum', 'Metis', 'Kava', 'Sonic', 'Base']",Dexs,1259210,18200679.0,55593299.0,-45.4,10.81,-63.14
-Saber,['Solana'],Dexs,1213155,8411222.0,38355367.0,-1.53,3.58,-10.36
 Omni Exchange V3,"['Base', 'Arbitrum', 'BSC', 'Avalanche', 'OP Mainnet', 'Sonic', 'Plasma']",Dexs,1209476,9616685.0,87989560.0,-0.77,-48.21,-73.11
+Saber,['Solana'],Dexs,1204242,8411222.0,38355367.0,-2.26,2.81,-11.02
 XPress Protocol,['Sonic'],Dexs,1176420,27582318.0,83513277.0,-64.02,-82.84,-76.75
+Astroport,"['Terra2', 'Injective', 'Neutron', 'Sei', 'Osmosis']",Dexs,1102685,6120834.0,27017689.0,28.98,-32.64,-32.07
+2THICK,['Sonic'],Dexs,1089761,10951077.0,33280011.0,-37.96,-53.55,-44.3
 Aquarius Stellar,['Stellar'],Dexs,1080558,9789194.0,38938408.0,-39.65,-66.19,-50.78
-2THICK,['Sonic'],Dexs,1074850,10951077.0,33280011.0,-38.81,-54.19,-45.07
-Astroport,"['Terra2', 'Injective', 'Neutron', 'Sei', 'Osmosis']",Dexs,1040470,6120834.0,27017689.0,21.7,-36.44,-35.9
 Kyo Finance,['Soneium'],Dexs,1013502,6048526.0,41793363.0,52.52,-33.73,-71.49
 BrownFi,"['Berachain', 'Base', 'Arbitrum', 'Hyperliquid L1', 'Linea', 'BSC']",Dexs,1007141,10080258.0,40817682.0,-3.47,-81.61,-57.71
 THENA FUSION,['BSC'],Dexs,978391,14589820.0,66608795.0,-37.37,-62.08,-78.9
 Swapr V3,['Gnosis'],Dexs,965482,5887630.0,25286640.0,27.58,-64.01,3.9
 Swaap Maker V2,"['Ethereum', 'Polygon', 'Arbitrum', 'OP Mainnet', 'BSC', 'Base', 'Mode', 'Scroll', 'Linea', 'Mantle']",Dexs,949538,11122552.0,107193678.0,368.6,28.57,-58.64
 mySwap CL,['Starknet'],Dexs,944845,6613915.0,28345350.0,0.0,0.0,0.0
-Sonex,['Soneium'],Dexs,929856,3979033.0,8255737.0,-7.89,-54.2,981.79
+Sonex,['Soneium'],Dexs,930635,3979033.0,8255737.0,-7.82,-54.17,982.7
 Frax Swap,"['Arbitrum', 'Aurora', 'Avalanche', 'Boba', 'BSC', 'Ethereum', 'Fantom', 'Harmony', 'Moonbeam', 'Moonriver', 'Polygon', 'Fraxtal']",Dexs,923050,6997695.0,32029719.0,53.42,-71.1,-52.23
-Solidly V3,"['Ethereum', 'Sonic', 'OP Mainnet', 'Arbitrum', 'Fantom', 'Base']",Dexs,921595,9248493.0,39276610.0,-39.17,-28.6,-57.95
 StellaSwap V4,['Moonbeam'],Dexs,919711,8115946.0,27213228.0,10.82,-13.4,-22.83
+Solidly V3,"['Ethereum', 'Sonic', 'OP Mainnet', 'Arbitrum', 'Fantom', 'Base']",Dexs,909248,9248493.0,39276610.0,-39.98,-29.56,-58.51
+Skate AMM,"['Ethereum', 'Base', 'Arbitrum', 'Solana', 'Eclipse', 'Hyperliquid L1', 'Plume Mainnet', 'Mantle', 'Sui']",Dexs,875610,4813452.0,17219434.0,-1.16,37.97,29.44
 DeDust,['TON'],Dexs,856452,6626016.0,26720591.0,-26.26,-43.38,-30.48
 Quickswap V4,"['Base', 'Soneium', 'Somnia']",Dexs,847333,9095228.0,50939843.0,-5.88,-65.95,-20.9
-Ramses CL,['Arbitrum'],Dexs,844563,4200373.0,61039983.0,44.26,-64.75,-82.07
 LaunchLab,['Solana'],Launchpad,826153,12931315.0,32018543.0,-86.32,656.62,1131.5
-Skate AMM,"['Ethereum', 'Base', 'Arbitrum', 'Solana', 'Eclipse', 'Hyperliquid L1', 'Plume Mainnet', 'Mantle', 'Sui']",Dexs,807715,4813452.0,17219434.0,-8.82,27.27,19.4
+PHUX,['PulseChain'],Dexs,808891,1357000.0,9571448.0,462.57,186.78,122.39
+Bulla Exchange,['Berachain'],Dexs,808739,11279825.0,41032222.0,-44.72,-11.1,-55.73
 Joe DEX,"['BSC', 'Avalanche', 'Arbitrum']",Dexs,798473,5765167.0,35424398.0,6.9,-59.33,-64.94
 Helix Spot,['Injective'],Dexs,790483,7244631.0,41017793.0,-16.61,-48.69,-54.37
 MagicSea LB,['IOTA EVM'],Dexs,788346,4467773.0,14623489.0,-4.97,-27.04,9.74
 Lithos,['Plasma'],Dexs,784733,11357783.0,67795249.0,-53.91,-70.55,5.11
-PHUX,['PulseChain'],Dexs,769695,1357000.0,9571448.0,435.31,172.88,111.61
-Bulla Exchange,['Berachain'],Dexs,738550,11279825.0,41032222.0,-49.52,-18.82,-59.58
+Ramses CL,['Arbitrum'],Dexs,766724,4200373.0,61039983.0,30.96,-68.0,-83.72
+Reservoir Tools AMM,"['Ink', 'Zero Network', 'Shape', 'Abstract']",Dexs,748609,4721973.0,27069051.0,-12.47,-2.88,-34.21
 LN Exchange Spot,['Bitcoin'],Dexs,736947,4985841.0,19845525.0,-4.35,15.19,35.14
-Reservoir Tools AMM,"['Ink', 'Zero Network', 'Shape', 'Abstract']",Dexs,734263,4721973.0,27069051.0,-14.14,-4.74,-35.48
 SyncSwap,"['ZKsync Era', 'Linea', 'Scroll']",Dexs,701406,19959797.0,61711236.0,-61.58,-87.77,-67.99
 Sanctum Infinity,['Solana'],Dexs,693846,17321146.0,91418845.0,15.78,-73.21,-97.7
+PiperX V3,['Story'],Dexs,693431,5624857.0,20403384.0,24.12,63.92,-49.8
+PancakeSwap StableSwap,['BSC'],Dexs,687771,8428399.0,83808605.0,82.17,-18.5,-81.31
 FluxBeam,['Solana'],Dexs,678668,4674701.0,95780464.0,-4.37,41.57,-88.64
-Luna.fun,['BSC'],Launchpad,666743,5603145.0,5603145.0,-86.65,,
-Blackhole AMM,['Avalanche'],Dexs,659046,5601960.0,31960345.0,23.95,-64.7,-68.21
+Luna.fun,['BSC'],Launchpad,676330,5603145.0,5603145.0,-86.45,,
 PayCash,['Vaulta'],Dexs,658099,18968081.0,54791766.0,-52.25,31.51,107.8
+Pharaoh CL,['Avalanche'],Dexs,634313,8887002.0,267625693.0,-18.66,-89.95,-97.75
 Katana DEX,['Ronin'],Dexs,621565,7849770.0,23979214.0,-5.84,-56.91,-35.89
-Pharaoh CL,['Avalanche'],Dexs,599192,8887002.0,267625693.0,-23.16,-90.5,-97.88
+Story Hunt,['Story'],Dexs,621015,2734837.0,17305833.0,182.74,52.51,-53.34
+Blackhole AMM,['Avalanche'],Dexs,599478,5601960.0,31960345.0,12.74,-67.89,-71.08
+Upheaval V3,['Hyperliquid L1'],Dexs,596069,8234467.0,56675256.0,-25.66,-72.75,-87.45
 ThalaSwap V2,['Aptos'],Dexs,592341,4877068.0,315975339.0,1.55,,-98.52
-PancakeSwap Prediction,['BSC'],Prediction Market,590576,5258992.0,23312485.0,-5.64,-20.21,-44.57
 Gliquid,['Hyperliquid L1'],Dexs,584779,7833666.0,35916645.0,-43.63,-79.9,39.35
 BulbaSwap V3,['Morph'],Dexs,572052,3410674.0,11754272.0,29.76,-62.01,104.55
-Upheaval V3,['Hyperliquid L1'],Dexs,556820,8234467.0,56675256.0,-30.56,-74.55,-88.28
-PiperX V3,['Story'],Dexs,554631,5624857.0,20403384.0,-0.73,31.11,-59.84
-Full Sail,['Sui'],Dexs,545854,5490251.0,30525225.0,-41.19,-60.71,-53.21
-Polycat,['Polygon'],Farm,543747,1049704.0,1179161.0,382.41,914.74,8687.12
+PancakeSwap Prediction,['BSC'],Prediction Market,565591,5258992.0,23312485.0,-9.63,-23.58,-46.91
+Myriad Markets,"['Abstract', 'Linea']",Prediction Market,561897,6087405.0,34278459.0,17.87,-37.91,-23.56
+Full Sail,['Sui'],Dexs,548201,5490251.0,30525225.0,-40.94,-60.54,-53.01
+Polycat,['Polygon'],Farm,544217,1049704.0,1179161.0,382.83,915.61,8694.72
 iZiSwap,"['BSC', 'ZKsync Era', 'Arbitrum', 'Meter', 'Aurora', 'Polygon', 'Mantle', 'OntologyEVM', 'Ultron', 'Linea', 'Scroll', 'Base', 'Manta', 'ZetaChain', 'Mode', 'IoTeX']",Dexs,541315,2222529.0,7092688.0,80.65,-0.09,-12.94
 Metropolis DLMM,['Sonic'],Dexs,537674,4623880.0,16218554.0,-50.66,-51.99,-21.03
 KongSwap,['ICP'],Dexs,536412,9637497.0,20459711.0,-23.18,-73.32,66.5
 Ambient,"['Scroll', 'Blast', 'Ethereum', 'Swellchain']",Dexs,535997,4656749.0,16470463.0,11.86,-72.75,-47.78
-Tinyman,['Algorand'],Dexs,535131,8837532.0,24912966.0,-53.17,-69.01,-56.99
 Flamingo Finance,['NEO'],Dexs,528393,4882233.0,22743144.0,15.76,-73.18,103.18
-Myriad Markets,"['Abstract', 'Linea']",Prediction Market,520949,6087405.0,34278459.0,9.28,-42.43,-29.13
+Tinyman,['Algorand'],Dexs,527299,8837532.0,24912966.0,-53.86,-69.47,-57.62
 Fulcrom AMM,"['Cronos', 'ZKsync Era', 'Cronos zkEVM']",Dexs,514934,3899560.0,23234090.0,-49.0,-79.02,-46.21
 Sanctum Reserve,['Solana'],Yield,509177,3288305.0,29009451.0,137.7,-89.13,-92.89
-Coinhain,['BSC'],Dexs,487934,2344788.0,3743588.0,67.99,76.3,
+Coinhain,['BSC'],Dexs,487881,2344788.0,3743588.0,67.97,76.28,
 SwapBased Concentrated Liquidity,['Base'],Dexs,486516,1422137.0,4265779.0,117.56,231.65,526.71
 Duality,['Neutron'],Dexs,475321,2302508.0,10709899.0,39.22,-28.33,-27.83
 xExchange,['MultiversX'],Dexs,463888,5834673.0,22058762.0,-34.22,-66.7,-51.37
-FlowSwap V3,['Flow'],Dexs,443295,3135604.0,3818207.0,-3.13,1.57,
-Beets DEX V3,['Sonic'],Dexs,438031,6026844.0,23648179.0,-81.46,-79.61,-17.29
+FlowSwap V3,['Flow'],Dexs,463805,3135604.0,3818207.0,1.35,6.27,
+Beets DEX V3,['Sonic'],Dexs,452543,6026844.0,23648179.0,-80.84,-78.93,-14.55
 Thruster V3,['Blast'],Dexs,433841,5020818.0,21696402.0,-8.73,-75.21,-67.69
-Football.Fun,['Base'],Prediction Market,417646,2642620.0,15821077.0,116.41,-59.8,137.91
-InitiaDEX,['Initia'],Dexs,405673,2495009.0,11510304.0,40.16,-30.25,-54.36
+Football.Fun,['Base'],Prediction Market,403358,2642620.0,15821077.0,109.0,-61.17,129.77
+InitiaDEX,['Initia'],Dexs,398452,2495009.0,11510304.0,37.66,-31.49,-55.17
 Injective Spot,['Injective'],Dexs,397800,7945898.0,46988932.0,-69.68,-75.37,-80.01
-Curve LlamaLend,"['Ethereum', 'Arbitrum', 'OP Mainnet', 'Fraxtal', 'Sonic']",Lending,391624,3510343.0,15387459.0,-23.76,-58.33,-62.45
+Curve LlamaLend,"['Ethereum', 'Arbitrum', 'OP Mainnet', 'Fraxtal', 'Sonic']",Lending,387602,3510343.0,15387459.0,-24.54,-58.75,-62.84
 Drift AMM,['Solana'],Dexs,386557,2205905.0,7089909.0,174.06,-5.86,23.25
 Hanji Protocol,['Etherlink'],Dexs,384140,3897685.0,10570449.0,72.89,-59.36,-42.35
 Sailor,['Sei'],Dexs,374344,9207914.0,159663007.0,-61.87,-61.91,-97.87
 Saros AMM,['Solana'],Dexs,347343,4399178.0,26301979.0,-30.87,-42.36,28.84
 UniDerp,['Unichain'],Launchpad,339092,360235.0,380559.0,1509.97,452022.67,5756.51
+Interest Curve,['Movement'],Dexs,336512,983186.0,5015533.0,57.52,85.2,6.33
 Verus Market,['Verus'],Dexs,330393,2321434.0,6807337.0,-18.47,-43.67,28.27
-Cables Finance,"['Arbitrum', 'Avalanche']",Dexs,323782,1695758.0,8810901.0,49.51,-69.24,64.71
 Earnium,['Aptos'],Dexs,321157,2247085.0,12579330.0,71.65,-22.01,-49.53
-Story Hunt,['Story'],Dexs,316595,2734837.0,17305833.0,44.14,-22.25,-76.21
 SaucerSwap V1,['Hedera'],Dexs,314506,3561244.0,67827417.0,-60.0,-73.62,-58.66
 Yaka V3,['Sei'],Dexs,311814,752167.0,2373329.0,555.55,311.07,112.59
-Nile CL,['Linea'],Dexs,303831,1624664.0,5551866.0,11.2,-30.42,-0.3
-KittyPunch PunchSwap,['Flow'],Dexs,293124,3396848.0,12234567.0,-28.68,-66.36,-39.4
+Nile CL,['Linea'],Dexs,303751,1624664.0,5551866.0,11.17,-30.44,-0.32
 DipCoin Spot,['Sui'],Dexs,291615,1336085.0,1336085.0,31.67,,
-KittyPunch PunchSwap V3,['Flow'],Dexs,280458,4457010.0,11641921.0,258.19,-83.13,1259.53
+KittyPunch PunchSwap,['Flow'],Dexs,286332,3396848.0,12234567.0,-30.33,-67.14,-40.81
 Shadow Exchange Legacy,['Sonic'],Dexs,278658,2127927.0,9004247.0,15.32,-17.01,-50.98
 Increment Swap,['Flow'],Dexs,273611,2924299.0,8736489.0,-4.77,-65.6,-4.43
-Camelot V2,"['Arbitrum', 'ApeChain', 'Gravity by Galxe', 'Rari', 'ReyaChain', 'Gnosis', 'Sanko']",Dexs,263159,1778380.0,12181720.0,-16.56,-46.17,-65.56
+Camelot V2,"['Arbitrum', 'ApeChain', 'Gravity by Galxe', 'Rari', 'ReyaChain', 'Gnosis', 'Sanko']",Dexs,268222,1778380.0,12181720.0,-14.95,-45.13,-64.9
+THENA V1,['BSC'],Dexs,263719,3205369.0,10554786.0,23.67,-74.42,-25.62
 Carbon Defi,"['Ethereum', 'Sei', 'Celo', 'Coti', 'TAC']",Dexs,262930,2142770.0,9069972.0,-2.05,-60.52,-50.48
 Spectra V2,"['Ethereum', 'Arbitrum', 'OP Mainnet', 'Base', 'Sonic', 'Hemi', 'Avalanche', 'BSC', 'Hyperliquid L1', 'Katana']",Yield,261185,2781734.0,15175614.0,-64.01,-70.19,-3.73
+NetSwap,['Metis'],Dexs,251645,3321188.0,7790816.0,-46.51,-48.36,-26.65
 Secured Finance Lending,"['Ethereum', 'Arbitrum', 'Filecoin']",Lending,250922,1222083.0,3753914.0,,36.96,141.62
-NetSwap,['Metis'],Dexs,248031,3321188.0,7790816.0,-47.28,-49.1,-27.7
 Biswap V2,['BSC'],Dexs,239534,3038383.0,14830372.0,-43.81,-68.59,-80.54
 Balancer V1,['Ethereum'],Dexs,235854,7793195.0,34381472.0,-94.74,-44.61,-44.37
 Wasabee,['Berachain'],Dexs,229202,2342299.0,7718288.0,-31.12,-38.31,7.6
+KittyPunch PunchSwap V3,['Flow'],Dexs,226021,4457010.0,11641921.0,188.66,-86.4,995.65
 Ferra CLMM,['Sui'],Dexs,223481,5401620.0,8912311.0,10.2,-34.71,7017.23
-THENA V1,['BSC'],Dexs,217660,3205369.0,10554786.0,2.07,-78.88,-38.61
-ApeSwap AMM,"['BSC', 'Polygon', 'Ethereum', 'Arbitrum']",Dexs,213762,1698260.0,7553616.0,20.33,-44.72,-63.21
-Arena DEX,['Avalanche'],Dexs,213625,1132978.0,4366739.0,70.22,9.6,11.72
-Bancor V2.1,['Ethereum'],Dexs,213464,2380407.0,7944873.0,2.35,-56.08,-53.81
+Bancor V2.1,['Ethereum'],Dexs,222617,2380407.0,7944873.0,6.74,-54.2,-51.83
+Arena DEX,['Avalanche'],Dexs,220135,1132978.0,4366739.0,75.41,12.94,15.12
+ApeSwap AMM,"['BSC', 'Polygon', 'Ethereum', 'Arbitrum']",Dexs,215358,1698260.0,7553616.0,21.23,-44.31,-62.93
 Beets DEX,"['Fantom', 'OP Mainnet', 'Sonic']",Dexs,213450,3076438.0,69607128.0,-75.44,-67.86,-97.54
-PotatoSwap V3,['X Layer'],Dexs,210826,2073800.0,2073800.0,,,
+Cables Finance,"['Arbitrum', 'Avalanche']",Dexs,211394,1695758.0,8810901.0,-2.39,-79.92,7.54
 HyperSwap V2,['Hyperliquid L1'],Dexs,209402,1652437.0,13436512.0,0.57,-61.21,-64.49
 Uniswap V1,['Ethereum'],Dexs,207275,1644065.0,4712221.0,-75.97,0.69,-26.98
 Elys DEX,['Elys'],Dexs,201813,959120.0,4043207.0,100.38,-9.07,8.14
 Pact,['Algorand'],Dexs,200817,2119668.0,6725814.0,9.84,-45.78,15.0
-SUNSwap V1,['Tron'],Dexs,193209,1466081.0,12546932.0,-9.71,-77.27,-42.69
-Balanced Exchange,['Icon'],Dexs,191315,1799854.0,7312776.0,5.9,-66.01,-54.27
-Consensus Liquidity DEX,['Kaia'],Dexs,189014,628123.0,1095349.0,1430.48,306.0,559.09
-Infusion,['Base'],Dexs,185191,485698.0,2836013.0,229.71,232.82,-63.25
+Nabla Finance,"['Arbitrum', 'Base', 'Berachain']",Dexs,197224,2049614.0,8635165.0,15.21,-84.43,-63.05
 Scale,['Base'],Dexs,184913,629124.0,1545293.0,21.3,794.42,-13.32
+SUNSwap V1,['Tron'],Dexs,182946,1466081.0,12546932.0,-14.51,-78.47,-45.73
 Ocelex V2,['Zircuit'],Dexs,181265,1065096.0,3745148.0,76.06,-25.18,-3.37
+WingRiders,['Cardano'],Dexs,180280,1852663.0,8929169.0,-19.73,-85.35,-48.28
+Balanced Exchange,['Icon'],Dexs,179270,1799854.0,7312776.0,-0.76,-68.15,-57.15
 zkSwap V3,"['ZKsync Era', 'Sonic']",Dexs,166157,2982369.0,8123933.0,-55.67,-80.1,-28.15
 EulerSwap,"['Ethereum', 'Unichain', 'BSC']",Dexs,162304,6268293.0,799536289.0,-61.88,-89.54,-97.77
-WingRiders,['Cardano'],Dexs,154272,1852663.0,8929169.0,-31.31,-87.46,-55.74
+Aftermath AMM,['Sui'],Dexs,157751,2230805.0,6332638.0,-83.36,-65.02,-55.31
+Infusion,['Base'],Dexs,157265,485698.0,2836013.0,179.99,182.63,-68.79
 ThalaSwap,['Aptos'],Dexs,152187,1309223.0,5791478.0,-13.57,,-40.29
-Aftermath AMM,['Sui'],Dexs,151704,2230805.0,6332638.0,-84.0,-66.36,-57.03
+Mimo V2,['IoTeX'],Dexs,149452,1583810.0,5213570.0,-66.86,-42.25,-47.76
+Pharaoh Legacy,['Avalanche'],Dexs,148997,1376617.0,7096706.0,-17.42,-64.09,-72.67
 DeltaSwap,"['Arbitrum', 'Base', 'Ethereum']",Dexs,148994,1554516.0,11453366.0,-11.93,-85.52,-81.82
-Nabla Finance,"['Arbitrum', 'Base', 'Berachain']",Dexs,148780,2049614.0,8635165.0,-13.09,-88.26,-72.13
-Mimo V2,['IoTeX'],Dexs,147000,1583810.0,5213570.0,-67.4,-43.2,-48.62
+Consensus Liquidity DEX,['Kaia'],Dexs,148534,628123.0,1095349.0,1102.7,219.05,417.94
+Mosaic AMM,['Movement'],Dexs,147903,628477.0,2165517.0,36.53,16.94,10.76
 Cellana Finance,['Aptos'],Dexs,143212,143489.0,4164553.0,51601.08,-47.76,106774.63
-Interest Curve,['Movement'],Dexs,139032,983186.0,5015533.0,-34.92,-23.48,-56.07
-Pharaoh Legacy,['Avalanche'],Dexs,137887,1376617.0,7096706.0,-23.57,-66.77,-74.71
-FanX Protocol,['Chiliz'],Dexs,130201,1491443.0,7579429.0,-19.87,-57.47,-42.42
+FanX Protocol,['Chiliz'],Dexs,143137,1491443.0,7579429.0,-11.91,-53.24,-36.7
+PotatoSwap V3,['X Layer'],Dexs,140187,2073800.0,2073800.0,,,
+Unchain X,['BSC'],Dexs,132883,1380874.0,7039262.0,-33.9,-68.98,-86.57
 BMX Classic AMM,"['Base', 'Mode']",Dexs,127672,644243.0,21646786.0,472759.26,-96.14,-90.74
-Unchain X,['BSC'],Dexs,127561,1380874.0,7039262.0,-36.55,-70.23,-87.11
 SundaeSwap V2,['Cardano'],Dexs,121195,1019330.0,5249595.0,-34.57,-77.84,-42.96
 Zyberswap AMM,['Arbitrum'],Dexs,119050,1064039.0,4693435.0,-29.41,-21.85,-28.9
-KittyPunch StableKitty,['Flow'],Dexs,114551,4548369.0,10958526.0,-74.17,-82.1,72.35
-4Swap,['Mixin'],Dexs,113520,1088485.0,5963035.0,-12.47,-75.54,-62.38
+Yuzu Finance,['Movement'],Dexs,114618,483453.0,2741897.0,9.28,27.52,-13.78
+4Swap,['Mixin'],Dexs,113989,1088485.0,5963035.0,-12.11,-75.44,-62.22
+KittyPunch StableKitty,['Flow'],Dexs,113781,4548369.0,10958526.0,-74.34,-82.22,71.19
 Capybara Dexs,['Kaia'],Dexs,112898,259601.0,1334206.0,436.66,241.21,199.96
-Nuri CL,['Scroll'],Dexs,112876,551159.0,1672193.0,220.51,-58.13,-18.59
+Nuri CL,['Scroll'],Dexs,109513,551159.0,1672193.0,210.96,-59.38,-21.02
 Pangolin V2,['Avalanche'],Dexs,108129,1323690.0,5070716.0,-74.18,-68.4,-63.46
-Mosaic AMM,['Movement'],Dexs,105729,628477.0,2165517.0,-2.4,-16.41,-20.82
 Cauldron,['Bitcoincash'],Dexs,103300,447962.0,2250882.0,0.96,-18.5,69.37
-Wombat Exchange,"['BSC', 'Arbitrum', 'Ethereum', 'Scroll', 'Avalanche', 'Base', 'OP Mainnet']",Dexs,99751,499816.0,2823914.0,20.16,7.41,-63.04
 MachineX CL,['Peaq'],Dexs,98796,1555661.0,12532035.0,-47.04,-63.65,-87.31
-Bancor V3,['Ethereum'],Dexs,97289,818190.0,3144602.0,9.15,-67.39,-51.84
-Alpha Arcade,['Algorand'],Prediction Market,94487,534024.0,1722247.0,-3.3,71.73,67.21
+Wombat Exchange,"['BSC', 'Arbitrum', 'Ethereum', 'Scroll', 'Avalanche', 'Base', 'OP Mainnet']",Dexs,96264,499816.0,2823914.0,15.96,3.65,-64.34
+Bancor V3,['Ethereum'],Dexs,94514,818190.0,3144602.0,6.03,-68.32,-53.21
 HARD Swap,['Kava'],Dexs,93280,1459053.0,5908510.0,-72.46,-48.13,-86.54
 DataDex,['Vana'],Dexs,91461,620608.0,4021454.0,30.0,-77.45,1.64
-H2 Finance V2,['Cronos zkEVM'],Dexs,88489,670066.0,3141862.0,-9.16,-57.8,-75.48
+zkSwap V2,"['ZKsync Era', 'Sonic']",Dexs,89842,1830800.0,6205973.0,-57.31,-80.54,-36.84
+H2 Finance V2,['Cronos zkEVM'],Dexs,88392,670066.0,3141862.0,-9.26,-57.85,-75.51
 Dragon Swap V2 Sei,['Sei'],Dexs,87443,341202.0,1322148.0,177.77,12.49,10.31
+KIM Exchange V3,['Mode'],Dexs,87229,504711.0,1689916.0,26.65,-45.51,12.31
 CaviarNine Shape Liquidity,['Radix'],Dexs,86854,801269.0,3676928.0,-19.01,-63.65,-65.8
-KIM Exchange V3,['Mode'],Dexs,86348,504711.0,1689916.0,25.37,-46.06,11.18
 Kittenswap CL,['Hyperliquid L1'],Dexs,85587,785923.0,4952370.0,5.5,-75.99,-69.68
-Ashswap,['MultiversX'],Dexs,85161,997154.0,4036759.0,3.03,-67.54,-62.26
-Hercules V3,['Metis'],Dexs,84780,2212609.0,6297562.0,-69.93,-69.74,-75.97
-BabySwap,['BSC'],Dexs,84380,1027094.0,3672947.0,-21.29,-64.35,-81.3
+Ashswap,['MultiversX'],Dexs,83176,997154.0,4036759.0,0.62,-68.29,-63.14
+BabySwap,['BSC'],Dexs,82288,1027094.0,3672947.0,-23.24,-65.24,-81.76
 SilverSwap,['Sonic'],Dexs,82242,675911.0,2662684.0,-22.58,-58.82,-38.34
-DackieSwap V3,"['Base', 'OP Mainnet', 'Arbitrum', 'Blast', 'Mode', 'Linea']",Dexs,81506,690131.0,3206130.0,-9.85,-61.3,-61.97
+Alpha Arcade,['Algorand'],Prediction Market,81429,534024.0,1722247.0,-16.67,48.0,44.1
 KlaySwap V1,['Kaia'],Dexs,80267,396861.0,1702496.0,32.65,-17.37,127.53
+Hercules V3,['Metis'],Dexs,78106,2212609.0,6297562.0,-72.3,-72.13,-77.86
+DackieSwap V3,"['Base', 'OP Mainnet', 'Arbitrum', 'Blast', 'Mode', 'Linea']",Dexs,77257,690131.0,3206130.0,-14.55,-63.32,-63.95
 Defi Swap,['Ethereum'],Dexs,71044,698680.0,3264166.0,-23.67,-66.54,-58.83
 Invariant,"['Solana', 'Eclipse']",Dexs,70616,906963.0,5132278.0,32.26,-43.29,-67.74
 waveX,['Soneium'],Derivatives,69963,414380.0,2326913.0,74.09,-6.62,5.82
-Trisolaris,['Aurora'],Dexs,69826,1913672.0,4715080.0,-77.75,-65.45,-34.77
-Yuzu Finance,['Movement'],Dexs,68541,483453.0,2741897.0,-34.65,-23.75,-48.44
-Splash Protocol,['Cardano'],Dexs,65067,926345.0,4499855.0,-84.37,-86.92,-31.14
-Swop,"['Waves', 'Unit Zero']",Dexs,64316,288062.0,1690842.0,21.57,-69.54,-61.3
-zkSwap V2,"['ZKsync Era', 'Sonic']",Dexs,63503,1830800.0,6205973.0,-69.82,-86.25,-55.36
-FlowX V2,['Sui'],Dexs,60392,486443.0,1465263.0,-56.08,-51.3,-8.45
+FlowX V2,['Sui'],Dexs,68549,486443.0,1465263.0,-50.15,-44.72,3.91
+Splash Protocol,['Cardano'],Dexs,65986,926345.0,4499855.0,-84.15,-86.74,-30.17
+Koi Finance AMM,['ZKsync Era'],Dexs,65801,1098572.0,2925837.0,-31.53,-75.58,-19.41
+Swop,"['Waves', 'Unit Zero']",Dexs,64311,288062.0,1690842.0,21.56,-69.54,-61.3
+Thirdfy,['Base'],Dexs,62954,720294.0,2294717.0,-35.8,-48.32,1353.9
+Trisolaris,['Aurora'],Dexs,61475,1913672.0,4715080.0,-80.41,-69.58,-42.57
 Metropolis AMM,['Sonic'],Dexs,59335,360413.0,1342823.0,149.33,-30.43,13.64
-Nerve,['BSC'],Dexs,56838,465545.0,3381344.0,2.3,-71.04,-89.34
+Rooster Protocol V1,"['Plume Mainnet', 'Plume (Deprecated)']",Dexs,57624,576003.0,10124193.0,-70.55,-66.37,-95.71
 WanSwap Dex,['Wanchain'],Dexs,56555,326808.0,1905737.0,18.31,-44.31,-64.05
 Pharaoh V3 Legacy,['Avalanche'],Dexs,55732,398345.0,2484829.0,34.41,-64.46,26.19
 E3,"['Fantom', 'Arbitrum', 'Base']",Dexs,55726,338389.0,1843487.0,437.33,-66.81,-55.01
-Thirdfy,['Base'],Dexs,54236,720294.0,2294717.0,-44.69,-55.48,1152.56
 HX Finance,['Hyperliquid L1'],Dexs,53641,730458.0,4201246.0,-37.44,-67.8,-73.98
+Merchant Moe DEX,['Mantle'],Dexs,51743,314991.0,1818803.0,114.84,-31.57,-82.59
 Bifrost Dex,['Bifrost'],Dexs,51228,3463143.0,7502374.0,57.23,-69.66,131.72
-SquadSwap Dynamo,['BSC'],Dexs,50324,387490.0,3904469.0,2.74,-30.65,-86.56
 BabyDogeSwap,['BSC'],Dexs,49892,593989.0,3249121.0,-15.58,-81.06,-77.8
-Sologenic,['XRPL'],Dexs,49166,475473.0,3113762.0,-53.27,-88.54,-49.37
-ArcherSwap,['CORE'],Dexs,47587,119625.0,448903.0,717.22,154.2,313.73
-Rubicon,"['OP Mainnet', 'Arbitrum', 'Base', 'Ethereum']",Dexs,46741,576735.0,1978094.0,-56.66,-47.19,-19.52
-Beezie,['Flow'],Physical TCG,43744,376001.0,1274151.0,-36.65,-73.3,
-Rooster Protocol V1,"['Plume Mainnet', 'Plume (Deprecated)']",Dexs,43408,576003.0,10124193.0,-77.81,-74.67,-96.77
+Sologenic,['XRPL'],Dexs,49123,475473.0,3113762.0,-53.31,-88.55,-49.41
+SquadSwap Dynamo,['BSC'],Dexs,47845,387490.0,3904469.0,-2.32,-34.07,-87.22
+ArcherSwap,['CORE'],Dexs,47602,119625.0,448903.0,717.48,154.28,313.86
+Rubicon,"['OP Mainnet', 'Arbitrum', 'Base', 'Ethereum']",Dexs,46771,576735.0,1978094.0,-56.63,-47.16,-19.47
+Nerve,['BSC'],Dexs,46607,465545.0,3381344.0,-16.11,-76.25,-91.26
+Beezie,['Flow'],Physical TCG,44848,376001.0,1274151.0,-35.05,-72.62,
 Allbridge Classic,"['Ethereum', 'BSC', 'Terra Classic', 'Aurora', 'Polygon', 'Heco', 'Celo', 'Avalanche', 'Fantom', 'Fuse', 'Solana', 'Near', 'Harmony', 'Tezos', 'Kaia', 'Waves', 'Stellar', 'Stacks']",Bridge,42515,1427943.0,4021662.0,-94.0,-89.0,-81.5
-Koi Finance AMM,['ZKsync Era'],Dexs,40704,1098572.0,2925837.0,-57.65,-84.89,-50.15
-Ramses Legacy,['Arbitrum'],Dexs,39446,188868.0,476747.0,225.14,67.75,67.56
+PiperX V2,['Story'],Dexs,39454,281504.0,1190165.0,16.15,291.18,443.07
 TONCO,['TON'],Dexs,39043,394401.0,3002651.0,-45.43,-47.92,-63.44
 MDEX,"['BSC', 'Heco', 'Bittorrent']",Dexs,38705,272483.0,1701703.0,43.83,-1.75,-56.2
 SpinUp DEX,['Hyperliquid L1'],Dexs,38493,266390.0,1503436.0,11.53,-39.95,-71.18
 EddyFinance AMM,['ZetaChain'],Dexs,38123,365966.0,1353999.0,57.71,-72.37,-39.11
+Ferro,['Cronos'],Dexs,38088,2432976.0,6269125.0,-6.9,-97.22,-87.21
+Dinosaur Eggs,['BSC'],Dexs,38034,286226.0,1475337.0,5.62,-25.76,-80.71
 STEAMM,['Sui'],Dexs,37588,7018889.0,69854468.0,-91.1,-39.4,-83.23
-Ferro,['Cronos'],Dexs,37093,2432976.0,6269125.0,-9.34,-97.29,-87.54
-Somnia Exchange,['Somnia'],Dexs,35824,336992.0,2794511.0,-52.48,-61.49,-81.84
+Somnia Exchange,['Somnia'],Dexs,36602,336992.0,2794511.0,-51.45,-60.65,-81.45
 Velodrome V1,['OP Mainnet'],Dexs,35053,282716.0,1214479.0,-14.39,-63.81,-50.62
-Dinosaur Eggs,['BSC'],Dexs,34604,286226.0,1475337.0,-3.9,-32.46,-82.45
-Enosys AMM V2,['Flare'],Dexs,34047,63098.0,148617.0,397.69,279.78,833.56
-PiperX V2,['Story'],Dexs,32815,281504.0,1190165.0,-3.4,225.35,351.69
+Asset Chain Swap,['Asset Chain'],Dexs,33880,254947.0,1412147.0,2.74,-29.88,-40.81
 Heaven,['Solana'],Dexs,32065,163683.0,1671114.0,9.19,53.03,6.31
-Equalizer Exchange,"['Fantom', 'Sonic']",Dexs,31706,522867.0,1605500.0,-87.08,-87.79,4.93
-Cetus DLMM,['Sui'],Dexs,31642,367428.0,1649578.0,-27.74,-85.26,-43.48
-Asset Chain Swap,['Asset Chain'],Dexs,31137,254947.0,1412147.0,-5.57,-35.56,-45.6
-Merchant Moe DEX,['Mantle'],Dexs,30373,314991.0,1818803.0,26.11,-59.83,-89.78
+Cetus DLMM,['Sui'],Dexs,31433,367428.0,1649578.0,-28.22,-85.36,-43.85
+Equalizer Exchange,"['Fantom', 'Sonic']",Dexs,30817,522867.0,1605500.0,-87.44,-88.14,1.99
 Ubeswap V2,['Celo'],Dexs,29952,224756.0,1015296.0,15.78,-60.96,-32.01
 QuickSwap Liquidity Hub,['Polygon'],Services,29320,345908.0,3105690.0,18.62,-49.07,-64.05
-WinnieSwap,['Berachain'],Dexs,29086,293658.0,1265368.0,-44.83,-52.78,-56.83
-Kava Swap,['Kava'],Dexs,28783,502845.0,2278464.0,-42.0,-65.5,543.05
+WinnieSwap,['Berachain'],Dexs,29233,293658.0,1265368.0,-44.55,-52.54,-56.61
+Swaps.io,"['Ethereum', 'OP Mainnet', 'BSC', 'Gnosis', 'Polygon', 'Sonic', 'Arbitrum', 'Base', 'Avalanche', 'Blast']",Bridge,28970,238847.0,4775586.0,-57.16,-87.63,-81.15
+Ramses Legacy,['Arbitrum'],Dexs,28153,188868.0,476747.0,132.06,19.72,19.59
+Kava Swap,['Kava'],Dexs,27883,502845.0,2278464.0,-43.81,-66.58,522.94
 ColorPool,['Chromia'],Dexs,27421,207662.0,925469.0,60.35,-35.15,0.93
 Rabbit Swap,['Viction'],Dexs,26895,187669.0,1046797.0,130.8,40.77,3.14
-Saros DLMM,['Solana'],Dexs,26090,142604.0,9898556.0,20.7,-42.66,-99.63
-DeltaTrade,"['Near', 'Solana']",Dexs,24058,527282.0,825089.0,-69.22,85.92,30.59
+Enosys AMM V2,['Flare'],Dexs,25511,63098.0,148617.0,272.91,184.56,599.51
+Saros DLMM,['Solana'],Dexs,24495,142604.0,9898556.0,13.32,-46.17,-99.65
 BetterSwap,['VeChain'],Dexs,23471,181920.0,1194597.0,-41.58,-15.9,-84.19
+CaviarNine Agg,['Radix'],DEX Aggregator,23429,199061.0,1355287.0,0.37,-82.44,-61.0
 Voltage V4,['Fuse'],Dexs,23087,223128.0,1165830.0,-6.41,-74.43,-35.77
-CaviarNine Agg,['Radix'],DEX Aggregator,21631,199061.0,1355287.0,-7.33,-83.79,-63.99
-Swaps.io,"['Ethereum', 'OP Mainnet', 'BSC', 'Gnosis', 'Polygon', 'Sonic', 'Arbitrum', 'Base', 'Avalanche', 'Blast']",Bridge,21147,238847.0,4775586.0,-68.73,-90.97,-86.24
+DeltaTrade,"['Near', 'Solana']",Dexs,22504,527282.0,825089.0,-71.21,73.91,22.15
+Blasterswap V3,['Blast'],Dexs,21808,159804.0,445934.0,-42.16,-63.22,-22.45
+HbarSuite,['Hedera'],Dexs,21321,232051.0,1431509.0,-61.38,-74.61,-35.81
 HiveSwap V3,['MAP Protocol'],Dexs,19909,60828.0,128324.0,215.97,-46.14,109.86
 Verse,"['Ethereum', 'smartBCH']",Dexs,19517,125386.0,3196177.0,102.46,-99.24,-45.57
-Thick,"['Fantom', 'Arbitrum', 'Base', 'Sonic']",Dexs,19339,150586.0,713456.0,33.09,-22.69,-26.29
-Blasterswap V3,['Blast'],Dexs,19308,159804.0,445934.0,-48.79,-67.43,-31.34
 Honeyswap,"['Polygon', 'Gnosis']",Dexs,19245,442975.0,1268387.0,-6.03,-90.38,-78.9
+Thick,"['Fantom', 'Arbitrum', 'Base', 'Sonic']",Dexs,19042,150586.0,713456.0,31.04,-23.88,-27.42
 H2 Finance V3,['Cronos zkEVM'],Dexs,19005,85359.0,870635.0,-24.52,-51.37,-87.13
-Solarbeam,['Moonriver'],Dexs,18679,100153.0,216366.0,367.44,-69.84,1197.15
-SMARDEX USDN,['Ethereum'],Basis Trading,18516,1000281.0,7259625.0,-66.79,-99.52,-90.85
+Solarbeam,['Moonriver'],Dexs,18829,100153.0,216366.0,371.2,-69.59,1207.57
+SMARDEX USDN,['Ethereum'],Basis Trading,18136,1000281.0,7259625.0,-67.47,-99.53,-91.04
 XSwap V2,['XDC'],Dexs,18072,117416.0,444549.0,-11.19,53.39,71.97
 MarginX DEX,['FunctionX'],Dexs,17745,214658.0,785100.0,34.04,-44.43,262.36
 ICDex,['ICP'],Dexs,17356,771495.0,1927513.0,-94.4,-97.53,-6.3
-ZilSwap,['Zilliqa'],Dexs,16867,93045.0,265691.0,391.46,31.02,4385.9
+Joe V2,"['Avalanche', 'Arbitrum', 'BSC']",Dexs,17193,147104.0,795392.0,-4.56,-13.17,-80.82
 YeiSwap,['Sei'],Dexs,16758,35291.0,13879424.0,211.26,419.47,-99.46
 Xfai,['Linea'],Dexs,16628,141353.0,535560.0,69.66,-74.66,-61.1
-Web3.world,['Venom'],Dexs,16565,285781.0,1164384.0,-8.21,-89.46,-68.73
-Joe V2,"['Avalanche', 'Arbitrum', 'BSC']",Dexs,16509,147104.0,795392.0,-8.35,-16.63,-81.58
-Drip.Trade,['Hyperliquid L1'],NFT Marketplace,15752,143515.0,4782466.0,168.53,-89.2,-86.02
+Web3.world,['Venom'],Dexs,16509,285781.0,1164384.0,-8.52,-89.49,-68.84
+HyperBrick,['Hyperliquid L1'],Dexs,16347,296738.0,4490171.0,-50.5,-81.82,-89.21
+ZilSwap,['Zilliqa'],Dexs,16148,93045.0,265691.0,370.51,25.43,4194.68
+Drip.Trade,['Hyperliquid L1'],NFT Marketplace,15983,143515.0,4782466.0,172.47,-89.05,-85.82
 Swapr V2,"['Ethereum', 'Arbitrum', 'Gnosis']",Dexs,15587,172303.0,442583.0,-21.1,-63.09,-17.46
-BaseSwap V2,['Base'],Dexs,15585,196706.0,1922747.0,-36.83,-49.54,-89.5
+Ellipsis Finance,['BSC'],Dexs,15575,201194.0,1612364.0,80.12,-53.58,-93.45
 Tethys AMM,['Metis'],Dexs,15556,368898.0,833143.0,-67.73,-64.39,-59.95
-Dfyn Network,['Polygon'],Dexs,15219,109391.0,353299.0,-22.95,-42.71,-21.6
+BaseSwap V2,['Base'],Dexs,15254,196706.0,1922747.0,-38.17,-50.61,-89.72
 Dusa Protocol,['Massa'],Dexs,15191,94812.0,293736.0,-10.84,-33.41,80.85
-HbarSuite,['Hedera'],Dexs,15167,232051.0,1431509.0,-72.53,-81.94,-54.34
+Cleopatra CL,['Mantle'],Dexs,14823,222103.0,1779807.0,-34.23,-51.52,-97.92
 SwapBased AMM,['Base'],Dexs,14681,62847.0,418118.0,122.71,7.39,-11.65
-HyperBrick,['Hyperliquid L1'],Dexs,14140,296738.0,4490171.0,-57.18,-84.28,-90.67
+Elexium,['Alephium'],Dexs,14445,124830.0,705639.0,6.73,77.89,-67.2
 Polkaswap,['Sora'],Dexs,14065,98538.0,582035.0,25.31,-32.26,-41.05
-Ellipsis Finance,['BSC'],Dexs,14049,201194.0,1612364.0,62.47,-58.13,-94.09
+Dfyn Network,['Polygon'],Dexs,14042,109391.0,353299.0,-28.91,-47.14,-27.67
+Platypus Finance,['Avalanche'],Dexs,13671,337312.0,746034.0,-72.56,-68.36,-53.15
+DefiChain DEX,['DefiChain'],Dexs,12871,87424.0,980131.0,-23.83,-67.86,169.1
 Kriya CLMM,['Sui'],Dexs,12788,230122.0,1348357.0,-57.73,-74.18,-90.32
 Kittenswap AMM,['Hyperliquid L1'],Dexs,12655,72702.0,986045.0,101.42,-87.67,-83.07
-DefiChain DEX,['DefiChain'],Dexs,12393,87424.0,980131.0,-26.66,-69.05,159.11
 Energiswap,['Energi'],Dexs,12358,89052.0,305364.0,-7.08,-54.42,-49.89
-Platypus Finance,['Avalanche'],Dexs,12055,337312.0,746034.0,-75.8,-72.1,-58.69
 Amped Finance,"['LightLink', 'Sonic', 'Berachain', 'Base']",Derivatives,11722,11660751.0,24572308.0,-64.35,-99.32,-98.94
-SpookySwap V3,"['Fantom', 'Sonic']",Dexs,11535,625855.0,835543.0,-98.02,-3.62,3.42
 Zebra V2,['Scroll'],Dexs,11442,92552.0,403583.0,47.33,-65.87,-40.94
-Thruster V2,['Blast'],Dexs,11335,69315.0,475279.0,67.63,-63.05,-20.0
 ArthSwap V3,['Astar'],Dexs,11332,73698.0,362960.0,157.14,-58.6,-28.06
-GasPump,['TON'],Launchpad,10873,96465.0,211648.0,19.56,-61.92,1165.77
+SpookySwap V3,"['Fantom', 'Sonic']",Dexs,11226,625855.0,835543.0,-98.07,-6.2,0.65
+Gacha,['Abstract'],Prediction Market,10801,45379.0,351294.0,186.42,-29.76,118.07
 BulbaSwap V2,['Morph'],Dexs,10796,136185.0,1136614.0,15.5,-87.07,-85.71
+DefiBox,"['Vaulta', 'Wax']",Dexs,10734,176912.0,796112.0,-38.36,-78.01,-29.76
+Thruster V2,['Blast'],Dexs,10724,69315.0,475279.0,58.59,-65.04,-24.31
 Karura Swap,['Karura'],Dexs,10664,134780.0,420348.0,232.11,-26.98,5.53
-Elexium,['Alephium'],Dexs,9794,124830.0,705639.0,-27.63,20.62,-77.76
-SupSwap V3,['Mode'],Dexs,9632,58566.0,226136.0,64.88,-69.36,3.98
+SupSwap V3,['Mode'],Dexs,9836,58566.0,226136.0,68.37,-68.72,6.19
+Ociswap Precision,['Radix'],Dexs,9794,122687.0,855460.0,-52.39,-83.3,-75.62
 GlowSwap,['BSquared'],Dexs,9610,67270.0,288300.0,0.0,0.0,0.0
-Ociswap Precision,['Radix'],Dexs,9607,122687.0,855460.0,-53.3,-83.62,-76.08
-Gacha,['Abstract'],Prediction Market,9448,45379.0,351294.0,150.54,-38.56,90.75
 Haven1 hSwap,['Haven1'],Dexs,9440,47231.0,252167.0,166.22,-42.58,-54.15
 Chronos V1,['Arbitrum'],Dexs,9435,14896.0,42322.0,1210.42,270.87,336.4
-SwapX V2,['Sonic'],Dexs,9411,188620.0,1022532.0,-57.43,-95.81,-47.85
-Cleopatra CL,['Mantle'],Dexs,9310,222103.0,1779807.0,-58.69,-69.55,-98.7
+SwapX V2,['Sonic'],Dexs,9179,188620.0,1022532.0,-58.48,-95.92,-49.14
 Somnex V3,['Somnia'],Dexs,9051,100948.0,574940.0,-57.07,-67.74,-32.33
 Elix.fi,['Somnia'],Dexs,8878,17206.0,341867.0,199.43,620.62,
-DefiBox,"['Vaulta', 'Wax']",Dexs,8757,176912.0,796112.0,-49.72,-82.06,-42.7
-Velar AMM,['Stacks'],Dexs,8218,71104.0,326742.0,34.66,-55.61,-67.07
+Meshswap,['Polygon'],Dexs,7342,46724.0,199996.0,39.98,-55.21,-20.08
 PacaSwap DEX,['Pacaswap'],Dexs,7264,125581.0,1689299.0,-85.23,-15.37,-79.99
-Meshswap,['Polygon'],Dexs,7213,46724.0,199996.0,37.52,-56.0,-21.49
-BitGenie AMM,['Merlin'],Dexs,7087,39226.0,252055.0,30.16,-25.27,132.06
-Alita Finance,['BSC'],Dexs,6741,29653.0,184515.0,157.49,-43.41,-75.16
-Nile Legacy,['Linea'],Dexs,6713,47216.0,151622.0,4.34,-49.5,-9.82
+Velar AMM,['Stacks'],Dexs,7185,71104.0,326742.0,17.73,-61.19,-71.21
+GasPump,['TON'],Launchpad,6816,96465.0,211648.0,-25.05,-76.13,693.48
+VanillaSwap V3,['DeFiChain EVM'],Dexs,6691,5241.0,16570.0,11848.21,2137.79,1051.64
 Shido Dex,['Shido'],Dexs,6633,98551.0,658088.0,-50.79,-92.09,-35.76
 Jellyverse,['Sei'],Dexs,6566,30787.0,1129589.0,29.05,-63.87,-91.88
+Alita Finance,['BSC'],Dexs,6551,29653.0,184515.0,150.23,-45.01,-75.86
+Nile Legacy,['Linea'],Dexs,6457,47216.0,151622.0,0.36,-51.43,-13.26
 MojitoSwap,['KCC'],Dexs,6403,37101.0,146121.0,491.77,-73.11,-15.97
 FusionX V3,['Mantle'],Dexs,6362,99089.0,462648.0,1.73,-83.81,-88.26
+UltronSwap,['Ultron'],Dexs,6328,58196.0,187530.0,-5.65,-24.23,-37.29
 OraiDEX,['Oraichain'],Dexs,6320,45694.0,209996.0,9.67,-17.56,-47.58
+BitGenie AMM,['Merlin'],Dexs,6147,39226.0,252055.0,12.89,-35.18,101.28
 Lynex V1,['Linea'],Dexs,6044,52765.0,240315.0,6.88,-78.64,2.09
 Persistence DEX,['Persistence One'],Dexs,5957,50422.0,264581.0,-38.91,-60.98,-71.88
 Kodiak V2,['Berachain'],Dexs,5560,55725.0,272928.0,-8.57,-27.9,-63.42
-Oswap AMM,['Obyte'],Dexs,5362,30664.0,91605.0,-29.27,-37.88,108.56
 Sushi Aptos,['Aptos'],Dexs,5281,49312.0,174170.0,62.39,-74.03,-64.84
+Oswap AMM,['Obyte'],Dexs,5228,30664.0,91605.0,-31.04,-39.43,103.35
 zkSwap StableSwap,['ZKsync Era'],Dexs,4981,280437.0,891925.0,-68.17,-94.35,-93.49
-OkieSwap V3,['X Layer'],Dexs,4889,46565.0,2185422.0,20.66,-3.57,-96.41
-Zyberswap V3,['Arbitrum'],Dexs,4873,51367.0,80401.0,-19.28,-51.87,925.89
-VanillaSwap V3,['DeFiChain EVM'],Dexs,4861,5241.0,16570.0,8580.36,1525.75,736.66
+Zyberswap V3,['Arbitrum'],Dexs,4931,51367.0,80401.0,-18.32,-51.3,938.11
+Fenix Standard Pools,['Blast'],Dexs,4752,44257.0,242150.0,8.27,-68.21,-78.96
 Astrolescent,['Radix'],Dexs,4727,280872.0,875864.0,-80.16,-4.89,-92.75
-Fenix Standard Pools,['Blast'],Dexs,4666,44257.0,242150.0,6.31,-68.79,-79.34
-SMARDEX AMM,"['Arbitrum', 'Base', 'BSC', 'Ethereum', 'Polygon']",Dexs,4513,83369.0,465955.0,-11.32,-82.81,-76.33
+VaporDex V1,"['Avalanche', 'ApeChain']",Dexs,4610,40547.0,189694.0,46.3,-46.54,9.42
+OkieSwap V3,['X Layer'],Dexs,4577,46565.0,2185422.0,12.96,-9.72,-96.64
 swap.coffee,['TON'],DEX Aggregator,4410,19743.0,39351.0,2.94,-66.1,
-VaporDex V1,"['Avalanche', 'ApeChain']",Dexs,4394,40547.0,189694.0,39.45,-49.05,4.3
-Javsphere,['Base'],Derivatives,4307,7218910.0,25747437.0,-98.73,-87.2,-96.01
 MuesliSwap,['Cardano'],Dexs,4236,20039.0,161041.0,512.14,-66.68,31.35
-Molten V3,['CORE'],Dexs,4182,16212.0,73180269.0,73.89,91.66,-98.33
-SpookySwap V2,"['Fantom', 'Sonic']",Dexs,4124,23509.0,122687.0,203.24,-46.08,13.83
-UltronSwap,['Ultron'],Dexs,4081,58196.0,187530.0,-39.15,-51.14,-59.56
-OolongSwap,['Boba'],Dexs,4075,60782.0,173133.0,0.39,-65.82,-73.36
-Punk.Coffee,['BSC'],Prediction Market,3844,41985.0,130829.0,-53.89,-7.42,4124.18
+SMARDEX AMM,"['Arbitrum', 'Base', 'BSC', 'Ethereum', 'Polygon']",Dexs,4207,83369.0,465955.0,-17.33,-83.97,-77.94
+Molten V3,['CORE'],Dexs,4197,16212.0,73180269.0,74.51,92.35,-98.33
+SpookySwap V2,"['Fantom', 'Sonic']",Dexs,4104,23509.0,122687.0,201.76,-46.35,13.28
+OolongSwap,['Boba'],Dexs,4016,60782.0,173133.0,-1.06,-66.32,-73.75
+KnightSwap Finance,"['BSC', 'Fantom']",Dexs,3979,62368.0,346032.0,-18.4,-86.94,-84.65
+Punk.Coffee,['BSC'],Prediction Market,3837,41985.0,130829.0,-53.98,-7.59,4116.48
 Arena SocialFi,['Avalanche'],SoFi,3612,46367.0,172695.0,-66.91,-26.06,-49.1
-KnightSwap Finance,"['BSC', 'Fantom']",Dexs,3449,62368.0,346032.0,-29.27,-88.68,-86.7
+JustBet,['WINR'],Luck Games,3588,700696.0,3780142.0,-98.84,-94.15,-97.64
 Yaka V2,['Sei'],Dexs,3332,20492.0,59250.0,88.36,-35.05,
 9mm V2,"['PulseChain', 'Base', 'Sonic']",Dexs,3279,19202.0,73559.0,7.12,12.87,-11.02
-KLEX Finance,['Kaia'],Dexs,3247,25865.0,83956.0,49.22,-64.49,-23.4
+KLEX Finance,['Kaia'],Dexs,3243,25865.0,83956.0,49.03,-64.53,-23.5
 MorFi,['Morph'],Dexs,3036,22912.0,122410.0,42.2,-67.89,-73.55
+WinerySwap,['BSC'],Dexs,3033,36528.0,206341.0,-15.7,-83.57,-82.29
 Omni Exchange V2,"['Base', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Sonic', 'Plasma', 'BSC']",Dexs,3031,26956.0,154503.0,-10.8,-56.95,-85.72
 GarudaDefi,['Terra Classic'],Dexs,2966,39711.0,228919.0,-64.82,-63.21,-39.22
-WinerySwap,['BSC'],Dexs,2887,36528.0,206341.0,-19.76,-84.36,-83.14
 Solidly V2,['Ethereum'],Dexs,2825,14400.0,87444.0,353.45,1.69,-34.92
 SwapMode V2,['Mode'],Dexs,2810,18838.0,79021.0,-12.21,-24.07,-52.72
-AuroraSwap,['Aurora'],Dexs,2791,130556.0,227109.0,-87.29,-71.71,-73.29
 WardenSwap,['BSC'],Dexs,2757,40351.0,254279.0,-27.77,-88.72,-88.94
 OkieSwap Stableswap,['X Layer'],Dexs,2722,17320.0,6879938.0,-5.42,272100.0,-99.78
+KIM Exchange V2,['Mode'],Dexs,2621,16344.0,80055.0,66.2,-65.08,-56.78
+AuroraSwap,['Aurora'],Dexs,2614,130556.0,227109.0,-88.1,-73.51,-74.99
 MintSwap Finance,['Mint'],Dexs,2503,16192.0,69034.0,95.39,-72.01,-45.55
-KIM Exchange V2,['Mode'],Dexs,2492,16344.0,80055.0,58.02,-66.8,-58.91
-Titano Swych,['BSC'],Dexs,2252,32329.0,202201.0,-28.96,-87.12,-88.39
+Titano Swych,['BSC'],Dexs,2443,32329.0,202201.0,-22.93,-86.02,-87.41
+GT3,['Polygon'],Dexs,2265,4517.0,20689.0,550.86,220.37,173.88
+EchoDEX V3,['Linea'],Dexs,2213,21235.0,82888.0,32.59,-78.14,-55.95
 Permute,"['Bitcoin', 'Ethereum', 'Avalanche', 'Arbitrum', 'BSC', 'Tron', 'Litecoin', 'Bitcoincash', 'Doge', 'Solana', 'Berachain']",Bridge,2194,16203.0,830026.0,619.34,190.98,-94.79
 Blasterswap V2,['Blast'],Dexs,2183,22449.0,105168.0,-13.68,-80.59,-69.63
 Elk,"['Gnosis', 'Polygon', 'Fantom', 'BSC', 'Avalanche', 'Moonriver', 'Ethereum', 'OP Mainnet', 'Arbitrum', 'Metis', 'Base', 'Linea']",Dexs,2163,25361.0,114207.0,67.54,-78.57,-65.75
-AutoShark,['BSC'],Dexs,2128,16352.0,81552.0,28.58,-73.87,-72.5
 ShibaSwap V2,"['Ethereum', 'Shibarium']",Dexs,2121,35619.0,164798.0,-46.32,73.0,152.5
-GT3,['Polygon'],Dexs,1980,4517.0,20689.0,468.97,180.06,139.42
-Somnex DEX,['Somnia'],Dexs,1971,11469.0,452414.0,-2.23,-46.0,-71.46
-StellaSwap V2,['Moonbeam'],Dexs,1934,39080.0,252487.0,47.41,-90.31,-65.27
-EchoDEX V3,['Linea'],Dexs,1900,21235.0,82888.0,13.84,-81.23,-62.18
-ApertureSwap,['Manta'],Dexs,1858,26523.0,153491.0,-68.73,-73.45,-43.65
+AutoShark,['BSC'],Dexs,2074,16352.0,81552.0,25.32,-74.53,-73.2
+StellaSwap V2,['Moonbeam'],Dexs,2070,39080.0,252487.0,57.77,-89.63,-62.83
+Somnex DEX,['Somnia'],Dexs,1897,11469.0,452414.0,-5.9,-48.03,-72.54
+BladeSwap AMM,['Blast'],Dexs,1892,17611.0,68936.0,23.42,-61.29,-76.75
+ApertureSwap,['Manta'],Dexs,1871,26523.0,153491.0,-68.51,-73.26,-43.25
 RadioShack,"['Polygon', 'BSC', 'Avalanche']",Dexs,1847,25260.0,150109.0,-37.85,-84.22,-82.47
+Javsphere,['Base'],Derivatives,1785,7218910.0,25747437.0,-99.47,-94.69,-98.35
 PepeTeam DEX,['Waves'],Dexs,1697,14585.0,73746.0,24.23,-70.41,-15.11
-BladeSwap AMM,['Blast'],Dexs,1653,17611.0,68936.0,7.83,-66.18,-79.68
 JetSwap,"['BSC', 'Polygon', 'Fantom']",Dexs,1647,19500.0,789509.0,-38.18,-79.36,-73.47
-WigoSwap,['Fantom'],Dexs,1509,30737.0,181803.0,-3.02,-84.83,-62.1
+WigoSwap,['Fantom'],Dexs,1516,30737.0,181803.0,-2.57,-84.76,-61.93
 CaviarNine LSU Pool,['Radix'],Dexs,1436,34174.0,223755.0,-51.99,-70.85,-96.98
-Scribe V4,['Scroll'],Dexs,1383,6465.0,27633.0,333.54,-76.23,248.36
 Glide Finance,['Elastos'],Dexs,1377,27704.0,104738.0,-60.25,-84.46,-81.19
-Cone,['BSC'],Dexs,1369,8261.0,38996.0,108.37,-84.63,-5.52
 Dove Swap V3,['Polygon zkEVM'],Dexs,1369,11746.0,48434.0,147.56,-71.03,-59.12
-IcecreamSwap V2,"['Bitgert', 'CORE']",Dexs,1323,5724.0,26342.0,-5.5,-24.96,62.73
+Cone,['BSC'],Dexs,1369,8261.0,38996.0,108.37,-84.63,-5.52
+Scribe V4,['Scroll'],Dexs,1346,6465.0,27633.0,321.94,-76.86,239.04
+IcecreamSwap V2,"['Bitgert', 'CORE']",Dexs,1342,5724.0,26342.0,-4.14,-23.88,65.07
+Blue Planet,['BSC'],Dexs,1326,16324.0,108948.0,-22.37,-85.48,-86.05
 PaintSwap on Fantom,['Sonic'],Dexs,1310,12054.0,62991.0,158.38,180.51,
 boop.fun,['Solana'],Launchpad,1288,22900.0,155981.0,-90.39,32100.0,973.33
 Symmetric,"['Gnosis', 'Celo', 'Telos']",Dexs,1283,11123.0,51254.0,82.76,-77.71,-13.08
-Blue Planet,['BSC'],Dexs,1213,16324.0,108948.0,-28.98,-86.72,-87.24
-SolidLizard Dex,['Arbitrum'],Dexs,1190,9234.0,36166.0,26.46,-50.58,-53.88
+SolidLizard Dex,['Arbitrum'],Dexs,1205,9234.0,36166.0,28.06,-49.96,-53.29
+Swap Country,['Harmony'],Dexs,1092,27479.0,90080.0,-27.35,-70.35,-87.59
 Interest Protocol Stable Swap,['Sui'],Dexs,1085,1766.0,16311.0,2483.33,-26.64,162.08
 Gravity Finance,['Polygon'],Dexs,1025,10132.0,52345.0,2.4,-79.71,-73.08
 HorizonDEX,"['Linea', 'Base']",Dexs,1023,7343.0,27615.0,89.44,-55.79,-26.03
-SpinUp Launchpad,['Hyperliquid L1'],Launchpad,1018,11496.0,38084.0,247.44,11.62,695.31
-WannaSwap,['Aurora'],Dexs,1013,43196.0,79267.0,-84.87,-65.59,-59.83
-Crodex,['Cronos'],Dexs,990,8026.0,42486.0,-30.91,-79.06,-62.89
-Swap Country,['Harmony'],Dexs,957,27479.0,90080.0,-36.33,-74.02,-89.13
+WannaSwap,['Aurora'],Dexs,1005,43196.0,79267.0,-84.99,-65.86,-60.15
+Crodex,['Cronos'],Dexs,1005,8026.0,42486.0,-29.87,-78.74,-62.33
+SpinUp Launchpad,['Hyperliquid L1'],Launchpad,1002,11496.0,38084.0,241.98,9.87,682.81
+VaporDex V2,['Avalanche'],Dexs,881,16571.0,30140.0,-64.13,23.22,281.39
 Garden,"['Ethereum', 'Bitcoin', 'Arbitrum', 'Base', 'Unichain', 'Berachain', 'Starknet', 'Hyperliquid L1', 'BSC', 'Corn', 'Sui', 'Solana']",Cross Chain Bridge,856,35.0,83538.0,,,-88.66
-Koi Finance CL,['ZKsync Era'],Dexs,786,37517.0,90763.0,-76.19,-86.93,-56.5
-SpiritSwap AMM,['Fantom'],Dexs,719,7822.0,45432.0,681.52,-77.07,8.94
+Koi Finance CL,['ZKsync Era'],Dexs,830,37517.0,90763.0,-74.86,-86.2,-54.07
+BurrBear,['Berachain'],Dexs,752,10288.0,4891511.0,-58.01,-99.83,-99.75
+SpiritSwap AMM,['Fantom'],Dexs,718,7822.0,45432.0,680.43,-77.1,8.79
 VanillaSwap V2,['DeFiChain EVM'],Dexs,715,2430.0,18225.0,793.75,-12.05,-60.69
 Cropper CLMM,['Solana'],Dexs,714,5359.0,13200.0,214.54,-64.81,432.84
-SquadSwap V2,['BSC'],Dexs,706,4152.0,23901.0,87.77,9.97,-66.67
 Equilibre,['Kava'],Dexs,705,7569.0,29525.0,-50.0,-79.82,-92.47
 SpicySwap,['Tezos'],Dexs,695,22640.0,35848.0,-37.16,-52.17,-17.46
+Butter.xyz,['Mantle'],Dexs,694,6282.0,41547.0,62.53,-81.69,-88.12
+SquadSwap V2,['BSC'],Dexs,675,4152.0,23901.0,79.52,5.14,-68.13
 HyperJump,"['BSC', 'Fantom', 'Metis']",Dexs,675,10447.0,61367.0,-46.98,-86.65,-87.31
 MachineX Legacy,['Peaq'],Dexs,665,2956.0,11798.0,56.84,22.24,-71.11
-X3X,['World Chain'],Prediction Market,663,5320.0,23474.0,3.92,-0.3,-54.34
+Huckleberry AMM,['Moonriver'],Dexs,622,6895.0,17264.0,382.17,-82.96,-33.19
 Demex AMM,['Carbon'],Dexs,610,16964.0,57590.0,242.7,-84.07,-85.81
 Hercules V2,['Metis'],Dexs,608,10005.0,25027.0,-53.66,-60.39,-51.94
 LuaSwap,['Ethereum'],Dexs,600,5783.0,24308.0,121.4,-46.71,-26.02
-Huckleberry AMM,['Moonriver'],Dexs,599,6895.0,17264.0,364.34,-83.59,-35.66
-HakuSwap,['Avalanche'],Dexs,592,5639.0,22962.0,-14.94,-67.33,-46.03
+HakuSwap,['Avalanche'],Dexs,583,5639.0,22962.0,-16.24,-67.83,-46.86
+X3X,['World Chain'],Prediction Market,581,5320.0,23474.0,-8.93,-12.63,-59.99
 Raindex,"['Arbitrum', 'Base', 'BSC', 'Ethereum', 'Flare', 'Linea', 'Polygon']",Dexs,575,2430.0,17023.0,129.08,21.31,-56.11
+KyotoSwap,['BSC'],Dexs,567,9641.0,74860.0,-39.55,-91.75,-92.28
 Gravis Finance,"['BSC', 'Polygon']",Dexs,554,4935.0,27406.0,7.57,-70.1,-81.8
 StellaSwap V3,['Moonbeam'],Dexs,547,12433.0,76537.0,-59.54,-84.62,-84.73
-KyotoSwap,['BSC'],Dexs,543,9641.0,74860.0,-42.11,-92.09,-92.61
 SparkDEX V3,['Flare'],Dexs,539,6333.0,34408.0,-40.31,-66.4,-62.33
-MagicSea AMM,['ShimmerEVM'],Dexs,536,2496.0,14371.0,688.24,59.05,92.81
-BurrBear,['Berachain'],Dexs,528,10288.0,4891511.0,-70.52,-99.88,-99.82
-EchoDEX V2,['Linea'],Dexs,503,1891.0,10064.0,598.61,23.28,-29.55
-Butter.xyz,['Mantle'],Dexs,500,6282.0,41547.0,17.1,-86.81,-91.44
+MagicSea AMM,['ShimmerEVM'],Dexs,526,2496.0,14371.0,673.53,56.08,89.21
+ZKBase,['ZKsync Era'],Dexs,501,4040.0,16494.0,58.04,-70.89,-44.58
 VinuSwap,['VinuChain'],Dexs,495,2017.0,5394.0,173.48,153.85,37.5
+Meme Cooking,['Near'],Launchpad,493,11228.0,57097.0,625.0,67.69,-29.97
 TTswap,['ThunderCore'],Dexs,493,1438.0,5346.0,244.76,22.64,0.0
+EchoDEX V2,['Linea'],Dexs,490,1891.0,10064.0,580.56,20.1,-31.37
 PadSwap,"['BSC', 'Moonriver', 'Moonbeam']",Dexs,484,7075.0,40576.0,-31.35,-88.57,-85.62
 KuraSwap Legacy,['Sei'],Dexs,483,5843.0,39906.0,-63.41,-77.33,-79.92
 VoltSwap V2,['Meter'],Dexs,482,9063.0,31563.0,-35.13,-36.91,-84.27
 Dystopia,['Polygon'],Dexs,480,6782.0,34887.0,-47.94,-88.91,-72.21
-Glyph V2,['CORE'],Dexs,436,1162.0,4545.0,384.44,108.61,384.44
-ZKBase,['ZKsync Era'],Dexs,434,4040.0,16494.0,36.91,-74.78,-51.99
-Emojicoin.fun,['Aptos'],Launchpad,433,5369.0,32911.0,-40.19,-95.99,-74.09
+Glyph V2,['CORE'],Dexs,444,1162.0,4545.0,393.33,112.44,393.33
 SwapMode V3,['Mode'],Dexs,407,2245.0,140116.0,-77.28,-60.68,-95.89
-MinMax Finance,['IoTeX'],Dexs,370,6109.0,29429.0,-83.2,-72.22,-52.2
-PhotonSwap Finance,['Cronos'],Dexs,364,3411.0,19206.0,-46.47,-84.24,-74.33
-Horiza,['Arbitrum'],Dexs,353,1931.0,7833.0,116.56,-56.95,-47.39
-SparkDEX V2,['Flare'],Dexs,351,4685.0,50630.0,-53.75,-92.74,-97.84
-Arbitrum Exchange V2,['Arbitrum'],Dexs,350,4253.0,12492.0,-35.9,-59.82,-52.45
+PhotonSwap Finance,['Cronos'],Dexs,382,3411.0,19206.0,-43.82,-83.46,-73.06
+MinMax Finance,['IoTeX'],Dexs,376,6109.0,29429.0,-82.93,-71.77,-51.42
+Emojicoin.fun,['Aptos'],Launchpad,368,5369.0,32911.0,-49.17,-96.59,-77.98
+DragonSwap V2 Kaia,['Kaia'],Dexs,357,4834.0,51150.0,25.7,-80.48,-91.77
+Horiza,['Arbitrum'],Dexs,355,1931.0,7833.0,117.79,-56.71,-47.09
+Arbitrum Exchange V2,['Arbitrum'],Dexs,343,4253.0,12492.0,-37.18,-60.62,-53.4
 Apex DeFi,"['Avalanche', 'Base', 'Ethereum']",Dexs,328,3848.0,22456.0,-11.11,-67.72,-53.41
-Meridian Swap,['Telos'],Dexs,306,2086.0,8113.0,302.63,-71.67,-10.26
-firefly,['Manta'],Dexs,295,2994.0,15909.0,-38.67,-67.55,-73.85
-EagleFi,['Massa'],Dexs,288,1796.0,14471.0,2.13,-59.72,-59.32
-DragonSwap V2 Kaia,['Kaia'],Dexs,287,4834.0,51150.0,1.06,-84.31,-93.38
-VaporDex V2,['Avalanche'],Dexs,280,16571.0,30140.0,-88.6,-60.84,21.21
-Meme Cooking,['Near'],Launchpad,270,11228.0,57097.0,297.06,-8.16,-61.65
-Voltage AMM,['Fuse'],Dexs,269,1611.0,27190.0,14.47,-90.18,-61.07
+EagleFi,['Massa'],Dexs,328,1796.0,14471.0,16.31,-54.13,-53.67
+firefly,['Manta'],Dexs,304,2994.0,15909.0,-36.8,-66.56,-73.05
+Aequinox,['BSC'],Dexs,298,3170.0,308558.0,14.18,-84.18,-99.58
+Meridian Swap,['Telos'],Dexs,294,2086.0,8113.0,286.84,-72.78,-13.78
+Voltage AMM,['Fuse'],Dexs,287,1611.0,27190.0,22.13,-89.53,-58.47
 FVM Exchange,['Fantom'],Dexs,266,1301.0,9073.0,375.0,-51.01,150.94
-OkieSwap V2,['X Layer'],Dexs,258,46204.0,121612.0,-50.29,-86.83,-85.69
-Aequinox,['BSC'],Dexs,254,3170.0,308558.0,-2.68,-86.52,-99.64
-Arena Launch,['Avalanche'],Launchpad,249,7556.0,176869.0,-34.13,-90.56,-66.12
 Levinswap,['Gnosis'],Dexs,249,2781.0,15110.0,27.69,-94.67,-82.25
 Arch Swap,['Botanix'],Dexs,244,1810.0,193977.0,,-65.59,-99.08
+Arena Launch,['Avalanche'],Launchpad,240,7556.0,176869.0,-36.51,-90.9,-67.35
+DackieSwap V2,"['Base', 'OP Mainnet', 'Arbitrum', 'Blast', 'Mode', 'Linea']",Dexs,238,4546.0,18893.0,-85.27,3.03,-93.56
+Cometh,['Polygon'],Dexs,232,3097.0,17646.0,-16.85,-84.86,-57.43
 SpaceDex,"['Arbitrum', 'BSC']",Derivatives,228,812.0,2267.0,-3.39,96.55,-5.39
-Cometh,['Polygon'],Dexs,214,3097.0,17646.0,-23.3,-86.03,-60.73
-DTX Dex V3,['Taiko'],Dexs,214,1171.0,4277.0,132.61,-61.51,33.75
+SparkDEX V2,['Flare'],Dexs,218,4685.0,50630.0,-71.28,-95.49,-98.66
+DTX Dex V3,['Taiko'],Dexs,211,1171.0,4277.0,129.35,-62.05,31.87
 Nearpad,['Aurora'],Dexs,204,6715.0,10758.0,-78.5,-51.54,-44.41
-DackieSwap V2,"['Base', 'OP Mainnet', 'Arbitrum', 'Blast', 'Mode', 'Linea']",Dexs,202,4546.0,18893.0,-87.5,-12.55,-94.54
+SmartDEX,['Polygon'],Dexs,194,1526.0,6198.0,-2.51,-68.04,-42.94
 Macaron AMM,['Bitlayer'],Dexs,190,3477.0,36139.0,-41.72,2.7,-95.15
 DiviSwap,['Chiliz'],Dexs,181,12682.0,104168.0,-82.89,-81.94,-86.07
 HiveSwap V2,['MAP Protocol'],Dexs,180,326.0,519.0,106.9,29.5,3500.0
 Complus Network,"['Polygon', 'BSC', 'Avalanche']",Dexs,178,2685.0,23028.0,-70.87,-93.04,-92.98
 Velocimeter V4,['IOTA EVM'],Dexs,166,2026.0,15847.0,-16.16,-89.46,-62.95
-SmartDEX,['Polygon'],Dexs,165,1526.0,6198.0,-17.09,-72.82,-51.47
-Hybra V2,['Hyperliquid L1'],Dexs,159,2588.0,23762.0,-23.92,-88.21,-92.13
+OkieSwap V2,['X Layer'],Dexs,163,46204.0,121612.0,-68.59,-91.68,-90.96
 Solar Dex,['Eclipse'],Dexs,159,1105.0,8547.0,48.6,-79.59,-78.37
 Goblins AMM,"['smartBCH', 'BSC', 'Base']",Dexs,159,1625.0,8932.0,-40.67,-83.94,-77.89
-Zebra V1,['Scroll'],Dexs,150,924.0,4871.0,54.64,-59.89,-51.3
+Hybra V2,['Hyperliquid L1'],Dexs,159,2588.0,23762.0,-23.92,-88.21,-92.13
+Axial,['Avalanche'],Dexs,155,25883.0,88552.0,61.46,-99.29,-97.76
 BeamSwap Classic,['Moonbeam'],Dexs,148,5646.0,31027.0,-71.54,-96.58,-94.66
-Axial,['Avalanche'],Dexs,146,25883.0,88552.0,52.08,-99.33,-97.89
+Zebra V1,['Scroll'],Dexs,146,924.0,4871.0,50.52,-60.96,-52.6
+Ociswap Basic,['Radix'],Dexs,145,12106.0,56598.0,-97.62,-94.73,-98.66
 Holdstation Swap,"['ZKsync Era', 'Berachain']",Dexs,145,10404.0,87599.0,22.88,-90.93,-83.8
-Ociswap Basic,['Radix'],Dexs,144,12106.0,56598.0,-97.63,-94.77,-98.67
 Saddle Finance,"['Ethereum', 'Arbitrum']",Dexs,143,8065.0,31573.0,-84.66,-97.61,-72.97
-Shroomy Protocol Swap,['Ink'],Dexs,140,1398.0,1798378.0,976.92,-57.83,-80.72
 Basin Exchange,"['Ethereum', 'Arbitrum']",Dexs,137,382.0,17603.0,26.85,37.0,
+Shroomy Protocol Swap,['Ink'],Dexs,137,1398.0,1798378.0,953.85,-58.73,-81.13
 DerpDEX,"['ZKsync Era', 'Base']",Dexs,136,1457.0,5009.0,-36.74,-70.63,-34.62
 ViperSwap,['Harmony'],Dexs,127,2822.0,6343.0,139.62,-94.97,252.78
 Pearl V1,['Polygon'],Dexs,125,7511.0,14506.0,-96.52,-94.03,-55.52
 Razor DEX,['Movement'],Dexs,125,135.0,1388.0,1685.71,6150.0,-46.12
 Sushi Trident,"['Polygon', 'OP Mainnet', 'Arbitrum', 'BSC', 'Avalanche']",Dexs,120,1485.0,5163.0,-35.48,-58.9,-67.12
-LiquidLaunch,['Hyperliquid L1'],Launchpad,118,2978.0,128257.0,-71.15,-77.74,2850.0
+LiquidLaunch,['Hyperliquid L1'],Launchpad,117,2978.0,128257.0,-71.39,-77.92,2825.0
 Kensei,['Katana'],Launchpad,116,390.0,390.0,81.25,,
 FusionX V2,['Mantle'],Dexs,110,1130.0,32245.0,44.74,-74.06,-95.22
 PinkSwap,['BSC'],Dexs,108,2663.0,11994.0,-19.4,-87.67,-88.17
 Catalist DEX,['Endurance'],Dexs,106,160.0,514.0,0.0,-7.02,
 CobaltX,"['Soon Network', 'svmBNB', 'soonBase']",Dexs,105,253.0,1025.0,,228.13,12.9
 Ocelex V1,['Zircuit'],Dexs,93,595.0,2363.0,55.0,-58.3,-42.59
+LineHub V3,['Linea'],Dexs,87,738.0,6118.0,-36.96,-76.86,-72.03
+Sphynx,"['BSC', 'Cronos']",Dexs,85,882.0,5330.0,-15.84,-79.81,-81.28
 EmpireDEX,"['BSC', 'Cronos', 'Gnosis', 'Polygon', 'Fantom', 'Avalanche', 'Ethereum', 'Kava']",Dexs,79,668.0,3386.0,-36.8,-82.0,-67.76
-AlienFi,['Arbitrum'],Dexs,74,485.0,2024.0,80.49,-60.0,-49.66
-LineHub V3,['Linea'],Dexs,67,738.0,6118.0,-51.45,-82.18,-78.46
+AlienFi,['Arbitrum'],Dexs,78,485.0,2024.0,90.24,-57.84,-46.94
 HumanFi,['World Chain'],DEX Aggregator,64,710.0,2811.0,-11.11,36.17,-46.67
-Sphynx,"['BSC', 'Cronos']",Dexs,60,882.0,5330.0,-40.59,-85.75,-86.78
 Baryon Network,"['BSC', 'Ancient8', 'KUB']",Dexs,57,1686.0,4960.0,-5.0,-80.55,-47.22
-ChimpX AI,['Linea'],Dexs,56,498.0,1267.0,250.0,-52.14,69.7
-BeamSwap Stable AMM,['Moonbeam'],Dexs,53,2506.0,12917.0,82.76,-87.56,-22.06
+BeamSwap Stable AMM,['Moonbeam'],Dexs,54,2506.0,12917.0,86.21,-87.32,-20.59
+AmpleSwap,['BSC'],Dexs,44,1052.0,7857.0,-77.44,-86.16,-93.57
+Mobius Money,['Celo'],Dexs,43,1129.0,6002.0,-6.52,-94.38,-82.45
+YieldFields,['BSC'],Dexs,43,472.0,3170.0,-53.26,-80.89,-89.0
 Swapsicle V2,"['Mantle', 'Telos', 'Taiko']",Dexs,41,1523.0,63797.0,-65.25,-96.1,-98.71
-YieldFields,['BSC'],Dexs,40,472.0,3170.0,-56.52,-82.22,-89.77
 Unicly,['Ethereum'],Dexs,38,161.0,1709.0,850.0,52.0,65.22
-Mobius Money,['Celo'],Dexs,37,1129.0,6002.0,-19.57,-95.16,-84.9
-AmpleSwap,['BSC'],Dexs,37,1052.0,7857.0,-81.03,-88.36,-94.59
-Gin Finance,['Boba'],Dexs,32,482.0,1435.0,-3.03,-61.45,-77.3
+Gin Finance,['Boba'],Dexs,34,482.0,1435.0,3.03,-59.04,-75.89
 Pandora,['BSC'],Dexs,32,480.0,3233.0,-45.76,-88.53,-88.93
-JustBet,['WINR'],Luck Games,31,700696.0,3780142.0,-99.99,-99.95,-99.98
+WhaleSwap,"['BSC', 'Fantom']",Dexs,31,259.0,1130.0,0.0,-76.69,-55.07
 Defi Kingdoms,['Harmony'],Dexs,30,1345.0,59645.0,-71.43,-99.95,-93.36
-WhaleSwap,"['BSC', 'Fantom']",Dexs,29,259.0,1130.0,-6.45,-78.2,-57.97
+Cleopatra Legacy,['Mantle'],Dexs,29,509.0,3757.0,-38.3,-85.57,-94.98
+Nuri Legacy,['Scroll'],Dexs,29,101.0,1189.0,222.22,-23.68,-21.62
 Pangea Swap,['Kaia'],Dexs,29,963.0,11476.0,-39.58,-98.3,-93.74
-MM Finance Arbitrum,['Arbitrum'],Dexs,27,107.0,499.0,68.75,-10.0,3.85
-Soy Finance,['Callisto'],Dexs,27,575.0,1702.0,80.0,-81.38,-76.92
+ChimpX AI,['Linea'],Dexs,27,498.0,1267.0,68.75,-76.92,-18.18
 Ninja Blaze,['Injective'],Prediction Market,27,1159.0,12332.0,-91.84,12.5,-84.48
-Omax Swap,['Omax'],Dexs,22,520.0,7463.0,-4.35,-84.4,-56.86
-Cleopatra Legacy,['Mantle'],Dexs,21,509.0,3757.0,-55.32,-89.55,-96.37
+Soy Finance,['Callisto'],Dexs,27,575.0,1702.0,80.0,-81.38,-76.92
+Omax Swap,['Omax'],Dexs,25,520.0,7463.0,8.7,-82.27,-50.98
+MM Finance Arbitrum,['Arbitrum'],Dexs,25,107.0,499.0,56.25,-16.67,-3.85
 BeamSwap V3,['Moonbeam'],Dexs,21,508.0,4153.0,-65.0,-92.47,-80.0
 Solarflare,['Moonbeam'],Dexs,19,888.0,6003.0,216.67,-96.79,-98.77
-Yoshi Exchange,"['Fantom', 'BSC', 'Ethereum']",Dexs,17,199.0,1639.0,-39.29,-88.96,-88.74
-Embr Finance,['Avalanche'],Dexs,16,530.0,1417.0,-15.79,-86.67,-70.91
-ProtoFi,['Fantom'],Dexs,16,362.0,2432.0,300.0,-89.04,-71.93
+Yoshi Exchange,"['Fantom', 'BSC', 'Ethereum']",Dexs,18,199.0,1639.0,-35.71,-88.31,-88.08
+Embr Finance,['Avalanche'],Dexs,17,530.0,1417.0,-10.53,-85.83,-69.09
 Elektrik,['LightLink'],Dexs,16,41.0,1490.0,,,45.45
+ProtoFi,['Fantom'],Dexs,16,362.0,2432.0,300.0,-89.04,-71.93
+SupSwap V2,['Mode'],Dexs,15,98.0,527.0,87.5,-62.5,-57.14
 cytoswap,['HeLa'],Dexs,15,1061.0,3251.0,,-97.56,-34.78
-SupSwap V2,['Mode'],Dexs,14,98.0,527.0,75.0,-65.0,-60.0
 Omni Exchange Flux,"['Base', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Sonic', 'Plasma', 'BSC']",Dexs,14,163.0,4827.0,-39.13,-80.82,-91.46
-3xcalibur,['Arbitrum'],Dexs,14,121.0,394.0,-61.11,-33.33,-78.79
 Morpheus Swap,['Fantom'],Dexs,13,249.0,1984.0,62.5,-90.0,-69.77
-Solidly,['Fantom'],Dexs,12,143.0,1262.0,200.0,-77.78,-67.57
+3xcalibur,['Arbitrum'],Dexs,12,121.0,394.0,-66.67,-42.86,-81.82
+Solidly,['Fantom'],Dexs,11,143.0,1262.0,175.0,-79.63,-70.27
 SoulSwap,['Fantom'],Dexs,11,66.0,265.0,120.0,-21.43,450.0
 Canary,['Avalanche'],Dexs,10,77.0,285.0,-28.57,-77.27,66.67
 Moai V3,['XRPL EVM'],Dexs,10,1119.0,8546.0,-82.46,-98.28,-97.56
-Nuri Legacy,['Scroll'],Dexs,9,101.0,1189.0,0.0,-76.32,-75.68
-DAO Swap,['BSC'],Dexs,9,209.0,968.0,-30.77,-89.41,-86.57
 Fenix Concentrated Liquidity,['Blast'],Dexs,9,71.0,756.0,28.57,-94.04,-52.63
+DAO Swap,['BSC'],Dexs,9,209.0,968.0,-30.77,-89.41,-86.57
 Archly V2,"['Arbitrum Nova', 'Arbitrum', 'Avalanche', 'Base', 'Blast', 'BSC', 'Cronos', 'Ethereum', 'Fantom', 'Filecoin', 'Fraxtal', 'Kava', 'Mantle', 'Metis', 'Mode', 'Neon', 'OP Mainnet', 'Polygon', 'Sonic', 'Telos', 'ZKsync Era', 'Zora']",Dexs,8,69.0,180.0,-42.86,14.29,0.0
-ZipSwap,['Arbitrum'],Dexs,7,39.0,154.0,75.0,-53.33,-41.67
-LineHub V2,['Linea'],Dexs,6,32.0,147.0,200.0,-50.0,-40.0
 ChampagneSwap,['BSC'],Dexs,5,65.0,381.0,-28.57,-88.1,-86.49
+ZipSwap,['Arbitrum'],Dexs,5,39.0,154.0,25.0,-66.67,-58.33
 TangleSwap,['ShimmerEVM'],Dexs,5,44.0,276.0,150.0,25.0,150.0
-Polaris Finance,"['Aurora', 'Telos']",Dexs,5,144.0,8782.0,-82.76,-76.19,-99.32
-Metavault AMM V2,"['Scroll', 'Linea']",Dexs,4,30.0,132.0,300.0,-69.23,-33.33
+LineHub V2,['Linea'],Dexs,5,32.0,147.0,150.0,-58.33,-50.0
 LeonicornSwap,['BSC'],Dexs,4,68.0,413.0,-33.33,-89.74,-91.84
 LumenSwap,['Stellar'],Dexs,3,66.0,14069891.0,-90.63,-25.0,-100.0
+Metavault AMM V2,"['Scroll', 'Linea']",Dexs,3,30.0,132.0,200.0,-76.92,-50.0
+Polaris Finance,"['Aurora', 'Telos']",Dexs,3,144.0,8782.0,-89.66,-85.71,-99.59
 Darkness,['Cronos'],Dexs,3,71.0,115.0,-82.35,-40.0,-62.5
+Keller Finance V3,['Scroll'],Dexs,2,4.0,13.0,,,0.0
 Upheaval V2,['Hyperliquid L1'],Dexs,2,37.0,177.0,-50.0,-80.0,-75.0
 Sonic Market AMM,['Sonic'],Dexs,2,666.0,967.0,-99.68,-95.12,-33.33
-Keller Finance V3,['Scroll'],Dexs,2,4.0,13.0,,,0.0
-Mondrian Swap,['Abstract'],Dexs,1,1.0,3.0,,-50.0,
 Koyo Finance,['Boba'],Dexs,1,44.0,125.0,0.0,-88.89,-87.5
+Mondrian Swap,['Abstract'],Dexs,1,1.0,3.0,,-50.0,
+Forge,['Evmos'],Dexs,0,,,,,
+Tea-Fi,"['Polygon', 'Ethereum']",Yield,0,0.0,0.0,,,
+Puppyfun,['BSC'],Launchpad,0,236.0,137513.0,,-100.0,-100.0
+Umbra,['Eclipse'],Dexs,0,,,,,
+Sandglass,"['Solana', 'Eclipse']",Yield,0,1863.0,67865.0,,-100.0,-100.0
+SyncSwap V3,"['ZKsync Era', 'Linea', 'Sophon']",Dexs,0,,,,,-100.0
+GooseFX V2,['Solana'],Dexs,0,,,,,
+SatoshiCoreSwap,['CORE'],Dexs,0,0.0,0.0,,,
+MERLIN DEX,['ZKsync Era'],Dexs,0,,,,,
+Noah Swap,['EOS EVM'],Dexs,0,,0.0,,,
+Tealswap V2,['Oasys'],Dexs,0,,1620.0,,,-100.0
+SMBSwap V3,['BSC'],Dexs,0,,,,,
+MM Stableswap Polygon,['Polygon'],Dexs,0,2.0,18.0,,,-100.0
+Lif3 Swap,['Tombchain'],Dexs,0,0.0,12122.0,,,-100.0
+Junoswap,['Juno'],Dexs,0,,,,,
+DefiPlaza,"['Ethereum', 'Radix']",Dexs,0,,,,,
+Econia,['Aptos'],Dexs,0,0.0,672.0,,,
+JediSwap V2,['Starknet'],Dexs,0,,,,,
+Standard Protocol Mode,['Mode'],Dexs,0,0.0,0.0,,,
+Voltage V3,['Fuse'],Dexs,0,0.0,0.0,,,
+Titan Dex,['TON'],Dexs,0,0.0,0.0,,,
+Sonicxswap,['Sonic'],Dexs,0,0.0,0.0,,,
+CarbonSwap,['EnergyWeb'],Dexs,0,4333.0,26039.0,-100.0,-100.0,
+JSwap,['OKTChain'],Dexs,0,,,,,
+Auragi Finance,['Arbitrum'],Dexs,0,,,,,
+Kaidex,['Kardia'],Dexs,0,,,,,
+MantisSwap,"['Polygon', 'Polygon zkEVM', 'Mode']",Dexs,0,42.0,1322.0,,,-100.0
+SithSwap,['Starknet'],Dexs,0,,,,,
+Swapline V1,"['Fantom', 'OP Mainnet', 'Arbitrum', 'ShimmerEVM']",Dexs,0,,,,,
+Hadouken AMM,['GodwokenV1'],Dexs,0,1714.0,15676.0,-100.0,-100.0,-100.0
+Sharpe Magnum,['Ethereum'],Yield,0,0.0,0.0,,,
+Maia V3,['Metis'],Dexs,0,,,,,
+VanSwap,['Vision'],Dexs,0,,,,,
+Aktionariat,"['Ethereum', 'OP Mainnet', 'Polygon']",RWA,0,,,,,
+Chainge Finance,['Fusion'],Dexs,0,,,,,
+Litx,"['BSC', 'PulseChain']",Dexs,0,0.0,0.0,,,
+Concordex,['Concordium'],Dexs,0,0.0,0.0,,,
+Equity,['Fantom'],Derivatives,0,0.0,0.0,,,
+PegaSys V3,['Rollux'],Dexs,0,345.0,351.0,,,
+Pinnako,['ZKsync Era'],Derivatives,0,,,,,
+Pearl V2,['re.al'],Dexs,0,,,,,
+C3 Exchange,"['Algorand', 'Avalanche', 'Bitcoin', 'Ethereum', 'Arbitrum', 'BSC', 'Solana']",Cross Chain Bridge,0,,,,,
+YFX V4,"['Arbitrum', 'Base']",Derivatives,0,,,,,
+Copump,"['CORE', 'Sonic', 'Sophon', 'Morph', 'Celo', 'Soneium', 'Scroll', 'Linea', 'Taiko']",Launchpad,0,,0.0,,,
+Physica Finance,['Planq'],Dexs,0,,,,,
+Kokonut Swap,"['Kaia', 'Polygon zkEVM', 'Base']",Dexs,0,0.0,0.0,,,
+SharkSwap,['SX Network'],Dexs,0,,,,,
+Acala Swap,['Acala'],Dexs,0,,841735.0,,,-100.0
+Nostra Pools,['Starknet'],Dexs,0,2982030.0,38994242.0,,-100.0,-100.0
+Lexer Markets,['Arbitrum'],Derivatives,0,0.0,0.0,,,
+O.LAB,['Base'],Prediction Market,0,,71.0,,,-100.0
+InfinityPools,['Base'],Derivatives,0,,,,,
+Polkadex,['Polkadex'],Dexs,0,,,,,
+Omnidrome,['ZetaChain'],Dexs,0,0.0,0.0,,,
+ZigZag,['ZKsync Lite'],Dexs,0,,,,,
+Ginseng Swap,['Conflux'],Dexs,0,0.0,12826.0,,,-100.0
+Fibonacci Dex,['Form Network'],Dexs,0,,,,,
 Algofi Swap,['Algorand'],Dexs,0,,,,,
 OKCSwap,['OKTChain'],Dexs,0,,245.0,,,
 Swaap Maker V1,['Polygon'],Dexs,0,,,,,
 PYEswap,['BSC'],Dexs,0,0.0,0.0,,,
-SyncSwap V3,"['ZKsync Era', 'Linea', 'Sophon']",Dexs,0,,,,,-100.0
-GooseFX V2,['Solana'],Dexs,0,,,,,
-Copump,"['CORE', 'Sonic', 'Sophon', 'Morph', 'Celo', 'Soneium', 'Scroll', 'Linea', 'Taiko']",Launchpad,0,,0.0,,,
-10KSwap,['Starknet'],Dexs,0,,,,,
-Sonicxswap,['Sonic'],Dexs,0,0.0,0.0,,,
-CarbonSwap,['EnergyWeb'],Dexs,0,4333.0,26039.0,-100.0,-100.0,
-DyorSwap AMM,"['Mode', 'Blast', 'Plasma']",Dexs,0,,,,,-100.0
-PlunderSwap V2,['Zilliqa'],Dexs,0,0.0,0.0,,,
-Ascent Exchange V1,['Horizen EON'],Dexs,0,,,,,
-Ascent Exchange V3,['Horizen EON'],Dexs,0,,,,,
-StarkDeFI,['Starknet'],Dexs,0,,0.0,,,
-Ryze.Fi,['Arbitrum'],Derivatives,0,,,,,
-Titan Dex,['TON'],Dexs,0,0.0,0.0,,,
-Maximus,['Fantom'],Dexs,0,,,,,
-DPEX,['Polygon'],Derivatives,0,0.0,0.0,,,
-FastJPEG,['Base'],Launchpad,0,2.0,293.0,,,
-Chronos V2,['Arbitrum'],Dexs,0,0.0,0.0,,,
-Throne V3,['Base'],Dexs,0,0.0,0.0,,,
-LuigiSwap,['Scroll'],Dexs,0,0.0,0.0,,,
-Monocerus,"['Avalanche', 'Manta']",Dexs,0,0.0,0.0,,,
-DX25,['MultiversX'],Dexs,0,,,,,
-Aldrin,['Solana'],Dexs,0,,,,,
-CandySwap,['MEER'],Dexs,0,,,,,
-Voodoo Trade Base,['Base'],Derivatives,0,0.0,0.0,,,
-JSwap,['OKTChain'],Dexs,0,,,,,
-Chainge Finance,['Fusion'],Dexs,0,,,,,
-Kaidex,['Kardia'],Dexs,0,,,,,
-DefiPlaza,"['Ethereum', 'Radix']",Dexs,0,,,,,
-Synthetify,['Solana'],Synthetics,0,,,,,
-KIM Exchange V1,['Mode'],Dexs,0,,,,,
-Primex Finance,"['Polygon', 'Arbitrum', 'Ethereum', 'Base']",Derivatives,0,0.0,157101.0,,,
-Sandglass,"['Solana', 'Eclipse']",Yield,0,1863.0,67865.0,,-100.0,-100.0
-Rockswap,['Bitrock'],Dexs,0,0.0,0.0,,,-100.0
-Auragi Finance,['Arbitrum'],Dexs,0,,,,,
-Aktionariat,"['Ethereum', 'OP Mainnet', 'Polygon']",RWA,0,,,,,
-Beralis V3,['Berachain'],Dexs,0,,,,,
-MistSwap,['smartBCH'],Dexs,0,0.0,0.0,,,
-BenSwap,"['BSC', 'smartBCH']",Dexs,0,0.0,0.0,,,
-ZigZag,['ZKsync Lite'],Dexs,0,,,,,
-JIBSWAP,['JBC'],Dexs,0,448.0,710.0,,-100.0,
-Hummus AMM,['Metis'],Dexs,0,65775.0,133943.0,-100.0,-100.0,-100.0
-CryptoSwap,['BSC'],Dexs,0,0.0,103.0,,,-100.0
-Spartacus Exchange,['Fantom'],Dexs,0,0.0,0.0,,,
-Kokonut Swap,"['Kaia', 'Polygon zkEVM', 'Base']",Dexs,0,0.0,0.0,,,
-SharkSwap,['SX Network'],Dexs,0,,,,,
-Acala Swap,['Acala'],Dexs,0,,841735.0,,,-100.0
-VinuNFT,['VinuChain'],NFT Marketplace,0,0.0,0.0,,,
-SailFish Finance,['EDU Chain'],Dexs,0,,625169.0,,,-100.0
-Ginseng Swap,['Conflux'],Dexs,0,0.0,12826.0,,,-100.0
-Kriya AMM,['Sui'],Dexs,0,0.0,136890.0,,-100.0,
-SquadSwap V3,['BSC'],Dexs,0,0.0,0.0,,,
-Xena Finance,['Base'],Derivatives,0,,,,,
-Nostra Pools,['Starknet'],Dexs,0,2982030.0,38994242.0,,-100.0,-100.0
-ZyberSwap Stableswap,['Arbitrum'],Dexs,0,46.0,103.0,-100.0,,-100.0
-OnePunchSwap,['BSC'],Dexs,0,,,,,
-Megaton Finance,['TON'],Dexs,0,,,,,
-Clober V1,"['Ethereum', 'Polygon', 'Arbitrum', 'Polygon zkEVM']",Dexs,0,,,,,
-Umbra,['Eclipse'],Dexs,0,,,,,
-Subzero ZSwap,['Avalanche'],Dexs,0,3.0,10.0,,-100.0,-100.0
-Capricorn Finance,['Cube'],Dexs,0,,,,,
-Tomb Swap,['Fantom'],Dexs,0,0.0,0.0,,,
-Zircon Gamma,['Moonriver'],Dexs,0,,,,,
-Fibonacci Dex,['Form Network'],Dexs,0,,,,,
-Degen Express,['Sonic'],Launchpad,0,0.0,47.0,,,
-Tea-Fi,"['Polygon', 'Ethereum']",Yield,0,0.0,0.0,,,
-Puppyfun,['BSC'],Launchpad,0,236.0,137513.0,,-100.0,-100.0
-VeniceSwap,['Findora'],Dexs,0,,,,,
-OPX Finance,['OP Mainnet'],Derivatives,0,0.0,0.0,,,
-Step Exchange,['Step'],Dexs,0,,,,,
-Archly V1,['Telos'],Dexs,0,1.0,2.0,,,
-OpenBook,['Solana'],Dexs,0,0.0,0.0,,,
-Shell Protocol,['Arbitrum'],Dexs,0,,,,,
-DyorSwap Launchpad,['Plasma'],Launchpad,0,0.0,13259.0,,,-100.0
-WEMIX Full Range Deposit,['WEMIX3.0'],Dexs,0,,,,,
-MantisSwap,"['Polygon', 'Polygon zkEVM', 'Mode']",Dexs,0,42.0,1322.0,,,-100.0
-Syrup Finance,['BSC'],Derivatives,0,,,,,
-Swapline V1,"['Fantom', 'OP Mainnet', 'Arbitrum', 'ShimmerEVM']",Dexs,0,,,,,
-Hadouken AMM,['GodwokenV1'],Dexs,0,1714.0,15676.0,-100.0,-100.0,-100.0
-Sharpe Magnum,['Ethereum'],Yield,0,0.0,0.0,,,
-Surfswap Classic,['Kava'],Dexs,0,0.0,0.0,,,
-Retro,['Polygon'],Dexs,0,,100601.0,,,-100.0
-CrescentSwap,['Arbitrum'],Dexs,0,1.0,37.0,,-100.0,-100.0
-Velocore V2,['Linea'],Dexs,0,0.0,0.0,,,
-1776.MEME,['Ethereum'],Launchpad,0,0.0,126.0,,,-100.0
-SithSwap,['Starknet'],Dexs,0,,,,,
-OpenBiSea,['DChain'],Dexs,0,0.0,0.0,,,
-Moon Swap,['Conflux'],Dexs,0,,,,,
-CherrySwap,['OKTChain'],Dexs,0,0.0,0.0,,,
-Prophet.fun,['Solana'],Prediction Market,0,0.0,2120.0,,,
-Orca Wavebreak,['Solana'],Launchpad,0,536.0,1257.0,-100.0,-100.0,-100.0
-KuraSwap CL,['Sei'],Dexs,0,,895828.0,,,-100.0
-MakiSwap,['Heco'],Dexs,0,,0.0,,,
-BXH,"['BSC', 'Ethereum', 'Avalanche']",Dexs,0,1.0,29.0,-100.0,,-100.0
-MetaTdex,['Polygon'],Dexs,0,,,,,
-OkieLaunch,['X Layer'],Launchpad,0,,2.0,,,
-BlueMove DEX,['Aptos'],Dexs,0,,,,,
-CroSwap,['Cronos'],Dexs,0,,,,,
-AirSwap,"['Ethereum', 'Polygon', 'Avalanche', 'BSC', 'Arbitrum']",DEX Aggregator,0,0.0,0.0,,,
-Arbitrum Exchange V3,['Arbitrum'],Dexs,0,0.0,0.0,,,
-Dexter Exchange,['Tezos'],Dexs,0,,,,,
-FXDX,['Base'],Derivatives,0,0.0,0.0,,,
-HeliSwap,['Hedera'],Dexs,0,108.0,5956.0,,-100.0,-100.0
-Aqua,['Solana'],Telegram Bot,0,,,,,
-VanSwap,['Vision'],Dexs,0,,,,,
-Volta Markets,['CORE'],Derivatives,0,0.0,88682.0,,,-100.0
-UniFi,"['Avalanche', 'Bittorrent', 'Tron', 'OntologyEVM', 'Harmony', 'BSC', 'Ethereum', 'Icon', 'IoTeX', 'Polygon']",Dexs,0,,,,,
-Moai V2,['XRPL EVM'],Dexs,0,0.0,0.0,,,
-Yodeswap,['Dogechain'],Dexs,0,,,,,
-Canto Dex,['Canto'],Dexs,0,8090.0,128387.0,-100.0,-100.0,-100.0
-dexSWAP,['Arbitrum'],Dexs,0,0.0,0.0,,,
-FCON DEX,['Mantle'],Dexs,0,,,,,
-Nexapia,['Flare'],Dexs,0,,,,,
+MiaSwap,['Onus'],Dexs,0,189.0,636.0,,-100.0,-100.0
 PheasantSwap,['ENULS'],Dexs,0,,,,,
 Hydradex V3,['Hydra Chain'],Dexs,0,4993.0,21241.0,-100.0,-100.0,-100.0
 Veax,['Near'],Dexs,0,0.0,13582.0,,,-100.0
-BLEX,['Arbitrum'],Derivatives,0,0.0,0.0,,,
-El Dorado Exchange,['Arbitrum'],Derivatives,0,,,,,
-Mummy Finance,"['Fantom', 'OP Mainnet']",Derivatives,0,0.0,0.0,,,
-mySwap V1,['Starknet'],Dexs,0,0.0,0.0,,,
-ABcDeFX,"['Fantom', 'KCC', 'Kava']",Dexs,0,0.0,0.0,,,
+Kriya AMM,['Sui'],Dexs,0,0.0,136890.0,,-100.0,
+BlueMove DEX,['Aptos'],Dexs,0,,,,,
+CroSwap,['Cronos'],Dexs,0,,,,,
+AirSwap,"['Ethereum', 'Polygon', 'Avalanche', 'BSC', 'Arbitrum']",DEX Aggregator,0,0.0,0.0,,,
+Degen Express,['Sonic'],Launchpad,0,0.0,47.0,,,
 Wojak Finance,['Dogechain'],Dexs,0,,0.0,,,
+Tomb Swap,['Fantom'],Dexs,0,0.0,0.0,,,
+Zircon Gamma,['Moonriver'],Dexs,0,,,,,
+SMBSwap V2,['BSC'],Dexs,0,3.0,89.0,,-100.0,-100.0
+FairySwap V1,['Findora'],Dexs,0,,,,,
+Hydradex V2,['Hydra'],Dexs,0,,,,,
+Pandora Swap,['Astar'],Dexs,0,0.0,0.0,,,
+Keller Finance V2,['Scroll'],Dexs,0,0.0,0.0,,,
+savmSwap,['SatoshiVM'],Dexs,0,,,,,
+Equation V3,['Arbitrum'],Derivatives,0,,,,,
+Revoswap,['X Layer'],Dexs,0,,184000.0,,,-100.0
+PotatoSwap V2,['X Layer'],Dexs,0,,95533529.0,,,-100.0
+Penguin,['Solana'],Dexs,0,,,,,
+TempleDAO Trade,['Ethereum'],Dexs,0,,,,,
+DPEX,['Polygon'],Derivatives,0,0.0,0.0,,,
+ZyberSwap Stableswap,['Arbitrum'],Dexs,0,46.0,103.0,-100.0,,-100.0
+OnePunchSwap,['BSC'],Dexs,0,,,,,
+Megaton Finance,['TON'],Dexs,0,,,,,
+Fjord V2,"['Ethereum', 'Polygon', 'Arbitrum', 'Avalanche', 'Base', 'Blast', 'BSC']",Launchpad,0,0.0,0.0,,,
+FeeFree,"['Zora', 'Base', 'Scroll']",Dexs,0,78.0,392.0,,,
+Fjord V1,"['Ethereum', 'Polygon', 'Arbitrum']",Launchpad,0,,,,,
+KuraSwap CL,['Sei'],Dexs,0,,895828.0,,,-100.0
+MakiSwap,['Heco'],Dexs,0,,0.0,,,
+BXH,"['BSC', 'Ethereum', 'Avalanche']",Dexs,0,1.0,29.0,-100.0,,-100.0
+Aqua,['Solana'],Telegram Bot,0,,,,,
+Tetu Swap,['Polygon'],Yield,0,0.0,0.0,,,
+LiquidSwap,['Aptos'],Dexs,0,,720644.0,,,-100.0
+Capricorn Finance,['Cube'],Dexs,0,,,,,
+Wavelength DAO,['Velas'],Dexs,0,0.0,0.0,,,
+HeliSwap,['Hedera'],Dexs,0,108.0,5956.0,,-100.0,-100.0
+MetaTdex,['Polygon'],Dexs,0,,,,,
+OPX Finance,['OP Mainnet'],Derivatives,0,0.0,0.0,,,
+Shell Protocol,['Arbitrum'],Dexs,0,,,,,
+AstroSwap,['Velas'],Dexs,0,0.0,0.0,,,
+Helix Markets,['ICP'],Dexs,0,,,,,
+Syrup Finance,['BSC'],Derivatives,0,,,,,
+Maximus,['Fantom'],Dexs,0,,,,,
+AUX Exchange,['Aptos'],Dexs,0,,,,,
+Velocimeter V2,['Canto'],Dexs,0,390.0,4285.0,-100.0,-100.0,-100.0
+WEMIX Full Range Deposit,['WEMIX3.0'],Dexs,0,,,,,
+Volta Markets,['CORE'],Derivatives,0,0.0,88682.0,,,-100.0
+UniFi,"['Avalanche', 'Bittorrent', 'Tron', 'OntologyEVM', 'Harmony', 'BSC', 'Ethereum', 'Icon', 'IoTeX', 'Polygon']",Dexs,0,,,,,
+Moai V2,['XRPL EVM'],Dexs,0,0.0,0.0,,,
+1776.MEME,['Ethereum'],Launchpad,0,0.0,126.0,,,-100.0
+Nexapia,['Flare'],Dexs,0,,,,,
+Synthetify,['Solana'],Synthetics,0,,,,,
+Clober V1,"['Ethereum', 'Polygon', 'Arbitrum', 'Polygon zkEVM']",Dexs,0,,,,,
+FastJPEG,['Base'],Launchpad,0,2.0,293.0,,,
+Subzero ZSwap,['Avalanche'],Dexs,0,3.0,10.0,,-100.0,-100.0
+Bisq,['Bitcoin'],Dexs,0,,,,,
+PancakeSwap AMM V1,['BSC'],Dexs,0,,,,,
+Surfswap Stable AMM,['Kava'],Dexs,0,,,,,
+NLX Protocol,['CORE'],Derivatives,0,0.0,0.0,,,
+Ape.Store,"['Base', 'Ethereum']",Launchpad,0,,,,,
+ArtexSwap,['Artela'],Dexs,0,,,,,
+Aldrin,['Solana'],Dexs,0,,,,,
+VeniceSwap,['Findora'],Dexs,0,,,,,
 KuSwap,['KCC'],Dexs,0,,,,,
 Plenty,['Tezos'],Dexs,0,,,,,
 Terraswap,['Terra Classic'],Dexs,0,,,,,
 QuipuSwap V1,['Tezos'],Dexs,0,,,,,
-Equity,['Fantom'],Derivatives,0,0.0,0.0,,,
-PegaSys V3,['Rollux'],Dexs,0,345.0,351.0,,,
-Pinnako,['ZKsync Era'],Derivatives,0,,,,,
-Sobal,"['Base', 'Neon']",Dexs,0,15.0,768.0,,-100.0,-100.0
-Junoswap,['Juno'],Dexs,0,,,,,
-DeepBook V2,['Sui'],Dexs,0,,,,,
-AuraSwap,['Polygon'],Dexs,0,0.0,0.0,,,
-YFX,['Arbitrum'],Derivatives,0,0.0,0.0,,,
-Danogo,['Cardano'],Dexs,0,0.0,0.0,,,
-Kinetix Derivatives,['Kava'],Derivatives,0,,,,,
-Nether.Fi,['Base'],Derivatives,0,,,,,
-Kinetix AMM V2,"['Kava', 'Base']",Dexs,0,0.0,0.0,,,
-Kinetix AMM V3,['Kava'],Dexs,0,,,,,
-Tegro,"['Ethereum', 'Polygon', 'Avalanche', 'BSC', 'Arbitrum']",Dexs,0,,,,,
-Reax Swaps,['Mantle'],Dexs,0,,,,,
-Equation V3,['Arbitrum'],Derivatives,0,,,,,
-Morphex V1 AMM,['Fantom'],Dexs,0,,,,,
+CherrySwap,['OKTChain'],Dexs,0,0.0,0.0,,,
+Prophet.fun,['Solana'],Prediction Market,0,0.0,2120.0,,,
+Orca Wavebreak,['Solana'],Launchpad,0,536.0,1257.0,-100.0,-100.0,-100.0
+PonytaSwap,['Rangers'],Dexs,0,,,,,
+mySwap V1,['Starknet'],Dexs,0,0.0,0.0,,,
+MerlinSwap,['Merlin'],Dexs,0,,,,,
+Rockswap,['Bitrock'],Dexs,0,0.0,0.0,,,-100.0
+Gaming DEX,"['DeFiVerse', 'Oasys']",Dexs,0,,808000.0,,,-100.0
+Moraswap V3,['Neon'],Dexs,0,0.0,0.0,,,
+Mangrove,"['Blast', 'Arbitrum']",Dexs,0,0.0,0.0,,,
+Viridian Exchange,['CORE'],Dexs,0,0.0,0.0,,,
+KyberSwap Elastic,"['OP Mainnet', 'Arbitrum', 'Fantom', 'Avalanche', 'BSC', 'Polygon', 'Ethereum', 'Linea', 'Base', 'Scroll']",Dexs,0,,,,,
+Lighter V1,['Arbitrum'],Dexs,0,,,,,
+Mummy Finance,"['Fantom', 'OP Mainnet']",Derivatives,0,0.0,0.0,,,
 Blitz AMM,['Blast'],Dexs,0,,,,,
 Predict Fun,['Blast'],Prediction Market,0,,136.0,,,
-Quickswap Hydra,"['Polygon zkEVM', 'Manta']",Dexs,0,0.0,0.0,,,
-GraFun,"['BSC', 'Ethereum']",Launchpad,0,,,,,
-Ducata,['Arbitrum'],Yield,0,0.0,0.0,,,
-SpaceWhale,['Arbitrum'],Derivatives,0,528976.0,1272895.0,-100.0,-100.0,
-O.LAB,['Base'],Prediction Market,0,,71.0,,,-100.0
-FWX DEX,"['Avalanche', 'Base']",Dexs,0,,,,,
-OraiDEX Pool V3,['Oraichain'],Dexs,0,0.0,0.0,,,
+BLEX,['Arbitrum'],Derivatives,0,0.0,0.0,,,
+Xena Finance,['Base'],Derivatives,0,,,,,
+Monocerus,"['Avalanche', 'Manta']",Dexs,0,0.0,0.0,,,
+DX25,['MultiversX'],Dexs,0,,,,,
+Primex Finance,"['Polygon', 'Arbitrum', 'Ethereum', 'Base']",Derivatives,0,0.0,157101.0,,,
+CandySwap,['MEER'],Dexs,0,,,,,
+Bunni V2,"['Ethereum', 'Arbitrum', 'Base', 'Unichain', 'BSC']",Dexs,0,0.0,0.0,,,
 seiyan fun,['Sei'],Launchpad,0,,,,,
 TanukiX,['Taiko'],Dexs,0,0.0,0.0,,,
-XTrade,['X Layer'],Dexs,0,0.0,0.0,,,
-PonytaSwap,['Rangers'],Dexs,0,,,,,
-Velocimeter V2,['Canto'],Dexs,0,390.0,4285.0,-100.0,-100.0,-100.0
-C3 Exchange,"['Algorand', 'Avalanche', 'Bitcoin', 'Ethereum', 'Arbitrum', 'BSC', 'Solana']",Cross Chain Bridge,0,,,,,
-Saturn Swap,['Cardano'],Dexs,0,7375.0,30273.0,-100.0,-100.0,-100.0
-9mm V3,"['PulseChain', 'Base', 'Sonic']",Dexs,0,0.0,0.0,,,
-Hydrometer Finance,['Base'],Dexs,0,0.0,0.0,,,
-Wagmi Memepad,['TON'],Launchpad,0,,,,,
-YFX V4,"['Arbitrum', 'Base']",Derivatives,0,,,,,
-Polkadex,['Polkadex'],Dexs,0,,,,,
-Physica Finance,['Planq'],Dexs,0,,,,,
-BladeSwap CL,['Blast'],Dexs,0,,,,,
-Clober V2,"['Base', 'ZKsync Era']",Dexs,0,0.0,46.0,,,
-Ape.Store,"['Base', 'Ethereum']",Launchpad,0,,,,,
-Ape Jupiter,['Solana'],Launchpad,0,0.0,0.0,,,
-Trado Spot,['Flow'],Dexs,0,,,,,
+DyorSwap AMM,"['Mode', 'Blast', 'Plasma']",Dexs,0,,,,,-100.0
+PlunderSwap V2,['Zilliqa'],Dexs,0,0.0,0.0,,,
+Ascent Exchange V1,['Horizen EON'],Dexs,0,,,,,
+Ascent Exchange V3,['Horizen EON'],Dexs,0,,,,,
+Hermes Protocol,['Metis'],Dexs,0,0.0,0.0,,,
+Crema Finance,['Solana'],Dexs,0,31714.0,107092.0,-100.0,-100.0,-100.0
+OraiDEX Pool V3,['Oraichain'],Dexs,0,0.0,0.0,,,
+dexSWAP,['Arbitrum'],Dexs,0,0.0,0.0,,,
+StarkDeFI,['Starknet'],Dexs,0,,0.0,,,
+Ryze.Fi,['Arbitrum'],Derivatives,0,,,,,
+KIM Exchange V1,['Mode'],Dexs,0,,,,,
+JIBSWAP,['JBC'],Dexs,0,448.0,710.0,,-100.0,
+Voodoo Trade Base,['Base'],Derivatives,0,0.0,0.0,,,
+Quickswap Hydra,"['Polygon zkEVM', 'Manta']",Dexs,0,0.0,0.0,,,
+GraFun,"['BSC', 'Ethereum']",Launchpad,0,,,,,
+Morphex V1 AMM,['Fantom'],Dexs,0,,,,,
 MITTE,['Near'],NftFi,0,,,,,
 Microchain,['Fuel Ignition'],Dexs,0,,,,,
 Pearl V1.5,['re.al'],Dexs,0,,,,,
 KYEX,['ZetaChain'],Dexs,0,0.0,0.0,,,
 V12,['Fuel Ignition'],Dexs,0,,,,,
-NLX Protocol,['CORE'],Derivatives,0,0.0,0.0,,,
-Xei Finance,['Sei'],Dexs,0,,,,,
-Litx,"['BSC', 'PulseChain']",Dexs,0,0.0,0.0,,,
-Concordex,['Concordium'],Dexs,0,0.0,0.0,,,
-FlowSwap V2,['Flow'],Dexs,0,0.0,0.0,,,
+SuperSwap V2,['OP Mainnet'],Dexs,0,0.0,0.0,,,
+SuperSwap V3,['OP Mainnet'],Dexs,0,0.0,0.0,,,
+Throne V3,['Base'],Dexs,0,0.0,0.0,,,
+Trado Spot,['Flow'],Dexs,0,,,,,
+OkieLaunch,['X Layer'],Launchpad,0,,2.0,,,
+Mintiq Market,['XRPL EVM'],NFT Marketplace,0,0.0,6.0,,,
 Standard Protocol Somnia,['Somnia'],Dexs,0,0.0,24.0,,,-100.0
 SummitX Finance,['Camp Network'],Dexs,0,0.0,0.0,,,
 Gala Swap,['Gala'],Dexs,0,0.0,0.0,,,
-Serum,['Solana'],Dexs,0,,,,,
 BabyDoge Algebra,['BSC'],Dexs,0,0.0,80.0,,-100.0,-100.0
-GMX V1 AMM,"['Arbitrum', 'Avalanche']",Dexs,0,0.0,0.0,,,
+Legion,['Ethereum'],Launchpad,0,10508.0,10508.0,,,
+Serum,['Solana'],Dexs,0,,,,,
+PegaSys V2,['Syscoin'],Dexs,0,0.0,0.0,,,
+ALEX,['Stacks'],Dexs,0,,,,,
+ClaimSwap V1,['Kaia'],Dexs,0,0.0,0.0,,,
+WarpGate,['Immutable zkEVM'],Dexs,0,0.0,0.0,,,
 DFX V2,"['Ethereum', 'Polygon']",Dexs,0,607.0,4401.0,,-100.0,-100.0
-Mintiq Market,['XRPL EVM'],NFT Marketplace,0,0.0,6.0,,,
-Wavelength DAO,['Velas'],Dexs,0,0.0,0.0,,,
-AUX Exchange,['Aptos'],Dexs,0,,,,,
-LiquidSwap,['Aptos'],Dexs,0,,720644.0,,,-100.0
-Tetu Swap,['Polygon'],Yield,0,0.0,0.0,,,
+FlowSwap V2,['Flow'],Dexs,0,0.0,0.0,,,
+DyorSwap Launchpad,['Plasma'],Launchpad,0,0.0,13259.0,,,-100.0
 IDEX Classic,"['Ethereum', 'Polygon', 'BSC']",Dexs,0,,,,,
 KyberSwap Classic,"['OP Mainnet', 'Arbitrum', 'Fantom', 'Avalanche', 'BSC', 'Polygon', 'Ethereum', 'ZKsync Era', 'Linea', 'Scroll']",Dexs,0,,,,,
-Legion,['Ethereum'],Launchpad,0,10508.0,10508.0,,,
+zkLite Exchange,['ZKsync Lite'],Dexs,0,,,,,
+XTrade,['X Layer'],Dexs,0,0.0,0.0,,,
+GMX V1 AMM,"['Arbitrum', 'Avalanche']",Dexs,0,0.0,0.0,,,
 Metavault AMM,['Polygon'],Dexs,0,,,,,
 Orderly AMM,['Near'],Dexs,0,,,,,
 Level AMM,"['BSC', 'Arbitrum']",Dexs,0,0.0,0.0,,,
 Torch Dexs,['TON'],Dexs,0,,,,,
-AstroSwap,['Velas'],Dexs,0,0.0,0.0,,,
-Hermes Protocol,['Metis'],Dexs,0,0.0,0.0,,,
-Crema Finance,['Solana'],Dexs,0,31714.0,107092.0,-100.0,-100.0,-100.0
-PegaSys V2,['Syscoin'],Dexs,0,0.0,0.0,,,
-MiaSwap,['Onus'],Dexs,0,189.0,636.0,,-100.0,-100.0
+Morphex V2 AMM,"['Fantom', 'BSC']",Dexs,0,,,,,
 Vertex AMM,"['Arbitrum', 'Mantle', 'Sei', 'Base', 'Sonic', 'Abstract', 'Avalanche']",Dexs,0,,,,,
-PixelSwap (PIX),['TON'],Dexs,0,0.0,0.0,,,
+El Dorado Exchange,['Arbitrum'],Derivatives,0,,,,,
 KTX spot,"['BSC', 'Mantle', 'Arbitrum']",Dexs,0,0.0,2.0,,,
 Mango Markets V4 AMM,['Solana'],Dexs,0,,,,,
 Beamex AMM,['Moonbeam'],Dexs,0,,,,,
 Grizzly Trade AMM,['BSC'],Dexs,0,,,,,
-Maia V3,['Metis'],Dexs,0,,,,,
-Fathom AMM,['XDC'],Dexs,0,,,,,
-Heraswap,['Onus'],Dexs,0,0.0,0.0,,,
-Morphex V2 AMM,"['Fantom', 'BSC']",Dexs,0,,,,,
-UtyabSwap,['TON'],Dexs,0,,,,,
-NEBY DEX,['Oasis Sapphire'],Dexs,0,1653.0,1679.0,,,-100.0
-Mantis,"['Solana', 'Ethereum']",Dexs,0,,,,,
-Sonic Market OrderBook,['Sonic'],Dexs,0,0.0,0.0,,,
-dappOS IntentEX,['opBNB'],Dexs,0,,,,,
+ABcDeFX,"['Fantom', 'KCC', 'Kava']",Dexs,0,0.0,0.0,,,
+Step Exchange,['Step'],Dexs,0,,,,,
+Archly V1,['Telos'],Dexs,0,1.0,2.0,,,
+OpenBook,['Solana'],Dexs,0,0.0,0.0,,,
+10KSwap,['Starknet'],Dexs,0,,,,,
+PixelSwap (PIX),['TON'],Dexs,0,0.0,0.0,,,
+Surfswap Classic,['Kava'],Dexs,0,0.0,0.0,,,
+OpenBiSea,['DChain'],Dexs,0,0.0,0.0,,,
+Moon Swap,['Conflux'],Dexs,0,,,,,
 Vexchange,['VeChain'],Dexs,0,28413.0,100040.0,,-100.0,-100.0
 WingSwap,['Fantom'],Dexs,0,0.0,0.0,,,
 YokaiSwap,"['Godwoken', 'GodwokenV1']",Dexs,0,,,,,
-Spartan,['BSC'],Dexs,0,,,,,
-Astroport Classic,['Terra Classic'],Dexs,0,,,,,
-WarpGate,['Immutable zkEVM'],Dexs,0,0.0,0.0,,,
-Keller Finance V2,['Scroll'],Dexs,0,0.0,0.0,,,
-savmSwap,['SatoshiVM'],Dexs,0,,,,,
-Fjord V2,"['Ethereum', 'Polygon', 'Arbitrum', 'Avalanche', 'Base', 'Blast', 'BSC']",Launchpad,0,0.0,0.0,,,
-Revoswap,['X Layer'],Dexs,0,,184000.0,,,-100.0
-PotatoSwap V2,['X Layer'],Dexs,0,,95533529.0,,,-100.0
-TempleDAO Trade,['Ethereum'],Dexs,0,,,,,
 WagyuSwap,['Velas'],Dexs,0,0.0,0.0,,,
-InfinityPools,['Base'],Derivatives,0,,,,,
-ArtexSwap,['Artela'],Dexs,0,,,,,
+Astroport Classic,['Terra Classic'],Dexs,0,,,,,
+Canto Dex,['Canto'],Dexs,0,8090.0,128387.0,-100.0,-100.0,-100.0
+SailFish Finance,['EDU Chain'],Dexs,0,,625169.0,,,-100.0
+NEBY DEX,['Oasis Sapphire'],Dexs,0,1653.0,1679.0,,,-100.0
+Mantis,"['Solana', 'Ethereum']",Dexs,0,,,,,
+Sonic Market OrderBook,['Sonic'],Dexs,0,0.0,0.0,,,
+SquadSwap V3,['BSC'],Dexs,0,0.0,0.0,,,
+Hummus AMM,['Metis'],Dexs,0,65775.0,133943.0,-100.0,-100.0,-100.0
+CryptoSwap,['BSC'],Dexs,0,0.0,103.0,,,-100.0
+Spartacus Exchange,['Fantom'],Dexs,0,0.0,0.0,,,
+VinuNFT,['VinuChain'],NFT Marketplace,0,0.0,0.0,,,
 NOXA,['Abstract'],Dexs,0,0.0,0.0,,,
-Bunni V2,"['Ethereum', 'Arbitrum', 'Base', 'Unichain', 'BSC']",Dexs,0,0.0,0.0,,,
+Humble Defi,['Algorand'],Dexs,0,,,,,
 Penumbra Dex,['Penumbra'],Dexs,0,,,,,
 BEX,['Berachain'],Dexs,0,0.0,32670979.0,,,-100.0
-Lexer Markets,['Arbitrum'],Derivatives,0,0.0,0.0,,,
-Omnidrome,['ZetaChain'],Dexs,0,0.0,0.0,,,
-Moraswap V3,['Neon'],Dexs,0,0.0,0.0,,,
-JediSwap V2,['Starknet'],Dexs,0,,,,,
-Standard Protocol Mode,['Mode'],Dexs,0,0.0,0.0,,,
-Voltage V3,['Fuse'],Dexs,0,0.0,0.0,,,
-MerlinSwap,['Merlin'],Dexs,0,,,,,
-Tealswap V2,['Oasys'],Dexs,0,,1620.0,,,-100.0
-SMBSwap V3,['BSC'],Dexs,0,,,,,
-MM Stableswap Polygon,['Polygon'],Dexs,0,2.0,18.0,,,-100.0
-Lif3 Swap,['Tombchain'],Dexs,0,0.0,12122.0,,,-100.0
-Gaming DEX,"['DeFiVerse', 'Oasys']",Dexs,0,,808000.0,,,-100.0
-Econia,['Aptos'],Dexs,0,0.0,672.0,,,
-FairySwap V1,['Findora'],Dexs,0,,,,,
-Hydradex V2,['Hydra'],Dexs,0,,,,,
-Pandora Swap,['Astar'],Dexs,0,0.0,0.0,,,
-FeeFree,"['Zora', 'Base', 'Scroll']",Dexs,0,78.0,392.0,,,
-Fjord V1,"['Ethereum', 'Polygon', 'Arbitrum']",Launchpad,0,,,,,
-Mangrove,"['Blast', 'Arbitrum']",Dexs,0,0.0,0.0,,,
-Viridian Exchange,['CORE'],Dexs,0,0.0,0.0,,,
-Pearl V2,['re.al'],Dexs,0,,,,,
-Bisq,['Bitcoin'],Dexs,0,,,,,
-SuperSwap V3,['OP Mainnet'],Dexs,0,0.0,0.0,,,
+Beralis V3,['Berachain'],Dexs,0,,,,,
+MistSwap,['smartBCH'],Dexs,0,0.0,0.0,,,
+BenSwap,"['BSC', 'smartBCH']",Dexs,0,0.0,0.0,,,
+Arbitrum Exchange V3,['Arbitrum'],Dexs,0,0.0,0.0,,,
+AuraSwap,['Polygon'],Dexs,0,0.0,0.0,,,
+Dexter Exchange,['Tezos'],Dexs,0,,,,,
+Fathom AMM,['XDC'],Dexs,0,,,,,
+Heraswap,['Onus'],Dexs,0,0.0,0.0,,,
+FWX DEX,"['Avalanche', 'Base']",Dexs,0,,,,,
+dappOS IntentEX,['opBNB'],Dexs,0,,,,,
+Sobal,"['Base', 'Neon']",Dexs,0,15.0,768.0,,-100.0,-100.0
+Reax Swaps,['Mantle'],Dexs,0,,,,,
+DeepBook V2,['Sui'],Dexs,0,,,,,
+FXDX,['Base'],Derivatives,0,0.0,0.0,,,
+Blum,['TON'],Launchpad,0,,2578.0,,,-100.0
+TON Pump,['TON'],Telegram Bot,0,,,,,
+UtyabSwap,['TON'],Dexs,0,,,,,
+LuigiSwap,['Scroll'],Dexs,0,0.0,0.0,,,
+YFX,['Arbitrum'],Derivatives,0,0.0,0.0,,,
+Danogo,['Cardano'],Dexs,0,0.0,0.0,,,
+Kinetix Derivatives,['Kava'],Derivatives,0,,,,,
+Nether.Fi,['Base'],Derivatives,0,,,,,
+BladeSwap CL,['Blast'],Dexs,0,,,,,
+Kinetix AMM V3,['Kava'],Dexs,0,,,,,
+Tegro,"['Ethereum', 'Polygon', 'Avalanche', 'BSC', 'Arbitrum']",Dexs,0,,,,,
 Mach,"['Ethereum', 'OP Mainnet', 'Arbitrum', 'Avalanche', 'Polygon', 'Base', 'Celo', 'BSC', 'opBNB', 'Mantle', 'Scroll', 'Mode', 'Blast']",DEX Aggregator,0,0.0,0.0,,,
 RFX Exchange V1,['ZKsync Lite'],Derivatives,0,0.0,0.0,,,
 Catton,['TON'],CDP,0,,,,,
 ErgoDEX,"['Cardano', 'Ergo']",Dexs,0,,,,,
 ExinSwap,['Mixin'],Dexs,0,,,,,
+Yodeswap,['Dogechain'],Dexs,0,,,,,
+Kinetix AMM V2,"['Kava', 'Base']",Dexs,0,0.0,0.0,,,
+Clober V2,"['Base', 'ZKsync Era']",Dexs,0,0.0,46.0,,,
+Xei Finance,['Sei'],Dexs,0,,,,,
+Ape Jupiter,['Solana'],Launchpad,0,0.0,0.0,,,
+Ducata,['Arbitrum'],Yield,0,0.0,0.0,,,
+SpaceWhale,['Arbitrum'],Derivatives,0,528976.0,1272895.0,-100.0,-100.0,
+Saturn Swap,['Cardano'],Dexs,0,7375.0,30273.0,-100.0,-100.0,-100.0
+FCON DEX,['Mantle'],Dexs,0,,,,,
+Retro,['Polygon'],Dexs,0,,100601.0,,,-100.0
+BigPump,['TON'],Launchpad,0,,61000.0,,,-100.0
+Velocore V2,['Linea'],Dexs,0,0.0,0.0,,,
+Chronos V2,['Arbitrum'],Dexs,0,0.0,0.0,,,
 OpenLeverage,"['BSC', 'KCC', 'Ethereum']",Dexs,0,,,,,
 VoltSwap,['Meter'],Dexs,0,711.0,2376.0,,-100.0,-100.0
-SuperSwap V2,['OP Mainnet'],Dexs,0,0.0,0.0,,,
-PancakeSwap AMM V1,['BSC'],Dexs,0,,,,,
-Surfswap Stable AMM,['Kava'],Dexs,0,,,,,
-KyberSwap Elastic,"['OP Mainnet', 'Arbitrum', 'Fantom', 'Avalanche', 'BSC', 'Polygon', 'Ethereum', 'Linea', 'Base', 'Scroll']",Dexs,0,,,,,
-Lighter V1,['Arbitrum'],Dexs,0,,,,,
-Forge,['Evmos'],Dexs,0,,,,,
-SatoshiCoreSwap,['CORE'],Dexs,0,0.0,0.0,,,
-MERLIN DEX,['ZKsync Era'],Dexs,0,,,,,
-Noah Swap,['EOS EVM'],Dexs,0,,0.0,,,
-SMBSwap V2,['BSC'],Dexs,0,3.0,89.0,,-100.0,-100.0
-BigPump,['TON'],Launchpad,0,,61000.0,,,-100.0
-Blum,['TON'],Launchpad,0,,2578.0,,,-100.0
-TON Pump,['TON'],Telegram Bot,0,,,,,
-zkLite Exchange,['ZKsync Lite'],Dexs,0,,,,,
-Helix Markets,['ICP'],Dexs,0,,,,,
-ClaimSwap V1,['Kaia'],Dexs,0,0.0,0.0,,,
-ALEX,['Stacks'],Dexs,0,,,,,
-Penguin,['Solana'],Dexs,0,,,,,
-Humble Defi,['Algorand'],Dexs,0,,,,,
+Spartan,['BSC'],Dexs,0,,,,,
+9mm V3,"['PulseChain', 'Base', 'Sonic']",Dexs,0,0.0,0.0,,,
+Hydrometer Finance,['Base'],Dexs,0,0.0,0.0,,,
+Wagmi Memepad,['TON'],Launchpad,0,,,,,
 Taraswap,['Taraxa'],Dexs,0,,,,,
+CrescentSwap,['Arbitrum'],Dexs,0,1.0,37.0,,-100.0,-100.0
