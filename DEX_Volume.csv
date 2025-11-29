@@ -64,7 +64,7 @@ Rhea Dex,['Near'],Dexs,12292660,156948309.0,1129843345.0,25.07,-68.71,-48.54
 Etherex CL,['Linea'],Dexs,12264799,96558976.0,825448925.0,-13.96,-44.16,-75.6
 1DEX,['Vaulta'],Dexs,11754039,94312331.0,537697827.0,-5.76,-40.93,-36.21
 Quickswap V3,"['Polygon', 'Polygon zkEVM', 'Manta', 'Immutable zkEVM', 'Soneium']",Dexs,11458819,70081039.0,410866262.0,0.0,-40.47,-34.86
-SolFi,['Solana'],Dexs,10932453,70863768.0,444434125.0,60.8,-75.35,-37.66
+Obric,['Solana'],Dexs,10943651,48113634.0,1273282971.0,0.0,-18.5,1.1
 Aerodrome V1,['Base'],Dexs,10745111,101582821.0,708056855.0,-31.52,-69.28,-65.86
 Byreal,['Solana'],Dexs,9164680,104140574.0,354553030.0,48.97,-2.21,-57.83
 THENA INTEGRAL,['BSC'],Dexs,9090549,73457374.0,354803109.0,14.35,-63.89,-40.77
@@ -75,7 +75,7 @@ Hybra V4,['Hyperliquid L1'],Dexs,7922075,51563677.0,222077591.0,2.06,-40.24,1.0
 Ring Swap,"['Ethereum', 'Blast', 'BSC', 'Hyperliquid L1']",Dexs,7899841,75834963.0,646557959.0,17.34,-77.55,-36.57
 RateX,['Solana'],Yield,7881964,16496942.0,84279267.0,403.98,814.9,61.61
 Aborean CL,['Abstract'],Dexs,7701073,41957083.0,231659518.0,60.02,-15.26,0.52
-Obric,['Solana'],Dexs,7024236,55137870.0,1280307207.0,-35.81,-47.69,-35.11
+SolFi,['Solana'],Dexs,6798616,59931315.0,433501672.0,0.0,-84.67,-61.23
 Integral,"['Arbitrum', 'Ethereum']",Dexs,6797446,46601043.0,192569543.0,-9.45,-26.13,2.59
 Hydration DEX,['Hydration'],Dexs,6620566,34171848.0,386818941.0,24.45,-52.73,-74.55
 0x,"['Ethereum', 'Polygon', 'BSC', 'OP Mainnet', 'Fantom', 'Celo', 'Avalanche', 'Arbitrum', 'Base']",DEX Aggregator,5985133,63524898.0,401651916.0,-44.06,-75.02,-46.25
@@ -191,11 +191,11 @@ StellaSwap V4,['Moonbeam'],Dexs,400877,3606360.0,22932936.0,32.78,-45.19,-50.23
 PulseX StableSwap,['PulseChain'],Dexs,396954,3242913.0,30229926.0,-2.17,-64.68,-48.24
 Spectra V2,"['Ethereum', 'Arbitrum', 'OP Mainnet', 'Base', 'Sonic', 'Hemi', 'Avalanche', 'BSC', 'Hyperliquid L1', 'Katana']",Yield,366245,2521594.0,10726446.0,-35.81,159.52,-5.95
 Saros AMM,['Solana'],Dexs,361516,2296846.0,13804252.0,44.81,7.08,-85.29
+FluxBeam,['Solana'],Dexs,359873,1960016.0,19160388.0,0.0,3.21,-57.1
 Frax Swap,"['Arbitrum', 'Aurora', 'Avalanche', 'Boba', 'BSC', 'Ethereum', 'Fantom', 'Harmony', 'Moonbeam', 'Moonriver', 'Polygon', 'Fraxtal']",Dexs,352882,3445354.0,29754437.0,3.04,-78.33,-70.04
 Hanji Protocol,['Etherlink'],Dexs,352472,1881479.0,12725021.0,113.74,-66.71,86.93
 PancakeSwap StableSwap,['BSC'],Dexs,351763,2285310.0,26909807.0,-18.95,-70.81,-92.22
 DragonSwap V3 Kaia,['Kaia'],Dexs,349142,4132406.0,31312727.0,-11.51,-77.75,-49.44
-FluxBeam,['Solana'],Dexs,347578,2307594.0,19507966.0,-3.42,-0.32,-58.57
 2THICK,['Sonic'],Dexs,330205,2769934.0,29753131.0,70.09,-79.64,-68.39
 Bean Exchange,['Monad'],Dexs,329568,1377000.0,1377000.0,-68.54,,
 xExchange,['MultiversX'],Dexs,318083,2384749.0,19362761.0,-22.98,-75.03,-37.39
@@ -445,7 +445,6 @@ Hummus AMM,['Metis'],Dexs,2278,5452.0,132735.0,248.85,-80.05,-18.58
 SpookySwap V2,"['Fantom', 'Sonic']",Dexs,2200,12563.0,91621.0,108.33,-56.01,-26.0
 EchoDEX V3,['Linea'],Dexs,2031,18499.0,118753.0,82.81,-81.03,4.96
 Omni Exchange V2,"['Base', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Sonic', 'Plasma', 'BSC']",Dexs,1970,11133.0,94901.0,-20.88,-11.82,-61.95
-Cropper CLMM,['Solana'],Dexs,1948,13105.0,43569.0,144.72,-52.24,8016.67
 Yoshi Exchange,"['Fantom', 'BSC', 'Ethereum']",Dexs,1934,2064.0,3230.0,27528.57,1873.47,5760.61
 HiveSwap V3,['MAP Protocol'],Dexs,1898,10414.0,171624.0,-51.91,-79.66,115.68
 Fenix Standard Pools,['Blast'],Dexs,1890,12134.0,142118.0,175.11,-13.42,-51.79
@@ -482,6 +481,7 @@ Symmetric,"['Gnosis', 'Celo', 'Telos']",Dexs,898,6802.0,51786.0,36.27,-73.7,-45.
 SparkDEX V3,['Flare'],Dexs,851,5595.0,24060.0,-43.19,-20.54,11.68
 PadSwap,"['BSC', 'Moonriver', 'Moonbeam']",Dexs,810,6308.0,39511.0,120.11,-70.77,25.97
 WannaSwap,['Aurora'],Dexs,802,5934.0,87574.0,132.46,-61.75,-17.23
+Cropper CLMM,['Solana'],Dexs,796,11157.0,41621.0,0.0,-80.49,3216.67
 OkieSwap Stableswap,['X Layer'],Dexs,796,492119.0,541406.0,-99.59,737.89,
 Hydradex V3,['Hydra Chain'],Dexs,749,17494.0,37967.0,-85.31,-55.86,
 SwapMode V2,['Mode'],Dexs,745,9859.0,70749.0,-57.26,-82.34,-66.18
