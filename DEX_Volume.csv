@@ -5,7 +5,7 @@ HumidiFi,['Solana'],Dexs,922913466,7722926048.0,24923760321.0,-25.25,-20.49,-67.
 Uniswap V4,"['Ethereum', 'Unichain', 'OP Mainnet', 'Base', 'Arbitrum', 'Polygon', 'Blast', 'Zora', 'World Chain', 'Ink', 'Soneium', 'Avalanche', 'BSC', 'Monad']",Dexs,729935362,4456420252.0,20879752612.0,19.61,-16.46,29.6
 PumpSwap,['Solana'],Dexs,563454016,2954458851.0,6524439380.0,78.57,169.33,413.66
 Fluid DEX,"['Ethereum', 'Arbitrum', 'Polygon', 'Base', 'Plasma']",Dexs,536569043,2591134397.0,15103997281.0,64.38,22.98,30.69
-PancakeSwap Infinity,"['BSC', 'Base']",Dexs,528823975,2770140364.0,14360532060.0,12.91,529.63,-54.71
+PancakeSwap Infinity,"['BSC', 'Base']",Dexs,530134751,2770140364.0,14360532060.0,13.19,531.19,-54.6
 Aerodrome Slipstream,['Base'],Dexs,528610979,3258655065.0,15669574304.0,5.93,4.91,2.93
 Curve DEX,"['Ethereum', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Polygon', 'Base', 'Gnosis', 'Fraxtal', 'Sonic', 'Hyperliquid L1', 'Plasma', 'Celo', 'Ink', 'Mantle', 'Unichain', 'Monad', 'Stable']",Dexs,492521770,1729422700.0,11507651052.0,131.52,37.77,-28.08
 Raydium AMM,['Solana'],Dexs,447600595,3613100871.0,15133586328.0,41.72,-14.81,-30.26
@@ -17,8 +17,8 @@ Hyperliquid Spot Orderbook,['Hyperliquid L1'],Dexs,242510850,1224965830.0,721548
 Ekubo,"['Starknet', 'Ethereum']",Dexs,180267471,794813595.0,3611791948.0,184.55,22.7,52.4
 Kalshi,['Off Chain'],Prediction Market,144783518,1137941427.0,5272560599.0,-55.95,-1.33,-54.69
 Joe V2.2,"['Avalanche', 'Arbitrum', 'Monad']",Dexs,136980725,773435336.0,2540050950.0,9.7,192.21,114.72
+OPINION,['BSC'],Prediction Market,129229161,787861327.0,2727884360.0,40.0,75.43,169.95
 Mento,['Celo'],Algo-Stables,123438764,829655006.0,2936889247.0,30.16,12.45,33.26
-OPINION,['BSC'],Prediction Market,123156393,787861327.0,2727884360.0,33.42,67.18,157.27
 Pharaoh V3,['Avalanche'],Dexs,118203161,341321564.0,2553252639.0,254.7,124.66,127.15
 GoonFi,['Solana'],Dexs,116954015,467122091.0,1624819325.0,65.22,66.01,98.5
 Project X,['Hyperliquid L1'],Dexs,106578701,663107297.0,4259603040.0,24.51,-34.28,-12.3
@@ -65,6 +65,7 @@ Dragon Swap V3 Sei,['Sei'],Dexs,13608521,81396297.0,412368763.0,323.27,-21.44,-3
 1DEX,['Vaulta'],Dexs,12834237,83380440.0,453285312.0,8.18,-15.62,-11.85
 Ring Swap,"['Ethereum', 'Blast', 'BSC', 'Hyperliquid L1']",Dexs,12758356,69697610.0,568816676.0,39.7,-1.87,-30.84
 Hydration DEX,['Hydration'],Dexs,12675841,52876078.0,252131919.0,0.0,69.88,11.84
+Quickswap V3,"['Polygon', 'Polygon zkEVM', 'Manta', 'Immutable zkEVM', 'Soneium']",Dexs,12309734,73986190.0,411172087.0,27.04,-5.41,15.96
 SolFi,['Solana'],Dexs,11901556,74605383.0,409357118.0,16.58,-23.21,2.89
 Turbos,['Sui'],Dexs,11789509,63200717.0,292132691.0,26.37,18.89,32.36
 Sailor,['Sei'],Dexs,11741882,66361657.0,286735595.0,21.93,-23.87,6.1
@@ -72,7 +73,6 @@ Merchant Moe Liquidity Book,['Mantle'],Dexs,11535552,58360780.0,251669134.0,42.6
 Aerodrome V1,['Base'],Dexs,11060212,83023592.0,568356520.0,1.57,-18.99,-43.53
 PayCash,['Vaulta'],Dexs,10418935,52210706.0,218015577.0,101.43,456.52,4007.96
 PulseX V1,['PulseChain'],Dexs,10218503,55477912.0,206790056.0,-49.73,15.21,83.57
-Quickswap V3,"['Polygon', 'Polygon zkEVM', 'Manta', 'Immutable zkEVM', 'Soneium']",Dexs,9689564,61676456.0,398862353.0,0.0,-25.55,-8.72
 Kodiak V3,['Berachain'],Dexs,9600237,52347715.0,301469601.0,36.12,4.39,-26.81
 Integral,"['Arbitrum', 'Ethereum']",Dexs,9518646,49505328.0,208130625.0,16.12,19.24,97.19
 Lotus Finance,['Sui'],Yield,9317040,36405752.0,127561608.0,90.57,127.16,314.23
@@ -332,7 +332,7 @@ Velodrome V1,['OP Mainnet'],Dexs,26908,160001.0,1009918.0,9.4,-9.75,-25.4
 Gate Fun,['GateLayer'],Launchpad,25485,127547.0,480439.0,29.98,79.43,-4.97
 Arena DEX,['Avalanche'],Dexs,25389,466180.0,3110103.0,-56.54,-67.71,-52.96
 Javsphere,['Base'],Derivatives,25164,282387.0,2125315.0,123.68,-84.67,-92.16
-Alpha Arcade,['Algorand'],Prediction Market,24716,280527.0,1904204.0,-35.74,-45.71,-69.11
+Alpha Arcade,['Algorand'],Prediction Market,24465,280527.0,1904204.0,-36.39,-46.26,-69.43
 Ramses HL Legacy,['Hyperliquid L1'],Dexs,24457,185532.0,1999650.0,-40.08,7.43,
 Allbridge Classic,"['Ethereum', 'BSC', 'Terra Classic', 'Aurora', 'Polygon', 'Heco', 'Celo', 'Avalanche', 'Fantom', 'Fuse', 'Solana', 'Near', 'Harmony', 'Tezos', 'Kaia', 'Waves', 'Stellar', 'Stacks']",Bridge,24433,2336034.0,4694903.0,-98.8,13.26,-26.52
 HiveSwap V3,['MAP Protocol'],Dexs,23777,131383.0,235045.0,-44.8,388.64,278.07
