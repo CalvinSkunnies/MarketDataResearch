@@ -1,13 +1,13 @@
 name,chains,category,total24h,total7d,total30d,change_1d,change_7d,change_1m
 PancakeSwap AMM V3,"['Solana', 'BSC', 'Ethereum', 'Polygon zkEVM', 'ZKsync Era', 'Arbitrum', 'Linea', 'Base', 'opBNB', 'Monad']",Dexs,960522944,8996675390.0,37605340560.0,7.79,-1.65,-54.28
 HumidiFi,['Solana'],Dexs,915150242,7684104747.0,29525701437.0,-21.86,23.13,43.21
-PancakeSwap Infinity,"['BSC', 'Base']",Dexs,809825170,5131852394.0,14457490069.0,2.21,14.44,194.51
 Uniswap V4,"['Ethereum', 'Unichain', 'OP Mainnet', 'Base', 'Arbitrum', 'Polygon', 'Blast', 'Zora', 'World Chain', 'Ink', 'Soneium', 'Avalanche', 'BSC', 'Monad']",Dexs,732008208,5821841518.0,21233468202.0,14.69,56.84,-11.46
 Uniswap V3,"['Arbitrum', 'Base', 'Avalanche', 'World Chain', 'Plasma', 'Blast', 'Ethereum', 'OP Mainnet', 'Polygon', 'ZKsync Era', 'Sei', 'Unichain', 'Taiko', 'Scroll', 'Rootstock', 'Filecoin', 'Boba', 'Mantle', 'Linea', 'Gnosis', 'BOB', 'Corn', 'GOAT', 'BSC', 'Hemi', 'XDC', 'LightLink', 'Telos', 'Celo', 'Nibiru', 'Monad', 'Sonic', 'Etherlink', 'Saga', 'Lens']",Dexs,715000188,8940008734.0,37591559178.0,31.59,-16.12,-74.52
+PancakeSwap Infinity,"['BSC', 'Base']",Dexs,508605736,5131852394.0,14457490069.0,-35.8,-28.13,84.97
 PumpSwap,['Solana'],Dexs,398255299,3126711689.0,11155567155.0,43.34,-6.87,161.56
+Orca DEX,"['Solana', 'Eclipse']",Dexs,342491103,1700319170.0,9871819431.0,324.81,74.93,-57.0
 Kalshi,['Off Chain'],Prediction Market,336559676,1292794048.0,5346706904.0,21.96,59.51,157.29
 Raydium AMM,['Solana'],Dexs,321120325,2463680413.0,13678997761.0,82.32,-6.64,-50.92
-Orca DEX,"['Solana', 'Eclipse']",Dexs,305906954,1700319170.0,9871819431.0,279.44,56.24,-61.59
 Aerodrome Slipstream,['Base'],Dexs,288373580,2927143384.0,12790684258.0,62.62,-10.82,-65.64
 Fluid DEX,"['Ethereum', 'Arbitrum', 'Polygon', 'Base', 'Plasma']",Dexs,219812457,2015721578.0,11290492276.0,72.87,84.82,-76.29
 Meteora DAMM V2,['Solana'],Dexs,194304162,1454618891.0,5257455786.0,-54.0,102.72,36.08
@@ -15,7 +15,7 @@ Mento,['Celo'],Algo-Stables,177956968,934891110.0,3557968942.0,0.39,51.54,83.03
 Meteora DLMM,['Solana'],Dexs,166486011,1066703923.0,5360623329.0,178.49,63.02,-66.83
 Aster Spot,['Off Chain'],Dexs,151562403,1289212896.0,3088664759.0,18.36,86.99,25.33
 Bluefin Spot,['Sui'],Dexs,112870724,568555260.0,2160304866.0,192.87,114.79,12.71
-OPINION,['BSC'],Prediction Market,93691453,726591188.0,2948172943.0,-49.02,2.19,44.76
+OPINION,['BSC'],Prediction Market,93413307,726591188.0,2948172943.0,-49.17,1.89,44.33
 Polymarket,['Polygon'],Prediction Market,85624521,506204457.0,2089416697.0,-7.66,8.38,50.08
 Curve DEX,"['Ethereum', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Polygon', 'Base', 'Gnosis', 'Fraxtal', 'Sonic', 'Hyperliquid L1', 'Plasma', 'Celo', 'Ink', 'Mantle', 'Unichain', 'Monad', 'Stable']",Dexs,82778020,2559600697.0,9360466410.0,43.53,-0.13,-93.84
 Hyperliquid Spot Orderbook,['Hyperliquid L1'],Dexs,73273955,1250699848.0,5882660713.0,-5.02,-47.81,-83.11
@@ -89,8 +89,8 @@ Merchant Moe Liquidity Book,['Mantle'],Dexs,4840988,52193870.0,208396314.0,515.1
 Aerodrome V1,['Base'],Dexs,4828527,72063451.0,354053202.0,-8.37,-25.59,-86.2
 Etherex CL,['Linea'],Dexs,4665762,48301249.0,299465931.0,22.72,-25.63,-78.76
 Betmoar.fun,['Polygon'],Interface,4475610,25428889.0,100480788.0,-18.82,40.96,49.66
+Meteora DAMM V1,['Solana'],Dexs,4435036,17282428.0,130376868.0,,104.5,-48.22
 THENA INTEGRAL,['BSC'],Dexs,4426396,28621635.0,200120432.0,213.32,9.71,-82.42
-Meteora DAMM V1,['Solana'],Dexs,4346486,17282428.0,130376868.0,,100.42,-49.25
 TanX.fi,['Ethereum'],Dexs,4226792,31777042.0,144219348.0,23.86,-4.45,-10.97
 MooniSwap,['Ethereum'],Dexs,3758085,28425981.0,89580225.0,333.76,84.64,41.78
 O2 Exchange,['Fuel Ignition'],Dexs,3612278,15094417.0,18991290.0,200.21,7693.98,
@@ -103,7 +103,7 @@ SolFi,['Solana'],Dexs,3173628,53679693.0,290482980.0,46.13,-57.02,-92.84
 WingRiders,['Cardano'],Dexs,3030730,9342719.0,20751627.0,185.48,92.62,454.6
 Hanji Protocol,"['Base', 'Etherlink', 'Monad']",Dexs,3022654,21980863.0,80515430.0,71.55,-32.17,10822.76
 Hybra V4,['Hyperliquid L1'],Dexs,2814711,29959674.0,180462858.0,18.03,-34.05,-78.77
-Joe V2.1,"['Avalanche', 'Arbitrum', 'BSC', 'Ethereum', 'Monad']",Dexs,2686452,10653388.0,47230063.0,611.58,225.46,-87.72
+Joe V2.1,"['Avalanche', 'Arbitrum', 'BSC', 'Ethereum', 'Monad']",Dexs,2753238,10653388.0,47230063.0,629.27,233.56,-87.41
 SX Bet,['SX Rollup'],Prediction Market,2638040,11154373.0,62835790.0,-20.55,-0.81,96.54
 Phoenix,['Solana'],Dexs,2561151,26110223.0,114657591.0,81.34,-16.06,-77.81
 Osmosis DEX,['Osmosis'],Dexs,2496739,43612860.0,183237531.0,32.23,-18.77,-83.64
@@ -161,7 +161,7 @@ SUNSwap V1,['Tron'],Dexs,663325,3579447.0,12821544.0,82.01,79.78,22.13
 Injective Spot,['Injective'],Dexs,662263,4325401.0,19805684.0,9.53,47.36,-3.71
 DeDust,['TON'],Dexs,649285,5838475.0,27114404.0,-15.32,-7.36,-55.73
 0x,"['Ethereum', 'Polygon', 'BSC', 'OP Mainnet', 'Fantom', 'Celo', 'Avalanche', 'Arbitrum', 'Base']",DEX Aggregator,636161,37994732.0,156670132.0,-83.68,-75.69,-97.34
-Helix Spot,['Injective'],Dexs,564991,4632176.0,19838967.0,-14.9,23.42,-17.08
+Helix Spot,['Injective'],Dexs,543768,4632176.0,19838967.0,-18.1,18.78,-20.2
 Katana DEX V3,['Ronin'],Dexs,482085,4103627.0,30747042.0,78.44,-39.18,-67.71
 Sanctum Infinity,['Solana'],Dexs,476086,7123919.0,7123919.0,40.83,,
 PancakeSwap Prediction,['BSC'],Prediction Market,475920,3621057.0,16530602.0,-4.81,-1.84,-13.19
@@ -401,8 +401,8 @@ Mosaic AMM,['Movement'],Dexs,3579,179091.0,854597.0,-87.4,-95.93,-93.79
 Blasterswap V2,['Blast'],Dexs,3531,24972.0,91340.0,89.63,227.86,-69.73
 AuroraSwap,['Aurora'],Dexs,3372,21671.0,91080.0,227.06,392.98,-42.5
 Elys DEX,['Elys'],Dexs,3235,54687.0,1475407.0,-56.07,-79.68,-95.64
-Oswap AMM,['Obyte'],Dexs,3231,21054.0,116168.0,41.59,36.27,-58.78
 StellaSwap V3,['Moonbeam'],Dexs,3193,11779.0,84181.0,718.72,-4.17,-7.1
+Oswap AMM,['Obyte'],Dexs,3129,21054.0,116168.0,37.12,31.97,-60.08
 Vaulta RAM,['Vaulta'],Dexs,3126,4325.0,16215.0,5482.14,644.29,-80.13
 Joe V2,"['Avalanche', 'Arbitrum', 'BSC']",Dexs,3112,52264.0,257020.0,186.03,-73.89,-90.87
 Rabbit Swap,['Viction'],Dexs,3006,128710.0,303045.0,8.83,-69.39,-68.13
