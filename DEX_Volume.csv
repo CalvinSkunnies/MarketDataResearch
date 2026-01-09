@@ -15,8 +15,8 @@ BisonFi,['Solana'],Dexs,225530489.0,1727927545.0,3964433871.0,-16.54,24.58,
 Meteora DAMM V2,['Solana'],Dexs,203392555.0,9540108561.0,20640611792.0,-88.47,-77.01,-32.7
 Bluefin Spot,['Sui'],Dexs,156165842.0,821259088.0,2830672257.0,22.99,75.49,78.4
 Aster Spot,['Off Chain'],Dexs,122630591.0,1054794475.0,4059836926.0,-55.96,-6.32,35.95
-OPINION,['BSC'],Prediction Market,122377236.0,781082667.0,3540832708.0,-24.11,-43.01,9.7
 Hyperliquid Spot Orderbook,['Hyperliquid L1'],Dexs,120194070.0,910385079.0,4178236987.0,-2.15,-14.4,-50.44
+OPINION,['BSC'],Prediction Market,118372334.0,781082667.0,3540832708.0,-26.59,-44.87,6.11
 Tessera V,['Solana'],Dexs,115817833.0,908577109.0,4558494167.0,-10.96,98.68,-61.19
 Cetus CLMM,"['Sui', 'Aptos']",Dexs,114941840.0,599184093.0,2029015027.0,27.04,55.9,182.71
 NEAR Intents,['Near'],Cross Chain Bridge,111576381.0,468487391.0,1842675101.0,0.0,270.42,42.53
@@ -145,9 +145,9 @@ Solidly V3,"['Ethereum', 'Sonic', 'OP Mainnet', 'Arbitrum', 'Fantom', 'Base']",D
 Alien Base V2,['Base'],Dexs,1265945.0,9056293.0,41832139.0,-10.55,240.35,-50.93
 Skate AMM,"['Ethereum', 'BSC', 'Base', 'Arbitrum', 'Solana', 'Eclipse', 'Hyperliquid L1', 'Plume Mainnet', 'Mantle', 'Sui', 'Monad']",Dexs,1260784.0,4717345.0,14847429.0,138.05,243.08,1634.42
 Etherex Legacy,['Linea'],Dexs,1251571.0,4661627.0,12803933.0,188.05,295.79,130.68
+Swyrl CL,['Monad'],Dexs,1215992.0,3446516.0,12543995.0,266.7,304.39,575.41
 SakuraSwap CLMM,"['Abstract', 'Ink']",Dexs,1184996.0,8453524.0,28845670.0,-5.24,150.82,-21.42
 SX Bet,['SX Rollup'],Prediction Market,1119662.0,12770993.0,51325049.0,-45.03,-44.08,-55.15
-Swyrl CL,['Monad'],Dexs,1104058.0,3446516.0,12543995.0,232.94,267.17,513.24
 Helix Spot,['Injective'],Dexs,1071076.0,6524486.0,22647268.0,49.67,58.93,19.63
 Saber,['Solana'],Dexs,1069400.0,7476686.0,31022706.0,0.55,4.32,-1.0
 Aquarius Stellar,['Stellar'],Dexs,1040383.0,8431964.0,24677781.0,-4.43,68.89,22.98
@@ -180,7 +180,7 @@ THENA V1,['BSC'],Dexs,611700.0,2728275.0,12708411.0,6.96,318.58,598.04
 SwapX Algebra,['Sonic'],Dexs,592709.0,3840972.0,17584695.0,4.46,108.96,-28.13
 Katana DEX,['Ronin'],Dexs,575129.0,3704232.0,13830540.0,64.71,-7.72,13.79
 Ultrasolid V3,['Hyperliquid L1'],Dexs,559468.0,3768889.0,19073655.0,-19.88,38.66,-69.01
-Velodrome V2,"['OP Mainnet', 'Mode', 'Lisk', 'Fraxtal', 'Ink', 'BOB', 'Soneium', 'Unichain', 'Swellchain', 'Celo']",Dexs,538291.0,3222253.0,14243335.0,22.81,-12.54,5.4
+Velodrome V2,"['OP Mainnet', 'Mode', 'Lisk', 'Fraxtal', 'Ink', 'BOB', 'Soneium', 'Unichain', 'Swellchain', 'Celo']",Dexs,533127.0,3222253.0,14243335.0,21.63,-13.38,4.39
 Joe DEX,"['BSC', 'Avalanche', 'Arbitrum']",Dexs,528673.0,4080362.0,15359119.0,0.0,-53.33,-20.85
 PancakeSwap Prediction,['BSC'],Prediction Market,524473.0,3608653.0,14812912.0,1.06,9.3,-4.02
 Pharaoh Legacy,['Avalanche'],Dexs,513540.0,1956279.0,5434710.0,46.58,296.45,319.75
@@ -287,6 +287,7 @@ Uniswap V1,['Ethereum'],Dexs,54900.0,308839.0,1500722.0,9.58,259.03,-41.94
 Pinto,['Base'],Algo-Stables,53167.0,1278106.0,13856302.0,-86.93,-70.79,-95.09
 Defi Swap,['Ethereum'],Dexs,51277.0,366803.0,2493776.0,-42.38,70.12,-20.16
 BabySwap,['BSC'],Dexs,50175.0,358361.0,1993505.0,24.01,127.55,-29.98
+Alpha Arcade,['Algorand'],Prediction Market,49073.0,372880.0,1274944.0,-0.12,-59.83,107.22
 TONCO,['TON'],Dexs,49059.0,445739.0,1361534.0,-25.43,115.7,-27.93
 HARD Swap,['Kava'],Dexs,46201.0,254929.0,919759.0,1.45,83.44,-20.7
 Beezie,['Flow'],Physical TCG,44691.0,262181.0,1334674.0,-1.26,,-44.43
@@ -300,7 +301,6 @@ Ashswap,['MultiversX'],Dexs,37005.0,253664.0,1816305.0,-0.69,-22.2,-52.62
 Dragon Swap V2 Sei,['Sei'],Dexs,36763.0,197295.0,1219820.0,-10.82,34.88,71.58
 Stabull Finance,"['Ethereum', 'Polygon', 'Base']",Dexs,36330.0,346075.0,871175.0,-41.04,101.0,96.44
 Trisolaris,['Aurora'],Dexs,36164.0,216451.0,1120007.0,15.65,-19.74,-87.58
-Alpha Arcade,['Algorand'],Prediction Market,34501.0,372880.0,1274944.0,-29.78,-71.76,45.68
 Jupiter Prediction,['Solana'],Interface,33819.0,304198.0,1414789.0,-22.83,-42.88,-54.82
 BabyDogeSwap,['BSC'],Dexs,33695.0,229342.0,995722.0,13.55,119.21,-35.4
 MachineX CL,['Peaq'],Dexs,32414.0,576943.0,1680441.0,-45.61,0.62,-54.45
