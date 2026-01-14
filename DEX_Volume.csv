@@ -75,7 +75,6 @@ Quickswap V3,"['Polygon', 'Polygon zkEVM', 'Manta', 'Immutable zkEVM', 'Soneium'
 Kuru CLOB,['Monad'],Dexs,11690404.0,40621653.0,85150613.0,35.77,281.27,1808.55
 Ring Swap,"['Ethereum', 'Blast', 'BSC', 'Hyperliquid L1']",Dexs,11148325.0,43124376.0,247910505.0,68.08,-8.15,100.58
 SparkDEX V3.1,['Flare'],Dexs,10639620.0,51117837.0,203678842.0,88.41,-31.85,276.22
-Obric,['Solana'],Dexs,10426199.0,47297035.0,145906061.0,50.04,64.67,1241.28
 Etherex CL,['Linea'],Dexs,10326010.0,52331883.0,170427666.0,42.75,57.68,64.6
 Ramses HL,['Hyperliquid L1'],Dexs,10238301.0,63660405.0,439326885.0,-3.64,-34.18,-38.93
 Chainflip,['Chainflip'],Dexs,10121671.0,62344558.0,362905509.0,35.67,-32.78,
@@ -91,6 +90,7 @@ Balancer V2,"['Ethereum', 'Arbitrum', 'Avalanche', 'Base', 'Fraxtal', 'Gnosis', 
 Manifest Trade,['Solana'],Dexs,7337440.0,238495540.0,1272975554.0,-85.62,-8.85,
 Hydration DEX,['Hydration'],Dexs,7296371.0,39293302.0,179479412.0,88.36,19.09,4.01
 Lotus Finance,['Sui'],Yield,7000481.0,52910991.0,192680344.0,30.75,-69.48,48.77
+Obric,['Solana'],Dexs,6949107.0,36870836.0,135479862.0,0.0,9.76,793.97
 Integral,"['Arbitrum', 'Ethereum']",Dexs,6862618.0,34458816.0,163851101.0,25.52,30.44,22.06
 SaucerSwap V2,['Hedera'],Dexs,6287595.0,40647260.0,145036656.0,116.02,-13.96,260.39
 Kodiak V3,['Berachain'],Dexs,6262921.0,32993455.0,176965720.0,-9.24,18.66,
@@ -165,7 +165,6 @@ Katana DEX,['Ronin'],Dexs,1053966.0,3155332.0,14320457.0,171.87,92.21,168.35
 Helix Spot,['Injective'],Dexs,1045863.0,5950389.0,23163237.0,19.21,-28.05,128.47
 PolyTraderPro,['Polygon'],Interface,1041406.0,5862253.0,32575371.0,-24.1,-31.7,139.37
 Swaap Maker V2,"['Ethereum', 'Polygon', 'Arbitrum', 'OP Mainnet', 'BSC', 'Base', 'Mode', 'Scroll', 'Linea', 'Mantle']",Dexs,984784.0,1998991.0,30860573.0,0.0,-23.7,-37.92
-FluxBeam,['Solana'],Dexs,973699.0,3877832.0,10980977.0,22.58,104.31,190.73
 Aquarius Stellar,['Stellar'],Dexs,972812.0,6016577.0,24683432.0,11.95,-45.16,58.81
 mySwap CL,['Starknet'],Dexs,944845.0,6613915.0,28345350.0,0.0,0.0,0.0
 LN Exchange Spot,['Bitcoin'],Dexs,926571.0,5442380.0,27433062.0,11.79,-8.32,311.73
@@ -173,6 +172,7 @@ Meridian AMM,['Movement'],Dexs,904039.0,5871311.0,47142267.0,-9.58,-42.62,-67.27
 Skate AMM,"['Ethereum', 'BSC', 'Base', 'Arbitrum', 'Solana', 'Eclipse', 'Hyperliquid L1', 'Plume Mainnet', 'Mantle', 'Sui', 'Monad']",Dexs,856962.0,5598139.0,17553227.0,-11.52,22.49,342.42
 SyncSwap,"['ZKsync Era', 'Linea', 'Scroll']",Dexs,847188.0,3451849.0,17175926.0,103.76,-55.84,64.76
 Lynex V2,['Linea'],Dexs,820834.0,5997813.0,18071717.0,48.77,42.18,55.35
+FluxBeam,['Solana'],Dexs,794306.0,2904133.0,10007278.0,0.0,66.66,137.17
 LaunchLab,['Solana'],Launchpad,788867.0,32948146.0,114645030.0,-77.37,-87.68,-52.92
 ICPSwap,['ICP'],Dexs,783900.0,2374653.0,8945094.0,155.8,78.57,272.26
 Quickswap Dex,"['Polygon', 'Base']",Dexs,758237.0,197690093.0,1051495729.0,-97.37,-97.19,-98.28
@@ -474,6 +474,7 @@ AutoShark,['BSC'],Dexs,1508.0,5380.0,25526.0,138.61,8.49,92.35
 Fenix Standard Pools,['Blast'],Dexs,1419.0,7106.0,45821.0,46.14,-27.68,-70.91
 KIM Exchange V2,['Mode'],Dexs,1354.0,4860.0,28410.0,64.32,12.18,29.82
 OolongSwap,['Boba'],Dexs,1347.0,8646.0,59678.0,8.02,-41.31,40.31
+Cropper CLMM,['Solana'],Dexs,1290.0,7236.0,28042.0,0.0,-20.76,22.39
 WannaSwap,['Aurora'],Dexs,1234.0,5172.0,21284.0,-0.96,-9.8,420.68
 Ramses HL Legacy,['Hyperliquid L1'],Dexs,1233.0,9471.0,193253.0,2.15,-38.6,-84.13
 Blue Planet,['BSC'],Dexs,1211.0,5347.0,121704.0,51.38,11.31,138.86
@@ -481,7 +482,6 @@ Dove Swap V3,['Polygon zkEVM'],Dexs,1177.0,5146.0,22953.0,54.66,35.44,240.17
 Velar AMM,['Stacks'],Dexs,1169.0,9368.0,53649.0,-27.26,-54.62,
 Solarbeam,['Moonriver'],Dexs,1143.0,24395.0,221183.0,-67.76,-57.17,-56.09
 Seer,"['Gnosis', 'Ethereum']",Prediction Market,1140.0,191985.0,425960.0,566.67,-95.44,
-Cropper CLMM,['Solana'],Dexs,1096.0,8332.0,29138.0,-15.04,-32.68,3.98
 Elix.fi,['Somnia'],Dexs,1001.0,37685.0,272800.0,-80.36,-96.39,-96.27
 SpinUp DEX,['Hyperliquid L1'],Dexs,998.0,6294.0,502842.0,-29.12,-43.36,-98.07
 Koi Finance CL,['ZKsync Era'],Dexs,991.0,8919.0,22497.0,-0.3,-65.72,
