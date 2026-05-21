@@ -283,7 +283,7 @@ Preddy,['Polygon'],Interface,51522.0,857588.0,4169414.0,-51.83,-56.36,-81.21
 Peer,['Base'],Payments,51402.0,296314.0,387896.0,46.72,21.34,
 Beets DEX,"['Fantom', 'OP Mainnet', 'Sonic']",Dexs,48504.0,642076.0,2987817.0,-6.54,-55.28,-49.67
 ShibaSwap V1,"['Ethereum', 'Shibarium']",Dexs,48421.0,435326.0,6969357.0,36.75,-38.24,2.42
-Shiny,"['Base', 'Abstract']",Physical TCG,48334.0,444689.0,3950210.0,-3.29,-2.24,-68.8
+Shiny,"['Abstract', 'Base']",Physical TCG,48334.0,444689.0,3950210.0,-3.29,-2.24,-68.8
 SailFish Finance,['EDU Chain'],Dexs,48160.0,324106.0,1729857.0,10.73,-5.02,-74.34
 2THICK,['Sonic'],Dexs,47015.0,466888.0,3066867.0,7.02,-71.97,-48.02
 ApeSwap AMM,"['BSC', 'Polygon', 'Ethereum', 'Telos', 'Arbitrum']",Dexs,45876.0,372536.0,1597100.0,-20.56,-38.6,-37.35
@@ -534,7 +534,7 @@ Maia CL,['Metis'],Dexs,342.0,5288.0,21273.0,146.04,-29.77,-43.47
 Tristero Spot,"['Base', 'OP Mainnet', 'Ethereum', 'Avalanche', 'Linea', 'Arbitrum', 'Polygon', 'Unichain', 'Monad', 'Berachain', 'Sonic', 'Mode', 'Scroll', 'Gnosis', 'Ink', 'Abstract', 'Mantle', 'BOB', 'ApeChain', 'Ronin']",Dexs,340.0,9117.0,860553573.0,190.6,-91.96,-100.0
 Elk,"['Avalanche', 'Polygon', 'Fantom', 'BSC', 'Gnosis', 'KCC', 'Elastos', 'IoTeX', 'Fuse', 'OKTChain', 'Ethereum', 'Arbitrum', 'OP Mainnet', 'Telos', 'Metis', 'Linea', 'Moonriver', 'Base']",Dexs,337.0,4243.0,30545.0,-67.25,-63.69,-86.67
 Ociswap Basic,['Radix'],Dexs,324.0,3156.0,11706.0,-29.26,-22.67,163.41
-Dinari,"['Ethereum', 'Base', 'Arbitrum', 'Plume Mainnet']",RWA,321.0,10693.0,84691.0,-76.27,-42.68,-76.82
+Dinari,"['Arbitrum', 'Ethereum', 'Base', 'Plume Mainnet']",RWA,321.0,10693.0,84691.0,-76.27,-42.68,-76.82
 Meshswap,['Polygon'],Dexs,316.0,4331.0,35221.0,-31.75,-57.98,-93.01
 SyncSwap V3,"['Linea', 'Sophon', 'ZKsync Era']",Dexs,314.0,18383.0,142328.0,-68.28,-92.82,-98.49
 HorizonDEX,"['Linea', 'Base']",Dexs,310.0,2226.0,8469.0,102.61,3.33,4.03
@@ -831,7 +831,7 @@ Lif3 Swap,['Tombchain'],Dexs,0.0,0.0,0.0,,,-100.0
 MM Stableswap Polygon,['Polygon'],Dexs,0.0,2.0,20.0,-100.0,,
 Ape Jupiter,['Solana'],Launchpad,0.0,0.0,0.0,,,
 Canto Dex,['Canto'],Dexs,0.0,543.0,1439.0,-100.0,,
-Napier,"['Avalanche', 'Fraxtal', 'Plume Mainnet', 'Base', 'Sonic', 'Hyperliquid L1', 'Polygon', 'Arbitrum', 'Ethereum', 'BSC', 'Mantle', 'OP Mainnet']",Yield,0.0,0.0,0.0,,,
+Napier,"['OP Mainnet', 'Mantle', 'Avalanche', 'Hyperliquid L1', 'Polygon', 'Base', 'Arbitrum', 'Fraxtal', 'BSC', 'Sonic', 'Plume Mainnet', 'Ethereum']",Yield,0.0,0.0,0.0,,,
 Mach,"['Polygon', 'Blast', 'opBNB', 'Scroll', 'Ethereum', 'BSC', 'Arbitrum', 'Mode', 'Mantle', 'Avalanche', 'Base', 'OP Mainnet', 'Celo']",DEX Aggregator,0.0,0.0,0.0,,,
 Hermes V1,['Metis'],Dexs,0.0,0.0,0.0,,,
 ZipSwap,"['OP Mainnet', 'Arbitrum']",Dexs,0.0,10.0,42.0,-100.0,-100.0,-100.0
@@ -859,7 +859,7 @@ OctoSwap Classic,['Monad'],Dexs,0.0,0.0,750.0,,,-100.0
 Hummus AMM,['Metis'],Dexs,0.0,0.0,0.0,,,
 PepeTeam DEX,['Waves'],Dexs,0.0,0.0,0.0,,,
 Sonicxswap,['Sonic'],Dexs,0.0,0.0,0.0,,,
-Copump,"['Soneium', 'Sonic', 'Scroll', 'Linea', 'Sophon', 'Celo', 'CORE', 'Taiko', 'Morph']",Launchpad,0.0,0.0,0.0,,,
+Copump,"['Sophon', 'Linea', 'Celo', 'Morph', 'Sonic', 'Soneium', 'Scroll', 'Taiko', 'CORE']",Launchpad,0.0,0.0,0.0,,,
 Razor DEX,['Movement'],Dexs,0.0,0.0,0.0,,,
 Primex Finance,"['Polygon', 'Arbitrum', 'Ethereum', 'Base']",Derivatives,0.0,0.0,2.0,,,
 Voodoo Trade Base,['Base'],Derivatives,0.0,0.0,0.0,,,
@@ -884,9 +884,9 @@ evently,['MegaETH'],Prediction Market,0.0,0.0,0.0,,,
 Neony Exchange Spot,['Neony'],Dexs,0.0,0.0,20.0,,,
 Velox DEX,['Base'],Dexs,0.0,0.0,0.0,,,
 VoltSwap,['Meter'],Dexs,0.0,338.0,349.0,-100.0,,
-Hashlock Markets,"['Sui', 'Ethereum']",Dexs,0.0,0.0,0.0,,,
+Hashlock Markets,"['Ethereum', 'Sui']",Dexs,0.0,0.0,0.0,,,
 Fenix Concentrated Liquidity,['Blast'],Dexs,0.0,0.0,0.0,,,
-Volmex,"['Ethereum', 'Polygon', 'Arbitrum']",Yield,0.0,287.0,1593.0,,,
+Volmex,"['Arbitrum', 'Polygon', 'Ethereum']",Yield,0.0,287.0,1593.0,,,
 Clipper,"['OP Mainnet', 'Ethereum', 'Polygon', 'Moonbeam', 'Arbitrum', 'Polygon zkEVM', 'Base', 'Mantle']",Dexs,0.0,0.0,256.0,,,
 Huckleberry AMM,"['Moonriver', 'CLV']",Dexs,0.0,891.0,15038.0,,-100.0,-100.0
 SushiSwap,"['Ethereum', 'Fantom', 'BSC', 'Harmony', 'Polygon', 'Gnosis', 'Arbitrum', 'Avalanche', 'Moonriver', 'Celo', 'Fuse', 'Boba', 'Blast', 'CORE', 'Katana', 'Metis', 'Linea', 'Sonic', 'OP Mainnet', 'Base']",Dexs,,1605219.0,15612782.0,,,
