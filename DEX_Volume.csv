@@ -36,7 +36,7 @@ Blackhole CLMM,['Avalanche'],Dexs,27274268.0,194806421.0,778021753.0,-13.62,102.
 AlphaQ,['Solana'],Dexs,27270091.0,218104720.0,1265818915.0,-10.81,-14.58,-20.66
 DODO AMM,"['BSC', 'Ethereum', 'Aurora', 'Polygon', 'Arbitrum', 'Avalanche', 'OP Mainnet', 'Scroll', 'Linea', 'Base', 'Manta', 'Defi Oracle Meta']",Dexs,26566888.0,273572760.0,1445665533.0,-21.21,-23.79,-41.45
 Jupiterz,['Solana'],Dexs,25422314.0,199514501.0,930992438.0,-4.1,15.82,-38.85
-Pharaoh V3,['Avalanche'],Dexs,25380968.0,160604455.0,767104312.0,,38.93,-13.93
+Pharaoh V3,['Avalanche'],Dexs,25380968.0,192344339.0,798844196.0,-20.03,38.93,-13.93
 Flashnet,['Spark'],Dexs,22259147.0,183259297.0,917229689.0,-8.03,65.18,-12.5
 ThalaSwap V3,['Aptos'],Dexs,22128482.0,162400846.0,771546616.0,-6.81,-2.39,11562.96
 Whalestreet,['Solana'],Dexs,19916248.0,62746959.0,310617273.0,100.64,226.79,1155.79
@@ -152,7 +152,7 @@ Integral,"['Ethereum', 'Arbitrum']",Dexs,600499.0,5522833.0,27492610.0,-15.78,1.
 Hanji Protocol,"['Etherlink', 'Base', 'Monad']",Dexs,569739.0,10934173.0,34300701.0,-69.54,-42.74,-36.31
 Aquarius Stellar,['Stellar'],Dexs,569353.0,3105342.0,22379615.0,-6.46,96.43,2.33
 Agni Finance,['Mantle'],Dexs,560676.0,4754742.0,46183295.0,-23.55,-32.28,-37.29
-Alt Fun,['Hyperliquid L1'],Launchpad,551177.0,4008616.0,4008616.0,-52.33,,
+Alt Fun,['Hyperliquid L1'],Launchpad,551177.0,4008616.0,18438837.0,-52.33,-91.68,
 VVS Standard,['Cronos'],Dexs,538820.0,4213494.0,23266353.0,0.32,-37.68,-22.6
 EVplusAI,['Polygon'],Interface,534642.0,4058963.0,11646656.0,-23.22,-6.43,161.79
 Cypher V4,['Ethereum'],Dexs,486543.0,4886305.0,32469275.0,-39.38,11.05,20.31
@@ -163,7 +163,7 @@ Lunarbase,['Base'],Dexs,448877.0,3248574.0,37832625.0,-14.89,67.49,-11.54
 Polytrader,['Polygon'],Interface,448208.0,2531640.0,8173462.0,65.05,-15.12,124.04
 PolyTraderPro,['Polygon'],Interface,446904.0,2117724.0,19744406.0,16.42,19.7,-23.43
 MagicSea LB,['IOTA EVM'],Dexs,440072.0,1662359.0,5558264.0,59.41,6792.28,194.63
-Etherex CL,['Linea'],Dexs,430809.0,2601570.0,25417265.0,,129.67,-46.04
+Etherex CL,['Linea'],Dexs,430809.0,2918436.0,25734131.0,35.96,129.67,-46.04
 Fulcrom AMM,"['Cronos', 'ZKsync Era', 'Cronos zkEVM']",Dexs,415795.0,2006320.0,13375609.0,385.66,267.92,320.87
 Alien Base V2,['Base'],Dexs,379954.0,2920671.0,10464211.0,8.9,80.78,-28.92
 Prism DEX,['MegaETH'],Dexs,371396.0,7750723.0,42115299.0,-44.64,-39.24,343.4
@@ -242,7 +242,7 @@ Aborean AMM,['Abstract'],Dexs,139996.0,1279170.0,5678695.0,1.69,36.3,-56.15
 Myriad Markets,"['Abstract', 'Linea', 'BSC']",Prediction Market,127817.0,924131.0,3462384.0,55.52,18.45,40.37
 Lynex V2,['Linea'],Dexs,125608.0,1135530.0,4189174.0,-23.49,160.84,-23.87
 DFlow Prediction Market,['Solana'],Interface,125003.0,230671.0,951213.0,588.34,433.9,17382.94
-KrokoSwap V3,['Kasplex'],Dexs,122479.0,877425.0,1617695.0,-4.59,46.5,
+KrokoSwap V3,['Kasplex'],Dexs,122479.0,877425.0,1655993.0,-4.59,46.5,
 Ellipsis Finance,['BSC'],Dexs,118727.0,511664.0,1424654.0,-6.29,1132.25,15024.46
 MetaMask Card,"['Linea', 'Solana', 'Base']",Crypto Card Issuer,115042.0,856793.0,4751945.0,-6.54,-5.89,-26.6
 SectorOne DLMM,['MegaETH'],Dexs,114402.0,707136.0,2630400.0,-32.99,150.74,2575.44
@@ -404,9 +404,9 @@ Rooster Protocol V1,"['Plume (Deprecated)', 'Plume Mainnet']",Dexs,7481.0,31619.
 Nad.fun,['Monad'],Launchpad,7444.0,82597.0,966667.0,-49.87,-27.43,-89.65
 Worm,['Solana'],Prediction Market,7265.0,110820.0,174490.0,1863.51,-25.34,
 FrenFlow,['Polygon'],Prediction Market,7200.0,104010.0,112752.0,-57.8,182.24,1614.29
-Pharaoh V3 Legacy,['Avalanche'],Dexs,6984.0,82316.0,441660.0,,32.35,-31.59
+Pharaoh V3 Legacy,['Avalanche'],Dexs,6984.0,99462.0,458806.0,-59.27,32.35,-31.59
 Somnia Exchange,['Somnia'],Dexs,6849.0,33491.0,142051.0,-19.94,106.36,42.54
-Etherex Legacy,['Linea'],Dexs,6414.0,78634.0,431856.0,,12.37,-51.34
+Etherex Legacy,['Linea'],Dexs,6414.0,79246.0,432468.0,948.04,12.37,-51.34
 TopStrike,['MegaETH'],Gaming,6406.0,185953.0,652176.0,-12.84,-78.86,167.36
 Elexium,['Alephium'],Dexs,6391.0,25400.0,68998.0,-49.52,622.96,13.7
 Kokonut Swap,"['Kaia', 'Polygon zkEVM', 'Base']",Dexs,6026.0,23086.0,31119.0,449.32,4055.86,2217.69
