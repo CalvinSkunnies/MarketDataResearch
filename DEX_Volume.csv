@@ -349,7 +349,7 @@ THENA V1,['BSC'],Dexs,17711.0,91459.0,3648721.0,41.69,31.17,6.7
 BEX,['Berachain'],Dexs,17570.0,159105.0,1014228.0,-2.02,-12.98,5.91
 Demex AMM,['Carbon'],Dexs,17135.0,18233.0,28488.0,166.03,3347.69,
 ZealousSwap,"['Igra', 'Kasplex']",Dexs,17016.0,99439.0,607856.0,-9.79,-39.61,-38.1
-BrownFi V3,"['Hyperliquid L1', 'Berachain']",Dexs,16991.0,86394.0,99743.0,2.17,1217.13,
+BrownFi V3,"['Berachain', 'Hyperliquid L1']",Dexs,16991.0,86394.0,99743.0,2.17,1217.13,
 Sologenic,['XRPL'],Dexs,16581.0,71472.0,396259.0,-53.71,260.77,1362.17
 BaseX,['Base'],Dexs,16559.0,84946.0,719591.0,141.42,-29.07,-27.17
 TopStrike,['MegaETH'],Gaming,16488.0,160436.0,373073.0,19.85,-50.65,10.72
@@ -715,7 +715,7 @@ SatoshiCoreSwap,['CORE'],Dexs,0.0,0.0,0.0,,,
 HiveSwap V3,['MAP Protocol'],Dexs,0.0,5214.0,9064.0,,,-100.0
 MDEX,"['BSC', 'Heco', 'Bittorrent']",Dexs,0.0,12.0,22148.0,-100.0,-100.0,-100.0
 Xena Finance,['Base'],Derivatives,0.0,0.0,0.0,,,
-Monocerus,"['Manta', 'Avalanche']",Dexs,0.0,0.0,0.0,,,
+Monocerus,"['Avalanche', 'Manta']",Dexs,0.0,0.0,0.0,,,
 Garden,"['Ethereum', 'Bitcoin', 'Arbitrum', 'Base', 'Unichain', 'Berachain', 'Starknet', 'Hyperliquid L1', 'Corn', 'Sui', 'Solana', 'BSC', 'Monad']",Cross Chain Bridge,0.0,0.0,254030.0,,,
 Horiza,['Arbitrum'],Dexs,0.0,0.0,289.0,,,-100.0
 ICDex,['ICP'],Dexs,0.0,1393.0,6803.0,-100.0,-100.0,-100.0
@@ -845,7 +845,7 @@ swap.coffee,['TON'],DEX Aggregator,0.0,0.0,0.0,,,
 CurrentX V3,['MegaETH'],Dexs,0.0,0.0,0.0,,,
 FeeFree,"['Zora', 'Base', 'Scroll']",Dexs,0.0,0.0,0.0,,,
 Nuri Legacy,['Scroll'],Dexs,0.0,20.0,140.0,-100.0,-100.0,-100.0
-Copump,"['Sonic', 'Scroll', 'Soneium', 'Sophon', 'Celo', 'Taiko', 'Linea', 'CORE', 'Morph']",Launchpad,0.0,0.0,0.0,,,
+Copump,"['Soneium', 'Scroll', 'Sonic', 'Linea', 'Celo', 'Sophon', 'Taiko', 'CORE', 'Morph']",Launchpad,0.0,0.0,0.0,,,
 Razor DEX,['Movement'],Dexs,0.0,0.0,0.0,,,
 PlunderSwap V2,['Zilliqa'],Dexs,0.0,0.0,0.0,,,
 ChimpX AI DEX,['Linea'],Dexs,0.0,9.0,107.0,,,
@@ -919,7 +919,7 @@ CherrySwap,['OKTChain'],Dexs,0.0,0.0,0.0,,,
 YourGrails,['Avalanche'],Physical TCG,0.0,45300.0,202080.0,,,
 Sablier Legacy,['Ethereum'],Payments,0.0,1098.0,1098.0,-100.0,,
 Durianfun AMM,['KUB'],Dexs,0.0,0.0,0.0,,,
-Napier,"['Avalanche', 'Mantle', 'OP Mainnet', 'Polygon', 'Hyperliquid L1', 'BSC', 'Base', 'Arbitrum', 'Sonic', 'Fraxtal', 'Plume Mainnet', 'Ethereum']",Yield,0.0,0.0,0.0,,,
+Napier,"['Mantle', 'Avalanche', 'OP Mainnet', 'Hyperliquid L1', 'Polygon', 'BSC', 'Base', 'Sonic', 'Fraxtal', 'Arbitrum', 'Plume Mainnet', 'Ethereum']",Yield,0.0,0.0,0.0,,,
 Soroswap,['Stellar'],Dexs,0.0,0.0,0.0,,,-100.0
 KyberSwap Classic,"['Ethereum', 'Polygon', 'BSC', 'Avalanche', 'Fantom', 'Cronos', 'Arbitrum', 'Aurora', 'OP Mainnet', 'ZKsync Era', 'Linea', 'Scroll']",Dexs,,,,,,
 Shell Protocol,['Arbitrum'],Dexs,,,,,,
