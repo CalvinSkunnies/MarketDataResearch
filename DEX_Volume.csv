@@ -17,7 +17,7 @@ Curve DEX,"['Ethereum', 'OP Mainnet', 'Gnosis', 'Avalanche', 'Polygon', 'Arbitru
 Tessera V,"['Solana', 'Base', 'BSC']",Dexs,90205632.0,532628899.0,2882034742.0,-8.82,40.62,90.12
 Flashnet,['Spark'],Dexs,86661105.0,516565814.0,2613965881.0,20.8,7.64,3.93
 Polymarket International,['Polygon'],Prediction Market,85967125.0,838636014.0,4671809301.0,-40.78,-42.59,-44.85
-NEAR Intents,['Near'],Bridge,85254901.0,539767674.0,2149299897.0,-14.75,6.5,-4.08
+NEAR Intents,['Near'],Cross Chain Bridge,85254901.0,539767674.0,2149299897.0,-14.75,6.5,-4.08
 Project X,['Hyperliquid L1'],Dexs,82995495.0,334712534.0,2699259124.0,41.02,62.78,-58.44
 Raydium AMM,['Solana'],Dexs,68930742.0,483689468.0,3429839560.0,-5.26,-19.13,-42.71
 Uniswap V2,"['Ethereum', 'Arbitrum', 'Polygon', 'Base', 'OP Mainnet', 'BSC', 'Avalanche', 'Zora', 'Blast', 'Unichain', 'Monad', 'X Layer', 'Tempo', 'Robinhood Chain']",Dexs,63408302.0,1151229947.0,1648960742.0,-19.65,-61.17,212.28
@@ -83,7 +83,6 @@ Tokenlon AMM,['Ethereum'],Dexs,6476489.0,33947668.0,123816899.0,1.03,117.57,265.
 Hashflow,"['BSC', 'OP Mainnet', 'Ethereum', 'Avalanche', 'Polygon', 'Arbitrum', 'Solana', 'Base']",DEX Aggregator,6264415.0,50677292.0,130714731.0,39.16,-29.45,-6.86
 HyperSwap V3,['Hyperliquid L1'],Dexs,6154588.0,24973227.0,173361926.0,23.53,79.56,-52.61
 PredictStreet,['ADI'],Prediction Market,6092678.0,49807750.0,78980088.0,-50.47,-8.05,755.25
-Flap sh,"['Monad', 'X Layer', 'BSC', 'Robinhood Chain']",Launchpad,6055911.0,52378293.0,505701823.0,-32.34,,35.95
 TanX.fi,['Ethereum'],Dexs,6033291.0,42291339.0,180309720.0,-2.43,-8.2,-5.41
 Lightspeed,['Canton'],Dexs,5451370.0,33859597.0,102162353.0,-3.03,20.47,
 Collector Crypt,['Solana'],Physical TCG,5369431.0,36643809.0,195370318.0,-25.11,-0.04,-34.17
@@ -96,6 +95,7 @@ Kittenswap Algebra,['Hyperliquid L1'],Dexs,4544747.0,31612095.0,126949658.0,16.0
 Nexo Card,"['Base', 'Avalanche', 'OP Mainnet', 'Arbitrum', 'Ethereum', 'Polygon']",Crypto Card Issuer,4454040.0,14882088.0,192477354.0,6.3,51.75,26.1
 Camelot V3,"['Arbitrum', 'ApeChain', 'Gravity by Galxe', 'Rari', 'ReyaChain', 'Gnosis', 'Sanko', 'Superposition', 'Plume Mainnet']",Dexs,4419291.0,36290231.0,151995300.0,-40.83,-14.91,-26.74
 Deriverse,['Solana'],Dexs,4375357.0,25629442.0,55599836.0,35.75,32.17,237.4
+Flap sh,"['Monad', 'X Layer', 'BSC', 'Robinhood Chain']",Launchpad,4338670.0,52378293.0,505701823.0,-51.53,,-2.6
 Fulcrom AMM,"['Cronos', 'ZKsync Era', 'Cronos zkEVM']",Dexs,4124395.0,5234252.0,14324515.0,2409.69,1211.99,970.66
 Blackhole CLMM,['Avalanche'],Dexs,3792037.0,30666126.0,224874403.0,-19.87,-47.92,-72.03
 Courtyard,['Polygon'],Physical TCG,3789334.0,20954613.0,98162583.0,19.06,-3.27,-19.4
@@ -398,7 +398,7 @@ Raindex,"['Polygon', 'Ethereum', 'Arbitrum', 'Base', 'BSC', 'Flare', 'Linea']",D
 HARD Swap,['Kava'],Dexs,14520.0,69205.0,732949.0,-17.15,89.31,-72.58
 Swop,"['Waves', 'Unit Zero']",Dexs,13934.0,102772.0,326249.0,35.53,44.54,29.76
 MooniSwap,['Ethereum'],Dexs,13014.0,17935.0,12316306.0,284.57,570.82,-99.2
-Myriad Markets,"['Abstract', 'Linea', 'BSC']",Prediction Market,12881.0,153216.0,938482.0,-73.19,-61.43,-74.85
+Myriad Markets,"['Abstract', 'Linea', 'BSC']",Prediction Market,12968.0,153216.0,938482.0,-73.01,-61.17,-74.68
 Bancor V3,['Ethereum'],Dexs,12723.0,177821.0,1194983.0,-70.61,150.9,40.4
 bopAMM,['Ethereum'],Dexs,12665.0,104258.0,1488495.0,-66.85,-90.54,-93.44
 YeNo,['Polygon'],Interface,12662.0,157186.0,194743.0,-39.96,-23.22,
