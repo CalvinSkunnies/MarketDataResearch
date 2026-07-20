@@ -100,18 +100,18 @@ Balancer V3,"['Ethereum', 'Gnosis', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Base
 Balancer V2,"['Ethereum', 'Polygon', 'Arbitrum', 'Gnosis', 'Avalanche', 'Polygon zkEVM', 'Base', 'Mode', 'Fraxtal', 'OP Mainnet']",Dexs,3990536.0,38617010.0,127950420.0,-21.55,-25.3,411.78
 Karta Card,['Base'],Crypto Card Issuer,3987068.0,16987850.0,49963063.0,58.54,156.83,149.31
 SX Bet,['SX Rollup'],Prediction Market,3697912.0,19552114.0,158156329.0,-7.95,6.78,-32.36
-Flap sh,"['Monad', 'X Layer', 'BSC', 'Robinhood Chain']",Launchpad,3651515.0,58001944.0,206403185.0,-24.81,-62.13,-71.25
 Courtyard,['Polygon'],Physical TCG,3603068.0,25749325.0,99093620.0,-11.59,45.74,20.47
 Doma DEX V3,['Doma'],Dexs,3599035.0,16526888.0,76008235.0,4.59,425.25,553.72
 Collector Crypt,['Solana'],Physical TCG,3563150.0,42110257.0,188292739.0,-31.8,7.43,-44.79
 Lighter Spot,"['zkLighter', 'Robinhood Chain']",Dexs,3163077.0,40377270.0,221191741.0,41.52,-49.86,-26.79
+Flap sh,"['Monad', 'X Layer', 'BSC', 'Robinhood Chain']",Launchpad,3143850.0,58001944.0,206403185.0,-35.27,-67.39,-75.24
 Arcus Spot,['Robinhood Chain'],Dexs,2997076.0,22256618.0,27959374.0,67.12,157.43,
 Trojan,['Solana'],Telegram Bot,2755608.0,18076649.0,104891659.0,-9.85,60.99,-12.6
 Gate Predictions,['Polygon'],Interface,2712770.0,17591387.0,44413748.0,-15.75,-20.09,
 Futarchy AMM,['Solana'],Dexs,2638036.0,10846181.0,22341685.0,77.81,1131.61,370.11
 EtherFi Cash Liquid,"['Scroll', 'OP Mainnet']",Crypto Card Issuer,2621327.0,23851638.0,93694889.0,0.07,-49.24,-5.94
 Hybra V4,['Hyperliquid L1'],Dexs,2523741.0,13435645.0,71563787.0,65.81,153.8,70.93
-up v3,['Robinhood Chain'],Dexs,2508115.0,9932064.0,10933354.0,10.0,1316.33,
+up v3,['Robinhood Chain'],Dexs,2508115.0,7663961.0,8665251.0,10.0,1316.33,
 Joe V2.2,"['Avalanche', 'Arbitrum', 'Monad']",Dexs,2449275.0,17301138.0,183117869.0,64.04,8.09,-82.13
 STON.fi,['TON'],Dexs,2323464.0,21989176.0,104281588.0,72.78,11.11,-24.9
 Virtuals Protocol,"['Robinhood Chain', 'Base']",AI Agents,2165447.0,24816092.0,24816092.0,-36.49,,
@@ -325,7 +325,7 @@ Nad.fun V1,['Monad'],Launchpad,33923.0,497729.0,3232298.0,-60.33,-10.2,-34.3
 Sovryn Dex,"['Rootstock', 'BOB']",Dexs,33891.0,239715.0,1532725.0,474.91,335.67,-32.26
 up v2,['Robinhood Chain'],Dexs,33839.0,160298.0,160298.0,-44.64,,
 Ready Card,['Starknet'],Crypto Card Issuer,33163.0,252927.0,887737.0,4.32,31.42,
-Myriad Markets,"['Abstract', 'Linea', 'BSC']",Prediction Market,31549.0,152762.0,882726.0,275.72,207.65,24.93
+Myriad Markets,"['Abstract', 'Linea', 'BSC']",Prediction Market,31431.0,152762.0,882726.0,274.31,206.49,24.46
 Etherex CL,['Linea'],Dexs,30599.0,3703096.0,6457293.0,-30.59,-52.05,-92.13
 KlaySwap V1,['Kaia'],Dexs,30566.0,49859.0,320134.0,431.31,348.31,183.86
 Stabull Finance,"['Ethereum', 'Polygon', 'Base']",Dexs,30481.0,107926.0,471235.0,735.32,1538.76,-13.6
@@ -618,7 +618,7 @@ LuaSwap,"['Ethereum', 'Viction']",Dexs,229.0,1092.0,20279.0,387.23,-98.42,4480.0
 Vaulta RAM,['Vaulta'],Dexs,227.0,599.0,8328.0,467.5,415.91,-63.45
 Gravis Finance,"['BSC', 'Polygon', 'Heco']",Dexs,220.0,1187.0,6690.0,358.33,58.27,10.55
 Bean Exchange,['Monad'],Dexs,217.0,804.0,5286.0,317.31,30.72,301.85
-RobinFun,['Robinhood Chain'],Launchpad,215.0,125073.0,208892.0,-90.35,,
+RobinFun,['Robinhood Chain'],Launchpad,215.0,125073.0,188366.0,-90.35,,
 Liquidiction,['Hyperliquid L1'],Interface,215.0,11045.0,52828.0,0.0,-80.7,-72.92
 Hermes Trade,['Monad'],Prediction Market,209.0,99755.0,121869.0,-97.65,,
 SwapMode V2,['Mode'],Dexs,202.0,2751.0,9030.0,126.97,-69.16,10.38
@@ -812,7 +812,7 @@ VanillaSwap V3,['DeFiChain EVM'],Dexs,0.0,63.0,1813.0,-100.0,-100.0,
 Cropper CLMM,['Solana'],Dexs,0.0,0.0,1.0,,,
 Mangrove,"['Blast', 'Arbitrum']",Dexs,0.0,0.0,0.0,,,
 AuraSwap,['Polygon'],Dexs,0.0,0.0,0.0,,,
-Whales Market,"['Berachain', 'Scroll', 'Hyperliquid L1', 'ZKsync Era', 'Mode', 'Linea', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Base', 'Ethereum', 'BSC', 'Abstract', 'Taiko', 'Solana']",OTC Marketplace,0.0,0.0,15219.0,,,
+Whales Market,"['Berachain', 'Scroll', 'Hyperliquid L1', 'ZKsync Era', 'Mode', 'Linea', 'Arbitrum', 'OP Mainnet', 'Avalanche', 'Base', 'Ethereum', 'BSC', 'Abstract', 'Taiko', 'Solana']",OTC Marketplace,0.0,0.0,0.0,,,
 Lotto Run,['Aptos'],Yield Lottery,0.0,0.0,0.0,,,
 Orbit Finance,['Solana'],Dexs,0.0,0.0,0.0,,,
 QIEDex,['QIE'],Dexs,0.0,68.0,29750.0,,,-100.0
